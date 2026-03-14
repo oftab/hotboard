@@ -1,4 +1,4 @@
-const DATA_URL = './data/hotboard.json';
+const DATA_URL = './hotboard.json';
 
 let hotData = {
     version: '',
