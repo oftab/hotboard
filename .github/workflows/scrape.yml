@@ -32,7 +32,9 @@ jobs:
           pip install -r requirements.txt
       
       - name: Run scraper
-        run: python src/main.py -o data/hotboard.json -m 100
+        run: |
+          export PYTHONPATH=$PYTHONPATH:$(pwd)
+          python src/main.py -o data/hotboard.json -m 100
         env:
           LOG_LEVEL: INFO
       
