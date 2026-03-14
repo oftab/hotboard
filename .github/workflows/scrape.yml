@@ -2,7 +2,7 @@ name: Scrape Hot Topics
 
 on:
   schedule:
-    - cron: '0 0,6,12,18 * * *'
+    - cron: '*/30 * * * *'  # 每30分钟运行一次
   workflow_dispatch:
 
 env:
@@ -10,6 +10,7 @@ env:
 
 permissions:
   contents: write
+  pull-requests: none
 
 jobs:
   scrape:
@@ -21,8 +22,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
-          fetch-depth: 0
           persist-credentials: false
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,20 +43,8 @@ jobs:
         env:
           LOG_LEVEL: INFO
       
-      - name: Verify output
-        run: |
-          if [ ! -f data/hotboard.json ]; then
-            echo "Error: hotboard.json not created"
-            exit 1
-          fi
-          echo "Items count: $(jq '.items | length' data/hotboard.json)"
-
       - name: Commit and push
-        run: |
-          git config --local user.email "bot@github.com"
-          git config --local user.name "HotBoard Bot"
-          git config --global pull.rebase false
-          git pull origin main || true
-          git add data/hotboard.json
-          git commit -m "Update hotboard data $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update hotboard data"
+          file_pattern: "data/hotboard.json"
