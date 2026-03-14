@@ -49,14 +49,12 @@ jobs:
           script: |
             const fs = require('fs');
             const path = require('path');
-            const github = context.github;
             const { owner, repo } = context.repo;
             
             async function updateFile(filePath, message) {
               const fileContent = fs.readFileSync(path.join(process.cwd(), filePath), 'utf8');
               const base64Content = Buffer.from(fileContent).toString('base64');
               
-              // Get current file SHA
               try {
                 const { data: fileData } = await github.rest.repos.getContent({
                   owner,
