@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 async def main():
     parser = argparse.ArgumentParser(description="HotBoard - World Hot Topics Aggregator")
-    parser.add_argument("--output", "-o", default="data/hotboard.json", help="Output file path")
+    parser.add_argument("--output", "-o", default="hotboard.json", help="Output file path")
     parser.add_argument("--max-items", "-m", type=int, default=100, help="Maximum number of items")
     parser.add_argument("--log-level", "-l", default="INFO", help="Log level")
     args = parser.parse_args()
