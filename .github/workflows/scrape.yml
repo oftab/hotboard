@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: '0 0,6,12,18 * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -25,6 +22,7 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
+          persist-credentials: false
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -51,12 +49,13 @@ jobs:
             exit 1
           fi
           echo "Items count: $(jq '.items | length' data/hotboard.json)"
-          echo "Sources: $(jq '.sources' data/hotboard.json)"
 
       - name: Commit and push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update hotboard data"
-          file_pattern: "data/hotboard.json"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "HotBoard Bot"
+          git config --global pull.rebase false
+          git pull origin main || true
+          git add data/hotboard.json
+          git commit -m "Update hotboard data $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git push
