@@ -36,7 +36,7 @@ jobs:
       - name: Run scraper
         run: |
           export PYTHONPATH=$PYTHONPATH:$(pwd)
-          python src/main.py -o hotboard.json -m 100
+          python src/main.py -o hotboard.json --history-dir history
         env:
           LOG_LEVEL: INFO
       

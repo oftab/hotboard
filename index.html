@@ -11,63 +11,53 @@
 <body>
     <header class="header">
         <div class="container">
-            <div class="logo">
-                <span class="logo-icon">🔥</span>
-                <h1>HotBoard</h1>
-            </div>
-            <p class="tagline">世界热点，一页尽览</p>
-            <div class="header-meta">
-                <span id="last-updated">加载中...</span>
-                <span class="divider">|</span>
-                <span id="item-count">0</span> 条热点
-                <span class="divider">|</span>
-                <span id="source-count">0</span> 个平台
+            <div class="header-content">
+                <div class="logo">
+                    <span class="logo-icon">🔥</span>
+                    <h1>HotBoard</h1>
+                </div>
+                <div class="header-stats">
+                    <div class="stat-item">
+                        <span class="stat-value" id="item-count">0</span>
+                        <span class="stat-label">热点</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="platform-count">0</span>
+                        <span class="stat-label">平台</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="last-updated">--</span>
+                        <span class="stat-label">更新</span>
+                    </div>
+                </div>
             </div>
         </div>
     </header>
 
+    <nav class="nav-bar">
+        <div class="container">
+            <div class="nav-content">
+                <div class="nav-filters">
+                    <select id="date-filter" class="nav-select">
+                        <option value="today">今天</option>
+                    </select>
+                    <select id="category-filter" class="nav-select">
+                        <option value="all">全部分类</option>
+                        <option value="tech">技术</option>
+                        <option value="social">社交</option>
+                        <option value="news">新闻</option>
+                        <option value="entertainment">娱乐</option>
+                        <option value="finance">财经</option>
+                        <option value="health">健康</option>
+                    </select>
+                </div>
+                <button id="refresh-btn" class="refresh-btn">🔄 刷新</button>
+            </div>
+        </div>
+    </nav>
+
     <main class="main">
         <div class="container">
-            <div class="filters">
-                <div class="filter-row">
-                    <div class="filter-group search-group">
-                        <input type="text" id="search-input" placeholder="搜索热点..." class="search-input">
-                    </div>
-                    <div class="filter-group">
-                        <label>日期:</label>
-                        <select id="date-filter">
-                            <option value="today">今天</option>
-                        </select>
-                    </div>
-                    <div class="filter-group">
-                        <label>平台:</label>
-                        <select id="source-filter">
-                            <option value="all">全部平台</option>
-                        </select>
-                    </div>
-                    <div class="filter-group">
-                        <label>分类:</label>
-                        <select id="category-filter">
-                            <option value="all">全部分类</option>
-                            <option value="tech">技术</option>
-                            <option value="social">社交</option>
-                            <option value="news">新闻</option>
-                            <option value="entertainment">娱乐</option>
-                            <option value="finance">财经</option>
-                            <option value="health">健康</option>
-                        </select>
-                    </div>
-                    <div class="filter-group">
-                        <label>排序:</label>
-                        <select id="sort-filter">
-                            <option value="score">热度</option>
-                            <option value="time">时间</option>
-                        </select>
-                    </div>
-                    <button id="refresh-btn" class="refresh-btn">🔄 刷新</button>
-                </div>
-            </div>
-
             <div id="loading" class="loading">
                 <div class="spinner"></div>
                 <p>正在加载热点数据...</p>
@@ -77,14 +67,14 @@
                 <p>加载失败，请稍后重试</p>
             </div>
 
-            <div id="hot-list" class="hot-list"></div>
+            <div id="platform-container" class="platform-container"></div>
         </div>
     </main>
 
     <footer class="footer">
         <div class="container">
-            <p>数据来源: Hacker News, GitHub, Reddit, 微博, 知乎, B站, 抖音, 快手, 小红书, 豆瓣, 贴吧, 今日头条, 百度, 澎湃新闻, 网易, 新浪, 搜狐, 凤凰网, Product Hunt, Dev.to, Digg, 微信, V2EX, 掘金, 36氪, 虎嗅, IT之家, 少数派, 酷安, 中关村在线, 蓝鲸财经, 钛媒体, 华尔街见闻, 财新网, 丁香医生, InfoQ, 思否, CSDN, 开源中国, RSS</p>
-            <p>由 <a href="https://github.com/oftab/hotboard" target="_blank">HotBoard</a> 自动抓取更新 · 每30分钟更新 · 支持 42 个平台</p>
+            <p>支持 42 个平台 · 每30分钟自动更新</p>
+            <p><a href="https://github.com/oftab/hotboard" target="_blank">GitHub</a></p>
         </div>
     </footer>
 

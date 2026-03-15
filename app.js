@@ -1,5 +1,6 @@
 const DATA_URL = './hotboard.json';
 const HISTORY_URL = './history/';
+const DEFAULT_VISIBLE_COUNT = 10;
 
 let hotData = {
     version: '',
@@ -8,22 +9,22 @@ let hotData = {
     sources: []
 };
 
-let filteredItems = [];
-let allSources = new Set();
+let platformGroups = {};
+let expandedPlatforms = new Set();
 let currentDate = 'today';
+let currentCategory = 'all';
 
 async function loadData() {
     const loading = document.getElementById('loading');
     const error = document.getElementById('error');
-    const hotList = document.getElementById('hot-list');
+    const container = document.getElementById('platform-container');
 
     loading.classList.remove('hidden');
     error.classList.add('hidden');
-    hotList.innerHTML = '';
+    container.innerHTML = '';
 
     try {
         let url = DATA_URL;
-        
         if (currentDate !== 'today') {
             url = `${HISTORY_URL}${currentDate}.json`;
         }
@@ -33,13 +34,11 @@ async function loadData() {
             throw new Error('Failed to fetch data');
         }
         hotData = await response.json();
-        filteredItems = [...hotData.items];
         
-        allSources = new Set(hotData.items.map(item => item.source));
-        
+        groupByPlatform();
         updateMeta();
         populateFilters();
-        renderItems();
+        renderPlatforms();
     } catch (err) {
         console.error('Error loading data:', err);
         error.classList.remove('hidden');
@@ -48,48 +47,47 @@ async function loadData() {
     }
 }
 
+function groupByPlatform() {
+    platformGroups = {};
+    
+    hotData.items.forEach(item => {
+        if (currentCategory !== 'all' && item.category !== currentCategory) {
+            return;
+        }
+        
+        const source = item.source;
+        if (!platformGroups[source]) {
+            platformGroups[source] = {
+                items: [],
+                category: item.category
+            };
+        }
+        platformGroups[source].items.push(item);
+    });
+    
+    Object.keys(platformGroups).forEach(source => {
+        platformGroups[source].items.sort((a, b) => b.hot_score - a.hot_score);
+    });
+}
+
 function updateMeta() {
     const lastUpdated = document.getElementById('last-updated');
     const itemCount = document.getElementById('item-count');
+    const platformCount = document.getElementById('platform-count');
 
     const date = new Date(hotData.generatedAt);
     const formatted = date.toLocaleString('zh-CN', {
-        year: 'numeric',
         month: '2-digit',
         day: '2-digit',
         hour: '2-digit',
-        minute: '2-digit',
-        timeZoneName: 'short'
+        minute: '2-digit'
     });
-    lastUpdated.textContent = `更新于 ${formatted}`;
+    lastUpdated.textContent = formatted;
     itemCount.textContent = hotData.items.length;
-    
-    document.getElementById('source-count').textContent = allSources.size;
+    platformCount.textContent = Object.keys(platformGroups).length;
 }
 
 function populateFilters() {
-    const sourceFilter = document.getElementById('source-filter');
-    const currentValue = sourceFilter.value;
-
-    sourceFilter.innerHTML = '<option value="all">全部平台</option>';
-    
-    const sortedSources = Array.from(allSources).sort((a, b) => {
-        return getSourceName(a).localeCompare(getSourceName(b), 'zh-CN');
-    });
-    
-    sortedSources.forEach(source => {
-        const option = document.createElement('option');
-        option.value = source;
-        option.textContent = getSourceName(source);
-        sourceFilter.appendChild(option);
-    });
-
-    sourceFilter.value = currentValue || 'all';
-    
-    populateDateFilter();
-}
-
-function populateDateFilter() {
     const dateFilter = document.getElementById('date-filter');
     const today = new Date();
     
@@ -99,7 +97,7 @@ function populateDateFilter() {
         const date = new Date(today);
         date.setDate(date.getDate() - i);
         const dateStr = date.toISOString().split('T')[0];
-        const displayStr = date.toLocaleDateString('zh-CN', { month: 'long', day: 'numeric' });
+        const displayStr = date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
         
         const option = document.createElement('option');
         option.value = dateStr;
@@ -121,7 +119,7 @@ function getSourceName(source) {
         'douyin': '抖音',
         'kuaishou': '快手',
         'xiaohongshu': '小红书',
-        'douban': '豆瓣',
+        'douban': '豆瓣电影',
         'tieba': '百度贴吧',
         'toutiao': '今日头条',
         'baidu': '百度热搜',
@@ -151,7 +149,7 @@ function getSourceName(source) {
         'segmentfault': '思否',
         'csdn': 'CSDN',
         'oschina': '开源中国',
-        'rss': 'RSS'
+        'rss': 'RSS订阅'
     };
     return names[source] || source;
 }
@@ -214,23 +212,34 @@ function getCategoryName(category) {
         'health': '健康',
         'general': '综合'
     };
-    return names[category] || category;
+    return names[category] || '其他';
 }
 
 function getCategoryColor(category) {
     const colors = {
-        'tech': '#3b82f6',
-        'social': '#ec4899',
-        'news': '#ef4444',
-        'entertainment': '#f59e0b',
-        'finance': '#10b981',
-        'health': '#06b6d4',
-        'general': '#6b7280'
+        'tech': { bg: '#3b82f620', text: '#3b82f6', border: '#3b82f650' },
+        'social': { bg: '#ec489920', text: '#ec4899', border: '#ec489950' },
+        'news': { bg: '#ef444420', text: '#ef4444', border: '#ef444450' },
+        'entertainment': { bg: '#f59e0b20', text: '#f59e0b', border: '#f59e0b50' },
+        'finance': { bg: '#10b98120', text: '#10b981', border: '#10b98150' },
+        'health': { bg: '#06b6d420', text: '#06b6d4', border: '#06b6d450' },
+        'general': { bg: '#6b728020', text: '#6b7280', border: '#6b728050' }
     };
-    return colors[category] || '#6b7280';
+    return colors[category] || colors['general'];
+}
+
+function formatScore(score) {
+    if (score >= 100000000) {
+        return (score / 100000000).toFixed(1) + '亿';
+    }
+    if (score >= 10000) {
+        return (score / 10000).toFixed(1) + '万';
+    }
+    return Math.round(score).toLocaleString();
 }
 
 function formatTime(dateStr) {
+    if (!dateStr) return '';
     const date = new Date(dateStr);
     const now = new Date();
     const diff = now - date;
@@ -247,60 +256,6 @@ function formatTime(dateStr) {
     return date.toLocaleDateString('zh-CN');
 }
 
-function formatScore(score) {
-    if (score >= 100000000) {
-        return (score / 100000000).toFixed(1) + '亿';
-    }
-    if (score >= 10000) {
-        return (score / 10000).toFixed(1) + '万';
-    }
-    return Math.round(score).toLocaleString();
-}
-
-function renderItems() {
-    const hotList = document.getElementById('hot-list');
-    hotList.innerHTML = '';
-
-    if (filteredItems.length === 0) {
-        hotList.innerHTML = '<p style="text-align: center; color: var(--text-secondary); padding: 40px;">暂无数据</p>';
-        return;
-    }
-
-    filteredItems.forEach((item, index) => {
-        const card = document.createElement('div');
-        card.className = 'hot-item';
-        
-        const score = Math.round(item.hot_score);
-        const categoryColor = getCategoryColor(item.category);
-        
-        card.innerHTML = `
-            <span class="hot-rank">#${index + 1}</span>
-            <div class="hot-header">
-                <span class="hot-source">
-                    <img src="${getSourceIcon(item.source)}" alt="" onerror="this.style.display='none'">
-                    ${getSourceName(item.source)}
-                </span>
-                <span class="hot-category" style="background-color: ${categoryColor}20; color: ${categoryColor}">${getCategoryName(item.category)}</span>
-            </div>
-            <h3 class="hot-title">
-                <a href="${item.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
-            </h3>
-            <p class="hot-summary">${escapeHtml(item.summary)}</p>
-            <div class="hot-meta">
-                <span class="hot-score">🔥 ${formatScore(score)}</span>
-                <span>📅 ${formatTime(item.published_at)}</span>
-            </div>
-            ${item.tags && item.tags.length > 0 ? `
-                <div class="hot-tags">
-                    ${item.tags.slice(0, 3).map(tag => `<span class="hot-tag">${escapeHtml(tag)}</span>`).join('')}
-                </div>
-            ` : ''}
-        `;
-        
-        hotList.appendChild(card);
-    });
-}
-
 function escapeHtml(text) {
     if (!text) return '';
     const div = document.createElement('div');
@@ -308,42 +263,89 @@ function escapeHtml(text) {
     return div.innerHTML;
 }
 
-function applyFilters() {
-    const source = document.getElementById('source-filter').value;
-    const category = document.getElementById('category-filter').value;
-    const sort = document.getElementById('sort-filter').value;
-    const searchTerm = document.getElementById('search-input').value.toLowerCase();
+function renderPlatforms() {
+    const container = document.getElementById('platform-container');
+    container.innerHTML = '';
 
-    filteredItems = hotData.items.filter(item => {
-        if (source !== 'all' && item.source !== source) return false;
-        if (category !== 'all' && item.category !== category) return false;
-        if (searchTerm) {
-            const titleMatch = (item.title || '').toLowerCase().includes(searchTerm);
-            const summaryMatch = (item.summary || '').toLowerCase().includes(searchTerm);
-            if (!titleMatch && !summaryMatch) return false;
-        }
-        return true;
+    const sortedPlatforms = Object.keys(platformGroups).sort((a, b) => {
+        const categoryOrder = ['tech', 'social', 'news', 'entertainment', 'finance', 'health'];
+        const catA = platformGroups[a].category;
+        const catB = platformGroups[b].category;
+        const orderA = categoryOrder.indexOf(catA);
+        const orderB = categoryOrder.indexOf(catB);
+        if (orderA !== orderB) return orderA - orderB;
+        return getSourceName(a).localeCompare(getSourceName(b), 'zh-CN');
     });
 
-    if (sort === 'score') {
-        filteredItems.sort((a, b) => b.hot_score - a.hot_score);
-    } else {
-        filteredItems.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
-    }
+    sortedPlatforms.forEach(source => {
+        const group = platformGroups[source];
+        const isExpanded = expandedPlatforms.has(source);
+        const visibleItems = isExpanded ? group.items : group.items.slice(0, DEFAULT_VISIBLE_COUNT);
+        const hasMore = group.items.length > DEFAULT_VISIBLE_COUNT;
+        const categoryColor = getCategoryColor(group.category);
 
-    renderItems();
+        const platformCard = document.createElement('div');
+        platformCard.className = 'platform-card';
+        platformCard.innerHTML = `
+            <div class="platform-header" style="border-left: 4px solid ${categoryColor.text}">
+                <div class="platform-info">
+                    <img src="${getSourceIcon(source)}" alt="" class="platform-icon" onerror="this.style.display='none'">
+                    <h2 class="platform-name">${getSourceName(source)}</h2>
+                    <span class="platform-count">${group.items.length}条</span>
+                </div>
+                <div class="platform-meta">
+                    <span class="platform-category" style="background: ${categoryColor.bg}; color: ${categoryColor.text}">${getCategoryName(group.category)}</span>
+                </div>
+            </div>
+            <div class="platform-items">
+                ${visibleItems.map((item, index) => `
+                    <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="hot-item">
+                        <span class="item-rank">${index + 1}</span>
+                        <div class="item-content">
+                            <h3 class="item-title">${escapeHtml(item.title)}</h3>
+                            <p class="item-summary">${escapeHtml(item.summary)}</p>
+                        </div>
+                        <div class="item-meta">
+                            <span class="item-score">🔥 ${formatScore(item.hot_score)}</span>
+                            <span class="item-time">${formatTime(item.published_at)}</span>
+                        </div>
+                    </a>
+                `).join('')}
+            </div>
+            ${hasMore ? `
+                <button class="show-more-btn" data-source="${source}">
+                    ${isExpanded ? '收起' : `查看更多 (${group.items.length - DEFAULT_VISIBLE_COUNT}条)`}
+                </button>
+            ` : ''}
+        `;
+        
+        container.appendChild(platformCard);
+    });
+
+    document.querySelectorAll('.show-more-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            e.preventDefault();
+            const source = btn.dataset.source;
+            if (expandedPlatforms.has(source)) {
+                expandedPlatforms.delete(source);
+            } else {
+                expandedPlatforms.add(source);
+            }
+            renderPlatforms();
+        });
+    });
 }
-
-document.getElementById('source-filter').addEventListener('change', applyFilters);
-document.getElementById('category-filter').addEventListener('change', applyFilters);
-document.getElementById('sort-filter').addEventListener('change', applyFilters);
 
 document.getElementById('date-filter').addEventListener('change', (e) => {
     currentDate = e.target.value;
     loadData();
 });
 
-document.getElementById('search-input').addEventListener('input', applyFilters);
+document.getElementById('category-filter').addEventListener('change', (e) => {
+    currentCategory = e.target.value;
+    groupByPlatform();
+    renderPlatforms();
+});
 
 document.getElementById('refresh-btn').addEventListener('click', () => {
     currentDate = 'today';

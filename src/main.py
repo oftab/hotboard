@@ -109,7 +109,7 @@ def filter_today_items(items: list) -> list:
 async def main():
     parser = argparse.ArgumentParser(description="HotBoard - World Hot Topics Aggregator")
     parser.add_argument("--output", "-o", default="hotboard.json", help="Output file path")
-    parser.add_argument("--max-items", "-m", type=int, default=100, help="Maximum number of items")
+    parser.add_argument("--max-items", "-m", type=int, default=1000, help="Maximum number of items per platform")
     parser.add_argument("--log-level", "-l", default="INFO", help="Log level")
     parser.add_argument("--history-dir", default="history", help="History directory")
     parser.add_argument("--include-history", action="store_true", help="Include historical items")
@@ -251,7 +251,7 @@ async def main():
     history = load_history(history_dir)
     logger.info(f"Loaded {len(history)} historical items")
 
-    aggregator = Aggregator(max_items=args.max_items * 3)
+    aggregator = Aggregator(max_items=args.max_items)
     all_items = aggregator.deduplicate(all_items)
     aggregator._calculate_scores(all_items)
     
