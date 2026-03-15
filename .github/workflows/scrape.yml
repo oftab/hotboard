@@ -36,7 +36,7 @@ jobs:
       - name: Run scraper
         run: |
           export PYTHONPATH=$PYTHONPATH:$(pwd)
-          python src/main.py -o hotboard.json -m 100 --history-dir history
+          python src/main.py -o hotboard.json -m 100
         env:
           LOG_LEVEL: INFO
       
@@ -44,7 +44,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add hotboard.json history/
+          git add hotboard.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update hotboard data [skip ci]"
           git push
         env:

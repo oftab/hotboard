@@ -1,79 +1,1709 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-03-14T12:00:00+00:00",
+  "generatedAt": "2026-03-15T07:39:26.943433+00:00",
   "items": [
     {
-      "id": "hn001",
-      "title": "Hacker News Top Stories - March 2026",
-      "summary": "Top tech stories from Hacker News",
-      "url": "https://news.ycombinator.com/",
-      "source": "hackernews",
-      "hot_score": 256.5,
-      "category": "tech",
-      "published_at": "2026-03-14T10:30:00+00:00",
-      "fetched_at": "2026-03-14T12:00:00+00:00",
-      "tags": ["hackernews", "tech"]
+      "title": "不该让爷爷看b站的",
+      "summary": "在当今这个AI横行的年代 我们纪录片依旧使用真实拍摄\n这是我们对这些老资历的尊重\n现如今还有更多职业和手艺正在消失..\n下一集 我们将探访另一个正在消失的职业\n“擦边主播”",
+      "url": "https://www.bilibili.com/video/BV1xuPYzcEdo",
+      "source": "bilibili",
+      "hot_score": 100.0,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.829017+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.829019+00:00",
+      "id": "700cd78e-65ee-4c72-8b70-b1920d86471d"
     },
     {
-      "id": "gh001",
-      "title": "microsoft/TypeScript - GitHub",
-      "summary": "TypeScript is a superset of JavaScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "source": "github_trending",
-      "hot_score": 98500,
-      "category": "tech",
-      "published_at": "2026-03-14T11:00:00+00:00",
-      "fetched_at": "2026-03-14T12:00:00+00:00",
-      "tags": ["github", "typescript"]
+      "title": "🐧原来大家已经不喜欢凑企鹅了吗……？🐧【番外篇】",
+      "summary": "高松灯的梦……10年以内没人能看懂这集的艺术……",
+      "url": "https://www.bilibili.com/video/BV1sowFzwEs8",
+      "source": "bilibili",
+      "hot_score": 43.01160342302781,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828304+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828306+00:00",
+      "id": "f88ef240-51c5-4a93-a3c3-4ddc3842874f"
     },
     {
-      "id": "gh002",
-      "title": "oven-sh/bun - GitHub",
-      "summary": "Incredibly fast JavaScript runtime",
-      "url": "https://github.com/oven-sh/bun",
-      "source": "github_trending",
-      "hot_score": 95200,
-      "category": "tech",
-      "published_at": "2026-03-14T11:00:00+00:00",
-      "fetched_at": "2026-03-14T12:00:00+00:00",
-      "tags": ["github", "javascript"]
+      "title": "不该奖励他的……",
+      "summary": "下期该如何整蛊高斯呢？快给我出点招！\n点赞40W找高斯挑战下一期！：）",
+      "url": "https://www.bilibili.com/video/BV1BbwFznEpm",
+      "source": "bilibili",
+      "hot_score": 41.2419903498939,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828153+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828158+00:00",
+      "id": "65287c8c-41f3-4e5d-947c-0012dcedc676"
     },
     {
-      "id": "rd001",
-      "title": "r/programming - Reddit",
-      "summary": "Programming discussions on Reddit",
-      "url": "https://www.reddit.com/r/programming/",
-      "source": "reddit",
-      "hot_score": 5780,
-      "category": "social",
-      "published_at": "2026-03-14T08:00:00+00:00",
-      "fetched_at": "2026-03-14T12:00:00+00:00",
-      "tags": ["reddit", "programming"]
+      "title": "影视飓风VS六位千万博主，躲猫猫大赛奖金10万元！",
+      "summary": "躲猫猫场地范围大升级！这次，我们来到了全球最大的小商品批发市场——义乌国际商贸城！嘉宾分为三组，分别抓捕公司的86位同事。最终嘉宾们能不能获得胜利，赢取十万元奖金？",
+      "url": "https://www.bilibili.com/video/BV1Wdc2zsEMp",
+      "source": "bilibili",
+      "hot_score": 39.95466243341261,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828094+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828098+00:00",
+      "id": "a9270e69-ae6f-450d-80ba-d07d639cbfe5"
     },
     {
-      "id": "wb001",
-      "title": "微博热搜榜",
-      "summary": "实时热搜榜",
-      "url": "https://weibo.com/hot/search",
-      "source": "weibo",
-      "hot_score": 2850000,
-      "category": "social",
-      "published_at": "2026-03-14T11:30:00+00:00",
-      "fetched_at": "2026-03-14T12:00:00+00:00",
-      "tags": ["weibo", "trending"]
+      "title": "干嘛猫的vlog（和小伙伴出来玩！主题是快乐！）",
+      "summary": "休息日和小伙伴出去玩啦~\nBGM:BV1tSptzAEJC",
+      "url": "https://www.bilibili.com/video/BV1jDcBzdErM",
+      "source": "bilibili",
+      "hot_score": 39.03584296532722,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828320+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828322+00:00",
+      "id": "7ff0f6c3-fe43-4a35-b866-e8e51426538f"
     },
     {
-      "id": "rss001",
-      "title": "BBC News - World",
-      "summary": "Latest world news from BBC",
-      "url": "https://www.bbc.com/news/world",
-      "source": "rss",
-      "hot_score": 85,
-      "category": "news",
-      "published_at": "2026-03-14T09:00:00+00:00",
-      "fetched_at": "2026-03-14T12:00:00+00:00",
-      "tags": ["bbc", "news"]
+      "title": "这就是你想要的长大吗？",
+      "summary": "时间转一圈又一圈\n将我们的从前 藏进故事哪一页?\n如果长大是场冒险\n是否还有勇气 再去遇见下张脸...\n\n伴奏：《烟圈》-功夫胖KUNGFU-PEN",
+      "url": "https://www.bilibili.com/video/BV1dScmz7ENx",
+      "source": "bilibili",
+      "hot_score": 35.29246918272299,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828058+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828071+00:00",
+      "id": "0cc6e068-53c0-4b8c-824c-ceed62effda4"
+    },
+    {
+      "title": "倒 反 天 罡【邵氏反转】",
+      "summary": "你是否在雪山上救过一个狐狸",
+      "url": "https://www.bilibili.com/video/BV1vJcQzsEBq",
+      "source": "bilibili",
+      "hot_score": 30.610717745904285,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828463+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828465+00:00",
+      "id": "d2dd5f16-734c-4625-991a-a3d3b89dabec"
+    },
+    {
+      "title": "人在柬埔寨，刚下飞机，现在跑还来得及吗？",
+      "summary": "《电子商务园区一日游，但是IP在柬埔寨》",
+      "url": "https://www.bilibili.com/video/BV1e9cfz5EKj",
+      "source": "bilibili",
+      "hot_score": 29.376585694074947,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828547+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828549+00:00",
+      "id": "b9a7d139-55f2-41a5-85a2-5583437641b1"
+    },
+    {
+      "title": "热烈欢迎瞿颖姐姐！看看她带来多少便宜货！！",
+      "summary": "加更在@papi热烈欢迎",
+      "url": "https://www.bilibili.com/video/BV1nWwFz9EFY",
+      "source": "bilibili",
+      "hot_score": 24.110150063172593,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828136+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828141+00:00",
+      "id": "cfadc0ab-1ee9-4539-ba10-482d793c336f"
+    },
+    {
+      "title": "假如我也有一台F1赛车...",
+      "summary": "冲啊啊啊啊啊啊啊啊啊啊~~~！",
+      "url": "https://www.bilibili.com/video/BV19BcUzyExN",
+      "source": "bilibili",
+      "hot_score": 24.038967071599675,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828170+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828174+00:00",
+      "id": "da4caf11-0265-4ed2-ac24-97cdf026db95"
+    },
+    {
+      "title": "【速凌】这就是来自潮汐的救赎吗？？",
+      "summary": "【速凌】这就是来自潮汐的救赎吗？？",
+      "url": "https://www.bilibili.com/video/BV1KFckz7Ezt",
+      "source": "bilibili",
+      "hot_score": 22.619455036585666,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828748+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828750+00:00",
+      "id": "d66ce5a5-48d0-41c6-87bc-4387beb22989"
+    },
+    {
+      "title": "我在雪山救了100只狐狸！",
+      "summary": "尝试制作的邵氏ai反转短剧，喜欢的话别忘记点个赞呀。",
+      "url": "https://www.bilibili.com/video/BV15EwWzLEwa",
+      "source": "bilibili",
+      "hot_score": 22.131511064759863,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828221+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828225+00:00",
+      "id": "6a9cf0e3-3da9-4cd5-a026-15f0272ae027"
+    },
+    {
+      "title": "国外大学食堂交响乐快闪，老哥们真会玩",
+      "summary": "国外大学食堂交响乐快闪，老哥们真会玩",
+      "url": "https://www.bilibili.com/video/BV1ZmcSz4EZx",
+      "source": "bilibili",
+      "hot_score": 21.11154340256201,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828186+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828190+00:00",
+      "id": "e3169bf7-4c8e-4805-b85d-9755fbcf5d11"
+    },
+    {
+      "title": "“惊异—争论—日常化”是每一项重大技术进入人类生活的必经之路",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1LYwFzmECF",
+      "source": "bilibili",
+      "hot_score": 20.42264894992204,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828379+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828381+00:00",
+      "id": "94d83e66-6c92-4e8e-bb10-850a7ef9a5e3"
+    },
+    {
+      "title": "敢不敢赌一次？",
+      "summary": "⛔禁止发布对本人造谣，诽谤，人身攻击，阴阳，污蔑等评论和视频。\n⛔请勿在他人作品中提及我，包括所有平台。\n⛔请勿相信其他任何自称是我（v猫星v）的言论或求助。\n⛔我方视频仅为个人分享，观点也仅代表个人",
+      "url": "https://www.bilibili.com/video/BV1wFwczFEsF",
+      "source": "bilibili",
+      "hot_score": 20.04311807020293,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828205+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828209+00:00",
+      "id": "1262c760-4012-4d91-9f3a-a6c8d301f1c1"
+    },
+    {
+      "title": "《一蛙两吃》",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1AKwNzrE45",
+      "source": "bilibili",
+      "hot_score": 19.806943841537965,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828328+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828330+00:00",
+      "id": "3423c9a4-8f2f-4a8f-b531-bd1df7040a9b"
+    },
+    {
+      "title": "24小时不间断？港口都在运些什么",
+      "summary": "港口的存在感一直很低，但我们日常使用的大大小小的物品，许多都是从这里来到我们身边的。这次我们来到了宁波舟山港，想和你一起看看，这个一天能够吞吐12万个集装箱的港口，每天都在发生什么？港口船只的停泊与清",
+      "url": "https://www.bilibili.com/video/BV1hAcUzzETk",
+      "source": "bilibili",
+      "hot_score": 19.312385410243586,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828312+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828314+00:00",
+      "id": "be606b3a-eb1f-46cd-a217-6e5b975bcfb7"
+    },
+    {
+      "title": "慕沛灵巡回演唱会（瀚海沙漠站）",
+      "summary": "慕沛灵巡回演唱会·瀚海沙漠站\n黄沙漫卷，孤影伫立。她以歌声诉尽仙途孤寂，唱遍对韩立的执念、不甘与怀念。那些藏在落云宗药园的心事，那些未说出口的深情，都融进瀚海长风，在无边沙海之中，唱出属于她的动人回响",
+      "url": "https://www.bilibili.com/video/BV1GhcdzYEfU",
+      "source": "bilibili",
+      "hot_score": 18.65364628832759,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828698+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828700+00:00",
+      "id": "3f5a578d-b0df-4c8b-9120-d23415c0a7ef"
+    },
+    {
+      "title": "挑战帮我俩截一张好看的图‼️",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1gSczzjEgE",
+      "source": "bilibili",
+      "hot_score": 18.453231168453772,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828814+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828816+00:00",
+      "id": "f37b2cea-77c8-48fb-9d10-5d306287a4ef"
+    },
+    {
+      "title": "万税爷左右互搏自说自话，想TACO但却没台阶下",
+      "summary": "万税爷左右互搏自说自话，想TACO但却没台阶下",
+      "url": "https://www.bilibili.com/video/BV1Dtc6zJEGy",
+      "source": "bilibili",
+      "hot_score": 17.106368113382043,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828251+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828262+00:00",
+      "id": "2dd7a125-1353-4ee8-877f-3e7094a57285"
+    },
+    {
+      "title": "当客户问我干这行多久了",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1KfwPzjEo2",
+      "source": "bilibili",
+      "hot_score": 15.825259389880658,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828511+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828513+00:00",
+      "id": "3b7f86f7-262e-45f5-bf9f-89cb3a346865"
+    },
+    {
+      "title": "哈喽，大家好，我叫拉挖稀呀，周六晚上6:00直播间不见不散，1,500,000粉丝首播",
+      "summary": "我又来爆破实验室了#化学实验#拉挖稀#实验",
+      "url": "https://www.bilibili.com/video/BV1dBcrzhEP6",
+      "source": "bilibili",
+      "hot_score": 15.42299818537658,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828352+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828354+00:00",
+      "id": "d2ac44fa-d281-4ee0-9043-9a6e6050fcf4"
+    },
+    {
+      "title": "带莫名其妙的东西去上课",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV13PcrzREk8",
+      "source": "bilibili",
+      "hot_score": 14.378043677047064,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828419+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828421+00:00",
+      "id": "d6fff94e-b0a5-4c52-8474-319c1b925c86"
+    },
+    {
+      "title": "来法国看看追我的人排到哪里了",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1h1cDzmEm3",
+      "source": "bilibili",
+      "hot_score": 14.190967550322428,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828772+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828774+00:00",
+      "id": "6645b7ba-5bd8-4253-8278-f0d9603cb3ec"
+    },
+    {
+      "title": "拥抱",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1raw4zAEuJ",
+      "source": "bilibili",
+      "hot_score": 13.49646431624201,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828495+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828497+00:00",
+      "id": "b1725bc6-32b3-44dd-bc54-abbe3571c715"
+    },
+    {
+      "title": "和AI玩历史猜人物游戏，差点吵起来",
+      "summary": "跟风中",
+      "url": "https://www.bilibili.com/video/BV1PJwszeEFH",
+      "source": "bilibili",
+      "hot_score": 12.766337064448852,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828274+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828277+00:00",
+      "id": "948b2f21-7fe7-4349-99e1-04ba95cbcba9"
+    },
+    {
+      "title": "【终末地】赤石科技之佩佩EP",
+      "summary": "又有菲林又有冰，\n这才是真正的哈基米音乐（",
+      "url": "https://www.bilibili.com/video/BV1BVc6zfELW",
+      "source": "bilibili",
+      "hot_score": 12.665183866963106,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828283+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828285+00:00",
+      "id": "94790f46-97d1-4872-ab95-24ce87e94acf"
+    },
+    {
+      "title": "女配其实是女主的…",
+      "summary": "女配其实是女主的…",
+      "url": "https://www.bilibili.com/video/BV1RGcfzGELy",
+      "source": "bilibili",
+      "hot_score": 12.187371726017682,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828444+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828448+00:00",
+      "id": "7144109d-0220-4c68-82dc-61953f14657e"
+    },
+    {
+      "title": "小刀盾的进化之路第一季（完整版）",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1tQcDzCEtj",
+      "source": "bilibili",
+      "hot_score": 12.1584422217459,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828344+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828346+00:00",
+      "id": "10d5b3ac-3ee5-4323-83c3-91cde6b6b10d"
+    },
+    {
+      "title": "第三套全国中学生广播体操【数学版】这套操有力气",
+      "summary": "学会这套体操，初高中常见函数便不在话下",
+      "url": "https://www.bilibili.com/video/BV1x7czzME6j",
+      "source": "bilibili",
+      "hot_score": 12.018718019688874,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828236+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828240+00:00",
+      "id": "bf047dd2-4d2b-4aeb-b66d-3b00183c520f"
+    },
+    {
+      "title": "在-40度西伯利亚，当31岁姐姐偶遇一群12岁俄国小女孩的生日聚会…",
+      "summary": "这期拍摄了22天，两期加在一起剪辑了1个多月，真的是没日没夜的剪，工作量和素材量多巨大，大家如果喜欢这个视频的还请多多三连，这个对我真的很重要。\n\n\nbgm列表：\n\nStephen Sanchez -",
+      "url": "https://www.bilibili.com/video/BV1UDczzyEMt",
+      "source": "bilibili",
+      "hot_score": 11.515708890934267,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828528+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828530+00:00",
+      "id": "19df082f-db74-4f72-a1e9-227973d52e0b"
+    },
+    {
+      "title": "【终末地】1.1版本最好抄毕业基建！效率拉满还能自选装备！",
+      "summary": "主基地右下：EF0170i8o4oi25EAO0Ai\n主基地右上：EF01I43AU0U3a9835o08\n主基地左上：EF018OIei6iI91eIUI73\n副基地左：EF013Eo7e1eo6a",
+      "url": "https://www.bilibili.com/video/BV1uDczz1ESq",
+      "source": "bilibili",
+      "hot_score": 11.215436447252738,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828292+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828297+00:00",
+      "id": "270707a2-2048-4f58-84ca-3102e19bbf71"
+    },
+    {
+      "title": "⚡ 懂 你 意 思 ⚡",
+      "summary": "懂你意思\n原曲：弥渡山歌（phonk）",
+      "url": "https://www.bilibili.com/video/BV1AicfzoEfd",
+      "source": "bilibili",
+      "hot_score": 10.84123416007072,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828892+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828894+00:00",
+      "id": "99bf16f7-337b-43d6-a144-53d785168fa8"
+    },
+    {
+      "title": "国际服：墨子新皮肤【迪迦奥特曼】特效预览！四形态！神性回眸！",
+      "summary": "终于！！兄弟萌觉得做的咋样？",
+      "url": "https://www.bilibili.com/video/BV1qsc2z1EE1",
+      "source": "bilibili",
+      "hot_score": 10.84112908923196,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828690+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828692+00:00",
+      "id": "e91bfe60-00c1-406d-aff0-03b8b4eaef15"
+    },
+    {
+      "title": "【崔叡娜】'Catch Catch' M/V",
+      "summary": "第五张迷你专辑《LOVE CATCHER》🎵\nQQ音乐：http://t.cn/AXVpFkDh\n酷狗音乐：http://t.cn/AXVpFkD7\n酷我音乐：http://t.cn/AXVpFkDP",
+      "url": "https://www.bilibili.com/video/BV1DEcoz8EGN",
+      "source": "bilibili",
+      "hot_score": 10.76077491444732,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828740+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828743+00:00",
+      "id": "e93162e4-73e2-4d7e-91ee-6ebc7313846d"
+    },
+    {
+      "title": "央美一等奖二维动画作品——《谱》",
+      "summary": "央美一等奖二维动画作品——《谱》\n动画讲诉的是八分音符和十六分音符的冒险故事\n声音，画面和剧情是构成画面的要素，时间和空间\n是串联要素的灵魂\n这个动画所要传达的不仅仅是剧情的跌宕起伏亦或\n是画风的新颖",
+      "url": "https://www.bilibili.com/video/BV1ezcDzXEUN",
+      "source": "bilibili",
+      "hot_score": 10.700644374437246,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828114+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828120+00:00",
+      "id": "ea70f4de-4a24-41b2-960a-074f3b2ae51c"
+    },
+    {
+      "title": "滔搏naiyou单曲《无关风月》",
+      "summary": "原曲：《兰亭序》\n原唱：周杰伦\n混音：@SpecialSound  \n翻唱：蔚蓝边际\n填词：蔚蓝边际 B站网友们",
+      "url": "https://www.bilibili.com/video/BV1RWcyzBEU7",
+      "source": "bilibili",
+      "hot_score": 10.63669626061891,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828435+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828437+00:00",
+      "id": "00026b24-0711-41bd-a277-9ff3418e06ec"
+    },
+    {
+      "title": "[哈利波特]谁是作家里的战斗力天花板？",
+      "summary": "第一期的播放量实在是太感谢各位观众大佬们的支持了！\n这期是JK罗琳篇，第一期加入的梗反响不错所以这期加入了更多的梗，录稿时有些地方自己都绷不住了\n\n希望的喜欢，不要忘记关注转发一键三连呀！\n\n再次感谢",
+      "url": "https://www.bilibili.com/video/BV1d9cfz5ENY",
+      "source": "bilibili",
+      "hot_score": 10.58774825987681,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828876+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828878+00:00",
+      "id": "c332acbf-0e8c-4dcb-83f8-a8d632f4ccb1"
+    },
+    {
+      "title": "【萌黄一槽】迪达拉[晓创生]全技能爆料，艺术就是...“咔呲！”",
+      "summary": "粘土附着瞬间引爆，分身陷阱智斗破敌，艺术就是爆炸！",
+      "url": "https://www.bilibili.com/video/BV1CHcDzPE9s",
+      "source": "bilibili",
+      "hot_score": 10.51060124736097,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828572+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828577+00:00",
+      "id": "1dbc65c4-18b3-411f-b706-15838dffbb00"
+    },
+    {
+      "title": "探秘全球最能吃辣城市，江西萍乡！到底有多辣？",
+      "summary": "据说，最中国最能吃辣的省是江西！江西能最辣的地方，是萍乡！ 我倒要看看怎么个事？",
+      "url": "https://www.bilibili.com/video/BV1y6c6z3EtF",
+      "source": "bilibili",
+      "hot_score": 10.346225425181657,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828850+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828854+00:00",
+      "id": "a99199ed-5c08-492c-86df-d9656e7abdda"
+    },
+    {
+      "title": "仙人抚我顶，赐我钛合金",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1SscBzCEtr",
+      "source": "bilibili",
+      "hot_score": 10.23713187430966,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828633+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828636+00:00",
+      "id": "c60333cb-2b6d-474e-a47b-3e9d9d3a2e4b"
+    },
+    {
+      "title": "《鸣潮》3.2版本PV | 于影中启明的决心",
+      "summary": "“‘青春’是个有趣的词，里面包含着理想、热爱，还有......焦虑和难过。”\n“我还是想，给自己一个答案。”\n\n《鸣潮》3.2版本「于影中启明的决心」将于3月19日正式开启！",
+      "url": "https://www.bilibili.com/video/BV1JgcQzhEje",
+      "source": "bilibili",
+      "hot_score": 10.159104268097552,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828884+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828886+00:00",
+      "id": "438ddff9-3fb8-40f7-9d57-beff661309aa"
+    },
+    {
+      "title": "【终末地丨汤汤】“我是汤不是唐”",
+      "summary": "《我是大当家》\n词曲编混唱：司墨尧smile",
+      "url": "https://www.bilibili.com/video/BV1gscSzVEUS",
+      "source": "bilibili",
+      "hot_score": 10.025744356845385,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828503+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828505+00:00",
+      "id": "bc8e42c1-f20f-4545-b830-590185219925"
+    },
+    {
+      "title": "小企鹅吃蛋糕时戳她脸会发生什么？【终末地】",
+      "summary": "点点关注不错过，小企鹅持续更新咕嘎小日常系列中",
+      "url": "https://www.bilibili.com/video/BV1H6cBzYEfp",
+      "source": "bilibili",
+      "hot_score": 9.881667220039752,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828607+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828609+00:00",
+      "id": "29c01919-d245-4aea-871c-e2bcad137785"
+    },
+    {
+      "title": "评论区摄影大赛锐评篇再次开启，欢迎投稿玻璃心慎重。",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1B3c6zcE68",
+      "source": "bilibili",
+      "hot_score": 9.880311305882426,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828724+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828726+00:00",
+      "id": "b71ca08a-4ad9-4381-b1df-a9dcb9a4160c"
+    },
+    {
+      "title": "还记得那些年的土味MV吗？！今天让我来复刻！",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1oowWzEEt5",
+      "source": "bilibili",
+      "hot_score": 9.856930542571801,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828795+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828798+00:00",
+      "id": "a4464eef-0af3-4d87-9c7d-70dab47a996a"
+    },
+    {
+      "title": "大开门的逆袭之路",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1LRPfzsES6",
+      "source": "bilibili",
+      "hot_score": 9.763417496075855,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828667+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828669+00:00",
+      "id": "25524ec6-af1d-461c-a623-3b5c24d0d630"
+    },
+    {
+      "title": "雪山救狐狸，但是来者不拒！",
+      "summary": "雪山救狐狸，但是来者不拒！",
+      "url": "https://www.bilibili.com/video/BV1RXcmzLEiw",
+      "source": "bilibili",
+      "hot_score": 9.509146066277886,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828650+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828652+00:00",
+      "id": "ca26b3c8-e98f-4492-af30-88327e7a8051"
+    },
+    {
+      "title": "秦岭户外的中药材确实丰富",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV164wszZETV",
+      "source": "bilibili",
+      "hot_score": 9.331251129511516,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828363+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828365+00:00",
+      "id": "aa5ea2ad-85c3-4776-8e10-e47f63e00fc7"
+    },
+    {
+      "title": "我把十五项中国成就做成了动画！",
+      "summary": "本片是为人民日报十五五专题制作的短片，片中内容依次为：\n深海-10909米的奋斗者号\n-1560米的深海一号是我国海上最大气田\n我国第一艘电磁弹射型航空母舰福建舰交付入列\n地下2400米的锦屏大设施是",
+      "url": "https://www.bilibili.com/video/BV1ZUcfzmELN",
+      "source": "bilibili",
+      "hot_score": 9.276549249504015,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828386+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828389+00:00",
+      "id": "02481518-d14e-45cf-afbd-27115bf57505"
+    },
+    {
+      "title": "练习了很久的「专业偶像五连拍」，大大大家觉得怎么样？",
+      "summary": "🎧\n练习了很久的「专业偶像五连拍」，大大大家觉得怎么样？\n这种事情，果然还是爱芮最擅长了…我会继续努力请教、努力练习的！(⁄⁄>////<⁄⁄)\n\n背景…背景里路过的是404的工作人员！请大家不要过度",
+      "url": "https://www.bilibili.com/video/BV1hrcUzkELE",
+      "source": "bilibili",
+      "hot_score": 9.095532207814507,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828583+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828585+00:00",
+      "id": "e78145c3-a52b-49e9-b52c-168c855aa6bd"
+    },
+    {
+      "title": "生化9最令人窒息的彩蛋！",
+      "summary": "里昂 = 安全感这件事，没人反驳吧？",
+      "url": "https://www.bilibili.com/video/BV1Lww4z9E7w",
+      "source": "bilibili",
+      "hot_score": 9.035211539620013,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.829032+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.829034+00:00",
+      "id": "d92c734e-9b20-4db6-9e7f-be211388b545"
+    },
+    {
+      "title": "藕节有没有用，我能不知道吗？",
+      "summary": "藕节有没有用，我能不知道吗？",
+      "url": "https://www.bilibili.com/video/BV1idwczDEe6",
+      "source": "bilibili",
+      "hot_score": 8.940222498008158,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828706+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828708+00:00",
+      "id": "e60dd308-a765-484a-9b6f-affc74e3b969"
+    },
+    {
+      "title": "“古有黛玉训狗，现有狗学黛玉”",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1oVwczJEh2",
+      "source": "bilibili",
+      "hot_score": 8.915951134254714,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.829024+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.829026+00:00",
+      "id": "71ac1583-503d-40b2-8005-ee45ca056beb"
+    },
+    {
+      "title": "《你眼中的自己vs实际上》",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1czwJzLE7q",
+      "source": "bilibili",
+      "hot_score": 8.91141307469496,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828860+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828862+00:00",
+      "id": "8224e110-0273-4767-904d-07eb2809a151"
+    },
+    {
+      "title": "这是真拼豆！也是真草莓！！！",
+      "summary": "此拼豆甚是美味之\n纯天然无添加拼豆果干\n100度热风模式烘干1~1.5小时（具体看当地天气）\n密封保存好可放2周左右（受潮就会软趴趴啦）",
+      "url": "https://www.bilibili.com/video/BV1NQwEzEEGy",
+      "source": "bilibili",
+      "hot_score": 8.819451073914033,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.829009+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.829011+00:00",
+      "id": "dcfc83d7-027d-4d75-a309-e86f9b8d493e"
+    },
+    {
+      "title": "我后悔带朋友去大坝了【三角洲动画】",
+      "summary": "猎哥天天爱猛攻，结果代价是破产，苦苦哀求想赚钱，我一推二拒三答应，谁知她也吃了瘪，只能说，玩归玩闹归闹，别拿你大坝哥开玩笑。",
+      "url": "https://www.bilibili.com/video/BV1uqwtzUEMc",
+      "source": "bilibili",
+      "hot_score": 8.67014040866352,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828336+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828338+00:00",
+      "id": "2c51fc6e-516a-440d-93a2-ee78ee3f00e0"
+    },
+    {
+      "title": "别再这样背人扛盒子了【三角洲流言终结者9】",
+      "summary": "游戏：三角洲行动\n感谢@Always聪聪  客串！脚滑滴狠呐",
+      "url": "https://www.bilibili.com/video/BV1CEcDzKEWK",
+      "source": "bilibili",
+      "hot_score": 8.629773193086779,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828732+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828734+00:00",
+      "id": "64638496-7dff-4958-8679-6bb8e9ad00b9"
+    },
+    {
+      "title": "爽文小说都不敢这么写！3.0",
+      "summary": "拖更两年的爽文折磨外挂！！！",
+      "url": "https://www.bilibili.com/video/BV1PvwHzdEnW",
+      "source": "bilibili",
+      "hot_score": 8.566325416595868,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828427+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828429+00:00",
+      "id": "2f184b11-2d58-409f-984e-3a39d7654b7c"
+    },
+    {
+      "title": "顶不住了，",
+      "summary": "顶不住了，",
+      "url": "https://www.bilibili.com/video/BV13mcrzxEXt",
+      "source": "bilibili",
+      "hot_score": 8.018140830547955,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828805+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828807+00:00",
+      "id": "156aa014-3a14-4499-9224-42d9c017ea04"
+    },
+    {
+      "title": "《绝区零》事纪 | 三契密约",
+      "summary": "我们是TOPS，\n是人类财富的凝聚者，未来秩序的定价者。\n我等立誓，\n凝聚万象之利，化为己养。\n摒弃孱弱之物，无赊慈悲。\n遴选众民，\n指引新世界来临——\n\n—— 欢迎来到新艾利都！——\n▼ 2.7版本",
+      "url": "https://www.bilibili.com/video/BV14ZwszqE4e",
+      "source": "bilibili",
+      "hot_score": 7.698020005087431,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828395+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828397+00:00",
+      "id": "60062e54-3ec6-4309-b525-b352433faa25"
+    },
+    {
+      "title": "《魔丸探案》1-9",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1LfPfzQE8e",
+      "source": "bilibili",
+      "hot_score": 7.633521520208925,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828764+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828766+00:00",
+      "id": "f27193c0-538c-4689-8f77-57b4e879ca97"
+    },
+    {
+      "title": "为什么四川人都是雌小鬼？",
+      "summary": "你淼桑曾经说过，你在成都就是个萝莉",
+      "url": "https://www.bilibili.com/video/BV1MVcrzUEnn",
+      "source": "bilibili",
+      "hot_score": 7.627127209164419,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828825+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828827+00:00",
+      "id": "48d6409f-4f61-416e-b48e-20fb666d66b8"
+    },
+    {
+      "title": "全国人大代表陈莉娜建议：禁止流量月底清零",
+      "summary": "全国人大代表陈莉娜建议：禁止流量月底清零",
+      "url": "https://www.bilibili.com/video/BV1FtcDzcEfj",
+      "source": "bilibili",
+      "hot_score": 7.520870570938927,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828714+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828718+00:00",
+      "id": "f05bd310-85f5-40c4-8fb5-ec458ae845bc"
+    },
+    {
+      "title": "五角大楼除了吃就是喝：每月900万美元牛排龙虾激起全美民愤",
+      "summary": "五角大楼除了吃就是喝：每月900万美元牛排龙虾激起全美民愤",
+      "url": "https://www.bilibili.com/video/BV1gackzxEeu",
+      "source": "bilibili",
+      "hot_score": 7.460840098394337,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828909+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828911+00:00",
+      "id": "3ad7da34-a9d5-4c4f-bad4-1c4d17cb930e"
+    },
+    {
+      "title": "拥有100万粉丝的艺术家VS我和我的粉丝！",
+      "summary": "感谢30位粉丝老师的大力支持！我会持续把好东西掏出来！！！",
+      "url": "https://www.bilibili.com/video/BV1yFcQzME4v",
+      "source": "bilibili",
+      "hot_score": 7.455391424898666,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828936+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828938+00:00",
+      "id": "22e4b36d-28c3-44d2-a88e-1938aedf9811"
+    },
+    {
+      "title": "《股 神 来 了》",
+      "summary": "游戏：Insider Trading\n投资有风险，入市须谨！！慎！！",
+      "url": "https://www.bilibili.com/video/BV1uswHzYEdc",
+      "source": "bilibili",
+      "hot_score": 7.424410537584439,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828682+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828684+00:00",
+      "id": "35630f90-329f-4632-ae2e-481259894dfe"
+    },
+    {
+      "title": "在大学被拽入后室的可能性很小但并不为零！mv半还原翻跳 【Brain Rot｜脑蚀】",
+      "summary": "四个小时完成了学舞找景录舞剪辑堪称史上最快。。\n其实还是学校的景随便一想就有好多符合的！\n超级喜欢的一作一开始看到就想跳了啊啊啊没想到最后如此急头白脸地就弄完了\n剪辑的时候特效和滤镜也是不要钱地叠最后",
+      "url": "https://www.bilibili.com/video/BV1x2wEzDEQy",
+      "source": "bilibili",
+      "hot_score": 7.379345154503166,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828371+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828373+00:00",
+      "id": "11b76d83-80d4-461e-8223-c7674317fd39"
+    },
+    {
+      "title": "听说你喜欢西欧帝爱慕？（巨神公司款）",
+      "summary": "听说你喜欢西欧帝爱慕？（巨神公司款）",
+      "url": "https://www.bilibili.com/video/BV1XDcCzcEWv",
+      "source": "bilibili",
+      "hot_score": 7.256027013412443,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828659+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828661+00:00",
+      "id": "f38666e0-2086-4b82-baaa-2b1a96802404"
+    },
+    {
+      "title": "小米笔记本Pro上手体验：性能表现优秀的超轻薄本！",
+      "summary": "我们收到了搭载Intel最新Panther Lake平台的小米超轻薄本：Xiaomi Book Pro 14，搭载358H却只有1.08kg的它性能表现足够出色吗？一起来看看吧",
+      "url": "https://www.bilibili.com/video/BV1hrcUzkELd",
+      "source": "bilibili",
+      "hot_score": 7.036624091962801,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828555+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828558+00:00",
+      "id": "6202c132-2dca-4aab-86ba-001133660500"
+    },
+    {
+      "title": "《崩坏：星穹铁道》4.1版本PV：「献给破晓的失控」",
+      "summary": "幸福的呢喃蔓延，往日的恶灵重现。聚光灯下，英雄行走在崇拜与憎恶铸就的空中轨道，稍不注意便会跌落其间。听呐！天空的尽头传来嗤笑，是破晓的鸣笛还是荒诞剧的开幕表演？\n \n※本视频包含部分开发中内容，实际内",
+      "url": "https://www.bilibili.com/video/BV1Smczz2EJa",
+      "source": "bilibili",
+      "hot_score": 7.0136035715279235,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828519+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828521+00:00",
+      "id": "629fdf44-33d3-4a73-b574-02603f5362aa"
+    },
+    {
+      "title": "写了一个反派营救正派BGM！",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1epwxznE9Q",
+      "source": "bilibili",
+      "hot_score": 7.000039426581401,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828564+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828566+00:00",
+      "id": "c7b39ef6-5bb1-4e71-81ae-e7ee2a965460"
+    },
+    {
+      "title": "社畜下班了也要跳新宝岛",
+      "summary": "哈哈哈哈哈文艺复兴",
+      "url": "https://www.bilibili.com/video/BV1n1cSzfEne",
+      "source": "bilibili",
+      "hot_score": 6.849422880906307,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828487+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828489+00:00",
+      "id": "ec7d79f4-07dc-4e19-87f9-9e0a6b10006e"
+    },
+    {
+      "title": "肉身成圣的唐僧竟然倒立单手俯卧撑，不是？怎么还挂着孙悟空和猪八戒啊【西游：拳度西天路第5集】",
+      "summary": "肉身成圣的唐僧竟然倒立单手俯卧撑，不是？怎么还挂着孙悟空和猪八戒啊【西游：拳度西天路第5集】",
+      "url": "https://www.bilibili.com/video/BV1WFwWztEqh",
+      "source": "bilibili",
+      "hot_score": 6.7681831090521225,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828919+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828922+00:00",
+      "id": "b7f3abc6-345a-49ab-8927-a96a88c351d0"
+    },
+    {
+      "title": "中考物理 特效制作注意甄别",
+      "summary": "中考物理 特效制作注意甄别",
+      "url": "https://www.bilibili.com/video/BV1apwcz5EZB",
+      "source": "bilibili",
+      "hot_score": 6.6942632722981825,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828454+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828456+00:00",
+      "id": "bad834de-c9de-4fa5-8be0-77a2b1050da6"
+    },
+    {
+      "title": "首款侵入式脑机接口医疗器械获批上市",
+      "summary": "首款侵入式脑机接口医疗器械获批上市",
+      "url": "https://www.bilibili.com/video/BV1UKcUziEfU",
+      "source": "bilibili",
+      "hot_score": 6.661821399987872,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828470+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828473+00:00",
+      "id": "add07f53-4c89-4ff6-af07-557be4622746"
+    },
+    {
+      "title": "【终末地一条龙全收集】清波寨/宝箱/醚质/调查点/机器人/采录桩/工业点数/情报/清波寨/武陵/明日方舟终末地1.1",
+      "summary": "有帮助的话还请三连支持一下！\n明日方舟：终末地的攻略导航：https://www.bilibili.com/read/cv45034194",
+      "url": "https://www.bilibili.com/video/BV1iJckzYEwu",
+      "source": "bilibili",
+      "hot_score": 6.550611422220862,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828900+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828902+00:00",
+      "id": "6c6f5f30-2455-4362-824d-c3337447ca0b"
+    },
+    {
+      "title": "宅女",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV138ckzoEGh",
+      "source": "bilibili",
+      "hot_score": 6.380391660057211,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828943+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828945+00:00",
+      "id": "983edf11-2eaf-4fe7-8cfc-40b91f2d17cd"
+    },
+    {
+      "title": "做自媒体6年了，我想说…",
+      "summary": "今天咱不聊商业不了经济，咱们来联络联络感情～\n向小Lin\"奶茶店\"的股东们，汇报一下，这一年来我有什么感悟和想法，也回答一些大家感兴趣的话题～",
+      "url": "https://www.bilibili.com/video/BV1ZDwHzyEFm",
+      "source": "bilibili",
+      "hot_score": 6.32561973282387,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828928+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828930+00:00",
+      "id": "cacd7d50-f64c-412e-8e2f-c0afef001b17"
+    },
+    {
+      "title": "愤怒波斯 伊朗·1978",
+      "summary": "本篇为世纪风暴系列伊朗篇——愤怒波斯。",
+      "url": "https://www.bilibili.com/video/BV1zxcUzXE1Z",
+      "source": "bilibili",
+      "hot_score": 6.060716134818094,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828990+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828993+00:00",
+      "id": "2e0db62b-3805-418e-99a3-a0249b51ff3f"
+    },
+    {
+      "title": "男星翻跳Two & Bigguy谁赢了（追星别进）",
+      "summary": "-",
+      "url": "https://www.bilibili.com/video/BV1zUcSzoEEW",
+      "source": "bilibili",
+      "hot_score": 6.006659689962973,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828841+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828844+00:00",
+      "id": "7622448f-5ca2-4a80-b1c4-21da5b389b0d"
+    },
+    {
+      "title": "特厨探店|山西菜天花板？！—山西饭店",
+      "summary": "特厨探店|山西菜天花板？！—山西饭店",
+      "url": "https://www.bilibili.com/video/BV1ozcCzBEMD",
+      "source": "bilibili",
+      "hot_score": 5.935181499366873,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828998+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.829003+00:00",
+      "id": "56307514-8c40-4a95-9ef3-58b89fad695e"
+    },
+    {
+      "title": "🎶音游的MC🎶",
+      "summary": "简介写了没人看，我就稍微写点东西，昨玩这期视频已经是早上7点了，很久没这么通宵了，很感谢你们对与本作品的支持，同时感谢一切在我直播间疯狂投喂我，支持我的很多的粉丝。\n我想对各位说的呢就是，其实这期视频",
+      "url": "https://www.bilibili.com/video/BV1vqwpzVEbp",
+      "source": "bilibili",
+      "hot_score": 5.893073109890688,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828539+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828541+00:00",
+      "id": "cb5fddd7-153c-4679-9b15-5f7971e5324d"
+    },
+    {
+      "title": "读什么专业能干我现在的工作？",
+      "summary": "读什么专业能干我现在的工作？",
+      "url": "https://www.bilibili.com/video/BV1hxwWz6Eo6",
+      "source": "bilibili",
+      "hot_score": 5.6856232471932575,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828833+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828835+00:00",
+      "id": "1e08e23c-6b10-4062-a1a7-42655a940db8"
+    },
+    {
+      "title": "⚡ 猎 杀 的 小 曲 ⚡",
+      "summary": "记住，我的名字叫杰哥，不三连投币点赞，小心我带你回家！\n\n封面采用ai制作，音源是index tts做的，做音源真是快捷又方便\n调音，对轨，视频，混音全都是古法制作，满意了吧\n\n制作：天气温云",
+      "url": "https://www.bilibili.com/video/BV1PnczzKEWJ",
+      "source": "bilibili",
+      "hot_score": 5.45278126512895,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828599+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828601+00:00",
+      "id": "3ee48150-e639-4847-90e8-c1f113a868f3"
+    },
+    {
+      "title": "【鸣潮短片】爱，是我唯一的“病”",
+      "summary": "“原来我从未迷路。”\n“因为你一直在我掌心。”\n\n爱的规则，既是枷锁，也是引领回归的信标。\n————————————————————————\n内容仅供娱乐，请勿过分解读，部分行为存在ooc，非常抱歉\n",
+      "url": "https://www.bilibili.com/video/BV1uKczz1Eec",
+      "source": "bilibili",
+      "hot_score": 5.305787161704421,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828478+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828481+00:00",
+      "id": "2e6613aa-d1ca-41f5-9444-5934fdfc5c30"
+    },
+    {
+      "title": "脑内美少女是克系扭曲怪物？还替我攻略大小姐？【幻想特别奖】",
+      "summary": "希望大家可以一直开心~\n个人翻译可能会有些误差，抱歉QAQ\n《为什么要逃跑？我的召唤兽很可爱哦》",
+      "url": "https://www.bilibili.com/video/BV1Cwc6zTEhT",
+      "source": "bilibili",
+      "hot_score": 5.299352823673721,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828411+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828413+00:00",
+      "id": "b5e14a66-381e-44e6-bb15-3838a4a08531"
+    },
+    {
+      "title": "千星奇域建模展示—骑刃王～银虎骑",
+      "summary": "懒狗作者终于更新了，这期是骑刃王—银虎骑的建模展示视频",
+      "url": "https://www.bilibili.com/video/BV1AewJzSEhh",
+      "source": "bilibili",
+      "hot_score": 5.259545985903697,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828756+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828758+00:00",
+      "id": "43e1b7d9-2bd1-4230-97f8-92abd27028e9"
+    },
+    {
+      "title": "不小心告白错对象，对方还答应了自己",
+      "summary": "漫画：纸袋同学的恋爱故事\n紙袋さんの恋愛事情\n作者：神春\n\n尝试着解说还不太习惯，请谅解我的口胡，还有口音等等 orz",
+      "url": "https://www.bilibili.com/video/BV1QZc1zPEJs",
+      "source": "bilibili",
+      "hot_score": 4.770025951496499,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828623+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828625+00:00",
+      "id": "bd300b2a-9fec-440c-9d3f-90a04c81db6a"
+    },
+    {
+      "title": "大只吗？倒也可斩！！",
+      "summary": "学艺不精，请多包含",
+      "url": "https://www.bilibili.com/video/BV18scSzVEdE",
+      "source": "bilibili",
+      "hot_score": 4.720367471749453,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828591+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828593+00:00",
+      "id": "a17e064f-2f0a-4c0a-9552-784fee4c2b59"
+    },
+    {
+      "title": "这☆期☆神☆了",
+      "summary": "这☆期☆拉☆了",
+      "url": "https://www.bilibili.com/video/BV1c4czzwEMh",
+      "source": "bilibili",
+      "hot_score": 4.71158154827985,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828967+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828969+00:00",
+      "id": "b6663344-289f-4cfa-8ded-7969ed93e578"
+    },
+    {
+      "title": "中美“厨房辩论”，美国到底输在了哪里？【毒舌的南瓜】",
+      "summary": "中美“厨房辩论”，美国到底输在了哪里？【毒舌的南瓜】",
+      "url": "https://www.bilibili.com/video/BV1uYwxzyE8t",
+      "source": "bilibili",
+      "hot_score": 4.602112744412283,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828959+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828961+00:00",
+      "id": "d8b2afbe-750c-4954-9dc8-198d2064eaa0"
+    },
+    {
+      "title": "这个游戏出现在21世纪还是太大胆了！",
+      "summary": "游戏：蚀之境",
+      "url": "https://www.bilibili.com/video/BV1Q1wsz1Eqa",
+      "source": "bilibili",
+      "hot_score": 4.5932067399840975,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828975+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828977+00:00",
+      "id": "906e5f1a-bcc7-423e-9a18-ae79b816f75d"
+    },
+    {
+      "title": "见证历史！999999亿超越游戏上限！货币战争全网最高核爆突破百万亿显示数值！全局运营思路展示解说",
+      "summary": "想复刻的可以参考以下内容刷开局\n三位面boss：银枝（最优），玄鹿（次优），彦卿，黑萨姆，杰帕德\n开局debuff：不能有战个痛快，免死金牌、前台熄火、量子熄火、坠入陷阱至少有其一，最好有榜样激励\n开",
+      "url": "https://www.bilibili.com/video/BV1XGwbz9Euq",
+      "source": "bilibili",
+      "hot_score": 4.488005813519475,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828983+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828985+00:00",
+      "id": "25dcf181-8d29-41d1-ba25-43ce7ed094b2"
+    },
+    {
+      "title": "【本家投稿】サイエンス / MIMI feat. 重音テトSV【Official Video】",
+      "summary": "这是官方的「科学」影片！请欣赏！\n\nstreaming→https://linkco.re/zsdd3h9Y\nMIMI X → https://x.com/mimi_3mi\n\n感谢中国的每一位朋友聆听",
+      "url": "https://www.bilibili.com/video/BV1rmc6ziEHN",
+      "source": "bilibili",
+      "hot_score": 4.415762106812413,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828403+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828405+00:00",
+      "id": "f436fa6f-57ca-4ef4-9671-d7659158a735"
+    },
+    {
+      "title": "《艾尔登演义》完整版",
+      "summary": "《艾尔登演义》完整版",
+      "url": "https://www.bilibili.com/video/BV1asc6zHE7s",
+      "source": "bilibili",
+      "hot_score": 4.364997881571756,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828615+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828617+00:00",
+      "id": "f1c201c8-aaaa-4bda-b342-0a60549bc1d1"
+    },
+    {
+      "title": "“两会”只是冰山一角，破译中国全年重大会议权力齿轮【大国之治·会议治国】P1",
+      "summary": "最近全国“两会”召开，几乎所有人都知道——“这很重要”。但它为什么重要？重要在哪？和我们的生活有什么关系？\n \n以及 从“两会”出发，我们还可以延伸出一个更大的问题——中国这么大一个国家，14亿人，9",
+      "url": "https://www.bilibili.com/video/BV1XycDzEEiJ",
+      "source": "bilibili",
+      "hot_score": 4.330204423822541,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828642+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828644+00:00",
+      "id": "2cb82d52-26b5-4a51-91d2-c6f775fefa33"
+    },
+    {
+      "title": "等你等你！清华等你！春满校园，花开正好，别辜负眼前季节，来清华赴一场青春之约~",
+      "summary": "等你等你！清华等你！春满校园，花开正好，别辜负眼前季节，来清华赴一场青春之约~",
+      "url": "https://www.bilibili.com/video/BV1qtc2zCEgj",
+      "source": "bilibili",
+      "hot_score": 4.294190142994407,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828868+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828870+00:00",
+      "id": "5eea28e4-8163-465a-89cb-48cdd904a3d5"
+    },
+    {
+      "title": "截图大挑战！听说百分之99.9999%的人都失败了~",
+      "summary": "截图大挑战！听说百分之99.9999%的人都失败了~",
+      "url": "https://www.bilibili.com/video/BV15ocBzQE6J",
+      "source": "bilibili",
+      "hot_score": 4.131995791562672,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828674+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828677+00:00",
+      "id": "ddb871f8-e4a4-4ed9-82ad-200ab9704772"
+    },
+    {
+      "title": "太“馋”男友身子了怎么办…",
+      "summary": "在商场被认出什么的巨尴尬…",
+      "url": "https://www.bilibili.com/video/BV1tac6z2ECm",
+      "source": "bilibili",
+      "hot_score": 3.2287268076136932,
+      "category": "entertainment",
+      "published_at": "2026-03-15T07:38:39.828951+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "B站",
+        "视频"
+      ],
+      "fetched_at": "2026-03-15T07:38:39.828953+00:00",
+      "id": "c2867544-becd-40e6-a23b-ab4930c0d847"
     }
   ],
-  "sources": ["hackernews", "github_trending", "reddit", "weibo", "rss"]
+  "sources": [
+    "bilibili"
+  ]
 }
