@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+      - 'index.html'
+      - 'styles.css'
+      - 'app.js'
+      - '.github/workflows/scrape.yml'
 
 permissions:
   contents: write
@@ -44,7 +53,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add hotboard.json
+          git add hotboard.json history/
           git diff --quiet && git diff --staged --quiet || git commit -m "Update hotboard data [skip ci]"
           git push
         env:
@@ -53,6 +62,7 @@ jobs:
   deploy:
     needs: scrape
     runs-on: ubuntu-latest
+    if: always()
     
     steps:
       - name: Checkout repository
