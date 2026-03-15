@@ -59,23 +59,6 @@ def save_to_history(output_path: Path, history_dir: Path):
     with open(output_path, "r", encoding="utf-8") as f:
         current_data = json.load(f)
     
-    if history_file.exists():
-        with open(history_file, "r", encoding="utf-8") as f:
-            existing_data = json.load(f)
-        
-        existing_hashes = {generate_item_hash(i.get("title", ""), i.get("url", "")) for i in existing_data.get("items", [])}
-        
-        for item in current_data.get("items", []):
-            item_hash = generate_item_hash(item.get("title", ""), item.get("url", ""))
-            if item_hash not in existing_hashes:
-                existing_data["items"].append(item)
-                existing_hashes.add(item_hash)
-        
-        current_data = existing_data
-    
-    current_data["items"].sort(key=lambda x: x.get("hot_score", 0), reverse=True)
-    current_data["items"] = current_data["items"][:500]
-    
     with open(history_file, "w", encoding="utf-8") as f:
         json.dump(current_data, f, ensure_ascii=False, indent=2)
     

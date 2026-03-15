@@ -24,7 +24,7 @@ class JuejinAdapter(BaseAdapter):
             "sort_type": 200,
             "cate_id": "6809637773935378440",
             "cursor": "0",
-            "limit": 30
+            "limit": self.config.max_items if self.config else 50
         }
         async with Fetcher(timeout=self.config.timeout if self.config else 30) as fetcher:
             response = await fetcher._client.post(self.api_url, json=payload, headers=headers)

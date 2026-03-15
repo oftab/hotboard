@@ -9,7 +9,7 @@ class AdapterConfig:
     enabled: bool = True
     priority: int = 100
     timeout: int = 30
-    max_items: int = 20
+    max_items: int = 50
     url: Optional[str] = None
     rss_urls: list[str] = field(default_factory=list)
     headers: dict = field(default_factory=dict)
