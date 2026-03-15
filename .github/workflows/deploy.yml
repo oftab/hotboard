@@ -1,14 +1,9 @@
-name: Deploy Pages
+name: Deploy to Pages
 
 on:
   push:
     branches:
       - main
-    paths:
-      - 'index.html'
-      - 'styles.css'
-      - 'app.js'
-      - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
 permissions:
@@ -16,15 +11,19 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
 jobs:
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          ref: main
       
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -35,4 +34,5 @@ jobs:
           path: '.'
       
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
