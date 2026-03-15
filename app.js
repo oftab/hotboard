@@ -1,6 +1,5 @@
 const DATA_URL = './hotboard.json';
 const HISTORY_URL = './history/';
-const DEFAULT_VISIBLE_COUNT = 10;
 
 let hotData = {
     version: '',
@@ -265,21 +264,73 @@ function escapeHtml(text) {
 
 function togglePlatform(source) {
     const card = document.querySelector(`[data-card="${source}"]`);
-    const list = document.querySelector(`[data-list="${source}"]`);
     const toggle = card.querySelector('.platform-toggle');
     
     if (expandedPlatforms.has(source)) {
         expandedPlatforms.delete(source);
         card.classList.remove('expanded');
-        list.classList.remove('expanded');
         toggle.classList.remove('rotated');
     } else {
         expandedPlatforms.add(source);
         card.classList.add('expanded');
-        list.classList.add('expanded');
         toggle.classList.add('rotated');
     }
 }
+
+function showDetail(itemId) {
+    const item = hotData.items.find(i => i.id === itemId);
+    if (!item) return;
+    
+    const modal = document.getElementById('detail-modal');
+    const content = document.getElementById('detail-content');
+    
+    const categoryColor = getCategoryColor(item.category);
+    
+    content.innerHTML = `
+        <div class="detail-header">
+            <span class="detail-category" style="background: ${categoryColor.bg}; color: ${categoryColor.text}">${getCategoryName(item.category)}</span>
+            <span class="detail-source">${getSourceName(item.source)}</span>
+        </div>
+        <h2 class="detail-title">${escapeHtml(item.title)}</h2>
+        ${item.summary ? `<p class="detail-summary">${escapeHtml(item.summary)}</p>` : ''}
+        <div class="detail-meta">
+            <span class="detail-score">热度: ${formatScore(item.hot_score)}</span>
+            <span class="detail-time">${formatTime(item.published_at)}</span>
+        </div>
+        <div class="detail-actions">
+            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="detail-btn primary">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                    <polyline points="15 3 21 3 21 9"></polyline>
+                    <line x1="10" y1="14" x2="21" y2="3"></line>
+                </svg>
+                打开原文
+            </a>
+            <button onclick="closeDetail()" class="detail-btn">关闭</button>
+        </div>
+    `;
+    
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeDetail() {
+    const modal = document.getElementById('detail-modal');
+    modal.classList.remove('active');
+    document.body.style.overflow = '';
+}
+
+document.getElementById('detail-modal').addEventListener('click', (e) => {
+    if (e.target.id === 'detail-modal') {
+        closeDetail();
+    }
+});
+
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+        closeDetail();
+    }
+});
 
 function renderPlatforms() {
     const container = document.getElementById('platform-container');
@@ -297,12 +348,10 @@ function renderPlatforms() {
 
     sortedPlatforms.forEach((source, idx) => {
         const group = platformGroups[source];
-        const isExpanded = expandedPlatforms.has(source);
-        const visibleItems = isExpanded ? group.items : group.items.slice(0, DEFAULT_VISIBLE_COUNT);
         const categoryColor = getCategoryColor(group.category);
 
         const card = document.createElement('div');
-        card.className = `platform-card ${isExpanded ? 'expanded' : ''}`;
+        card.className = 'platform-card';
         card.setAttribute('data-card', source);
         card.style.animationDelay = `${idx * 0.04}s`;
 
@@ -322,10 +371,10 @@ function renderPlatforms() {
                     </span>
                 </div>
             </div>
-            <div class="platform-list ${isExpanded ? 'expanded' : ''}" data-list="${source}">
+            <div class="platform-list" data-list="${source}">
                 <div class="platform-list-inner">
-                    ${visibleItems.map((item, index) => `
-                        <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="hot-item">
+                    ${group.items.map((item, index) => `
+                        <div class="hot-item" onclick="showDetail('${item.id}')">
                             <span class="item-rank">${index + 1}</span>
                             <div class="item-content">
                                 <h3 class="item-title">${escapeHtml(item.title)}</h3>
@@ -335,7 +384,7 @@ function renderPlatforms() {
                                 <span class="item-score">${formatScore(item.hot_score)}</span>
                                 <span class="item-time">${formatTime(item.published_at)}</span>
                             </div>
-                        </a>
+                        </div>
                     `).join('')}
                 </div>
             </div>

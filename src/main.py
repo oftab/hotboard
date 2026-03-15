@@ -59,44 +59,53 @@ def save_to_history(output_path: Path, history_dir: Path):
     with open(output_path, "r", encoding="utf-8") as f:
         current_data = json.load(f)
     
+    if history_file.exists():
+        with open(history_file, "r", encoding="utf-8") as f:
+            existing_data = json.load(f)
+        
+        existing_hashes = {}
+        for i, item in enumerate(existing_data.get("items", [])):
+            item_hash = generate_item_hash(item.get("title", ""), item.get("url", ""))
+            existing_hashes[item_hash] = i
+        
+        merged_items = existing_data.get("items", []).copy()
+        
+        for item in current_data.get("items", []):
+            item_hash = generate_item_hash(item.get("title", ""), item.get("url", ""))
+            if item_hash in existing_hashes:
+                idx = existing_hashes[item_hash]
+                if item.get("hot_score", 0) > merged_items[idx].get("hot_score", 0):
+                    merged_items[idx] = item
+            else:
+                merged_items.append(item)
+        
+        merged_items.sort(key=lambda x: x.get("hot_score", 0), reverse=True)
+        
+        current_data = {
+            "version": existing_data.get("version", "1.0"),
+            "generatedAt": current_data.get("generatedAt"),
+            "items": merged_items,
+            "sources": list(set(existing_data.get("sources", []) + current_data.get("sources", [])))
+        }
+    
     with open(history_file, "w", encoding="utf-8") as f:
         json.dump(current_data, f, ensure_ascii=False, indent=2)
     
-    logger.info(f"History saved to {history_file}")
+    logger.info(f"History saved to {history_file}, total items: {len(current_data.get('items', []))}")
 
 
 def filter_today_items(items: list) -> list:
-    today = datetime.now(timezone.utc).date()
-    today_items = []
-    
-    for item in items:
-        try:
-            published_at = item.get("published_at", "")
-            if published_at:
-                item_date = datetime.fromisoformat(published_at.replace("Z", "+00:00")).date()
-                if item_date == today:
-                    today_items.append(item)
-                    continue
-            
-            fetched_at = item.get("fetched_at", "")
-            if fetched_at:
-                fetch_date = datetime.fromisoformat(fetched_at.replace("Z", "+00:00")).date()
-                if fetch_date == today:
-                    today_items.append(item)
-        except Exception:
-            today_items.append(item)
-    
-    return today_items
+    return items
 
 
 async def main():
     parser = argparse.ArgumentParser(description="HotBoard - World Hot Topics Aggregator")
     parser.add_argument("--output", "-o", default="hotboard.json", help="Output file path")
-    parser.add_argument("--max-items", "-m", type=int, default=1000, help="Maximum number of items per platform")
+    parser.add_argument("--max-items", "-m", type=int, default=0, help="Maximum number of items (0 = no limit)")
     parser.add_argument("--log-level", "-l", default="INFO", help="Log level")
     parser.add_argument("--history-dir", default="history", help="History directory")
     parser.add_argument("--include-history", action="store_true", help="Include historical items")
-    parser.add_argument("--today-only", action="store_true", default=True, help="Only include today's items")
+    parser.add_argument("--today-only", action="store_true", default=False, help="Only include today's items")
     args = parser.parse_args()
 
     logging.getLogger().setLevel(getattr(logging, args.log_level.upper()))
@@ -234,16 +243,14 @@ async def main():
     history = load_history(history_dir)
     logger.info(f"Loaded {len(history)} historical items")
 
-    aggregator = Aggregator(max_items=args.max_items)
+    aggregator = Aggregator(max_items=args.max_items if args.max_items > 0 else len(all_items))
     all_items = aggregator.deduplicate(all_items)
     aggregator._calculate_scores(all_items)
     
-    if args.today_only:
-        all_items = filter_today_items(all_items)
-        logger.info(f"Today's items: {len(all_items)}")
-    
     all_items.sort(key=lambda x: x.hot_score, reverse=True)
-    all_items = all_items[:args.max_items]
+    
+    if args.max_items > 0:
+        all_items = all_items[:args.max_items]
 
     board = HotBoard()
     for item in all_items:
