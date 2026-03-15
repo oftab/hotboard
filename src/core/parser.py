@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from typing import Optional
+from typing import Optional, Union
 import feedparser
 import json
 import re
@@ -13,7 +13,7 @@ class Parser:
         return [elem.get_text(strip=True) for elem in elements]
 
     @staticmethod
-    def parse_json(data: str | dict, path: str) -> list[dict]:
+    def parse_json(data: Union[str, dict], path: str) -> list[dict]:
         if isinstance(data, str):
             data = json.loads(data)
         

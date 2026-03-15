@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 from typing import Optional
 import logging
+import traceback
 from datetime import datetime, timezone
 from ..models import HotItem, AdapterConfig
 from ..core import Fetcher
@@ -44,7 +45,9 @@ class BaseAdapter(ABC):
             
             return items
         except Exception as e:
-            self.logger.error(f"Error running adapter {self.name}: {e}")
+            error_type = type(e).__name__
+            self.logger.error(f"[{self.name}] {error_type}: {e}")
+            self.logger.debug(f"[{self.name}] Traceback:\n{traceback.format_exc()}")
             return []
 
     def _create_hot_item(

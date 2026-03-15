@@ -41,6 +41,20 @@ from .infoq import InfoQAdapter
 from .segmentfault import SegmentfaultAdapter
 from .csdn import CsdnAdapter
 from .oschina import OschinaAdapter
+from .nga import NgaAdapter
+from .hupu import HupuAdapter
+from .pojie import PojieAdapter
+from .guokr import GuokrAdapter
+from .jianshu import JianshuAdapter
+from .hellogithub import HellogithubAdapter
+from .ifanr import IfanrAdapter
+from .douban_group import DoubanGroupAdapter
+from .qqnews import QqnewsAdapter
+from .miyoushe import MiyousheAdapter
+from .weread import WereadAdapter
+from .hostloc import HostlocAdapter
+from .nodeseek import NodeseekAdapter
+from .ct51 import Ct51Adapter
 
 __all__ = [
     "BaseAdapter",
@@ -86,4 +100,18 @@ __all__ = [
     "SegmentfaultAdapter",
     "CsdnAdapter",
     "OschinaAdapter",
+    "NgaAdapter",
+    "HupuAdapter",
+    "PojieAdapter",
+    "GuokrAdapter",
+    "JianshuAdapter",
+    "HellogithubAdapter",
+    "IfanrAdapter",
+    "DoubanGroupAdapter",
+    "QqnewsAdapter",
+    "MiyousheAdapter",
+    "WereadAdapter",
+    "HostlocAdapter",
+    "NodeseekAdapter",
+    "Ct51Adapter",
 ]

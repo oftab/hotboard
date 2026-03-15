@@ -4,6 +4,7 @@ import logging
 import sys
 import json
 import hashlib
+import traceback
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from typing import Optional
@@ -122,7 +123,10 @@ async def main():
         SspaiAdapter, CoolapkAdapter, ZhihuDailyAdapter, WeiboHotAdapter, DingxiangAdapter,
         SinaAdapter, SohuAdapter, ZolAdapter, LanjingerAdapter, TmtPostAdapter,
         WallstreetcnAdapter, IfengAdapter, CaixinAdapter, InfoQAdapter, SegmentfaultAdapter,
-        CsdnAdapter, OschinaAdapter
+        CsdnAdapter, OschinaAdapter,
+        NgaAdapter, HupuAdapter, PojieAdapter, GuokrAdapter, JianshuAdapter,
+        HellogithubAdapter, IfanrAdapter, DoubanGroupAdapter, QqnewsAdapter,
+        MiyousheAdapter, WereadAdapter, HostlocAdapter, NodeseekAdapter, Ct51Adapter
     )
     from src.models import AdapterConfig
     from src.core import Aggregator
@@ -169,6 +173,20 @@ async def main():
         "segmentfault": AdapterConfig(name="segmentfault", enabled=True, priority=175, category="tech"),
         "csdn": AdapterConfig(name="csdn", enabled=True, priority=180, category="tech"),
         "oschina": AdapterConfig(name="oschina", enabled=True, priority=185, category="tech"),
+        "nga": AdapterConfig(name="nga", enabled=True, priority=186, category="social"),
+        "hupu": AdapterConfig(name="hupu", enabled=True, priority=187, category="social"),
+        "52pojie": AdapterConfig(name="52pojie", enabled=True, priority=188, category="tech"),
+        "guokr": AdapterConfig(name="guokr", enabled=True, priority=189, category="tech"),
+        "jianshu": AdapterConfig(name="jianshu", enabled=True, priority=190, category="tech"),
+        "hellogithub": AdapterConfig(name="hellogithub", enabled=True, priority=191, category="tech"),
+        "ifanr": AdapterConfig(name="ifanr", enabled=True, priority=192, category="tech"),
+        "douban_group": AdapterConfig(name="douban_group", enabled=True, priority=193, category="social"),
+        "qqnews": AdapterConfig(name="qqnews", enabled=True, priority=194, category="news"),
+        "miyoushe": AdapterConfig(name="miyoushe", enabled=True, priority=195, category="entertainment"),
+        "weread": AdapterConfig(name="weread", enabled=True, priority=196, category="entertainment"),
+        "hostloc": AdapterConfig(name="hostloc", enabled=True, priority=197, category="tech"),
+        "nodeseek": AdapterConfig(name="nodeseek", enabled=True, priority=198, category="tech"),
+        "51cto": AdapterConfig(name="51cto", enabled=True, priority=199, category="tech"),
         "rss": AdapterConfig(
             name="rss", 
             enabled=True, 
@@ -223,19 +241,45 @@ async def main():
         SegmentfaultAdapter(configs["segmentfault"]),
         CsdnAdapter(configs["csdn"]),
         OschinaAdapter(configs["oschina"]),
+        NgaAdapter(configs["nga"]),
+        HupuAdapter(configs["hupu"]),
+        PojieAdapter(configs["52pojie"]),
+        GuokrAdapter(configs["guokr"]),
+        JianshuAdapter(configs["jianshu"]),
+        HellogithubAdapter(configs["hellogithub"]),
+        IfanrAdapter(configs["ifanr"]),
+        DoubanGroupAdapter(configs["douban_group"]),
+        QqnewsAdapter(configs["qqnews"]),
+        MiyousheAdapter(configs["miyoushe"]),
+        WereadAdapter(configs["weread"]),
+        HostlocAdapter(configs["hostloc"]),
+        NodeseekAdapter(configs["nodeseek"]),
+        Ct51Adapter(configs["51cto"]),
         RSSAdapter(configs["rss"]),
     ]
 
     all_items = []
+    success_count = 0
+    failed_count = 0
+    failed_adapters = []
+    
     for adapter in adapters:
         try:
             items = await adapter.run()
-            logger.info(f"{adapter.name}: fetched {len(items)} items")
+            logger.info(f"✓ {adapter.name}: fetched {len(items)} items")
             all_items.extend(items)
+            success_count += 1
         except Exception as e:
-            logger.error(f"{adapter.name} failed: {e}")
+            failed_count += 1
+            failed_adapters.append(adapter.name)
+            logger.error(f"✗ {adapter.name} failed: {e}")
+            logger.debug(f"Traceback for {adapter.name}:\n{traceback.format_exc()}")
 
     logger.info(f"Total items collected: {len(all_items)}")
+    logger.info(f"Adapters summary: {success_count} succeeded, {failed_count} failed")
+    
+    if failed_adapters:
+        logger.warning(f"Failed adapters: {', '.join(failed_adapters)}")
 
     output_path = Path(args.output)
     history_dir = Path(args.history_dir)
