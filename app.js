@@ -217,13 +217,13 @@ function getCategoryName(category) {
 
 function getCategoryColor(category) {
     const colors = {
-        'tech': { bg: '#3b82f620', text: '#3b82f6', border: '#3b82f650' },
-        'social': { bg: '#ec489920', text: '#ec4899', border: '#ec489950' },
-        'news': { bg: '#ef444420', text: '#ef4444', border: '#ef444450' },
-        'entertainment': { bg: '#f59e0b20', text: '#f59e0b', border: '#f59e0b50' },
-        'finance': { bg: '#10b98120', text: '#10b981', border: '#10b98150' },
-        'health': { bg: '#06b6d420', text: '#06b6d4', border: '#06b6d450' },
-        'general': { bg: '#6b728020', text: '#6b7280', border: '#6b728050' }
+        'tech': { bg: '#3b82f615', text: '#60a5fa' },
+        'social': { bg: '#ec489915', text: '#f472b6' },
+        'news': { bg: '#ef444415', text: '#f87171' },
+        'entertainment': { bg: '#f59e0b15', text: '#fbbf24' },
+        'finance': { bg: '#10b98115', text: '#34d399' },
+        'health': { bg: '#06b6d415', text: '#22d3ee' },
+        'general': { bg: '#6b728015', text: '#9ca3af' }
     };
     return colors[category] || colors['general'];
 }
@@ -263,6 +263,23 @@ function escapeHtml(text) {
     return div.innerHTML;
 }
 
+function togglePlatform(source) {
+    const card = document.querySelector(`[data-card="${source}"]`);
+    const list = document.querySelector(`[data-list="${source}"]`);
+    
+    if (expandedPlatforms.has(source)) {
+        expandedPlatforms.delete(source);
+        card.classList.remove('expanded');
+        list.classList.remove('expanded');
+        list.style.maxHeight = '0';
+    } else {
+        expandedPlatforms.add(source);
+        card.classList.add('expanded');
+        list.classList.add('expanded');
+        list.style.maxHeight = list.scrollHeight + 'px';
+    }
+}
+
 function renderPlatforms() {
     const container = document.getElementById('platform-container');
     container.innerHTML = '';
@@ -277,62 +294,53 @@ function renderPlatforms() {
         return getSourceName(a).localeCompare(getSourceName(b), 'zh-CN');
     });
 
-    sortedPlatforms.forEach(source => {
+    sortedPlatforms.forEach((source, idx) => {
         const group = platformGroups[source];
         const isExpanded = expandedPlatforms.has(source);
         const visibleItems = isExpanded ? group.items : group.items.slice(0, DEFAULT_VISIBLE_COUNT);
-        const hasMore = group.items.length > DEFAULT_VISIBLE_COUNT;
         const categoryColor = getCategoryColor(group.category);
 
-        const platformCard = document.createElement('div');
-        platformCard.className = 'platform-card';
-        platformCard.innerHTML = `
-            <div class="platform-header" style="border-left: 4px solid ${categoryColor.text}">
-                <div class="platform-info">
+        const card = document.createElement('div');
+        card.className = `platform-card ${isExpanded ? 'expanded' : ''}`;
+        card.setAttribute('data-card', source);
+        card.style.animationDelay = `${idx * 0.04}s`;
+
+        card.innerHTML = `
+            <div class="platform-header" onclick="togglePlatform('${source}')">
+                <div class="platform-left">
                     <img src="${getSourceIcon(source)}" alt="" class="platform-icon" onerror="this.style.display='none'">
-                    <h2 class="platform-name">${getSourceName(source)}</h2>
+                    <span class="platform-name">${getSourceName(source)}</span>
                     <span class="platform-count">${group.items.length}条</span>
                 </div>
                 <div class="platform-meta">
                     <span class="platform-category" style="background: ${categoryColor.bg}; color: ${categoryColor.text}">${getCategoryName(group.category)}</span>
+                    <span class="platform-toggle">
+                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+                            <path d="M3 5L7 9L11 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </span>
                 </div>
             </div>
-            <div class="platform-items">
-                ${visibleItems.map((item, index) => `
-                    <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="hot-item">
-                        <span class="item-rank">${index + 1}</span>
-                        <div class="item-content">
-                            <h3 class="item-title">${escapeHtml(item.title)}</h3>
-                            <p class="item-summary">${escapeHtml(item.summary)}</p>
-                        </div>
-                        <div class="item-meta">
-                            <span class="item-score">🔥 ${formatScore(item.hot_score)}</span>
-                            <span class="item-time">${formatTime(item.published_at)}</span>
-                        </div>
-                    </a>
-                `).join('')}
+            <div class="platform-list ${isExpanded ? 'expanded' : ''}" data-list="${source}" style="${isExpanded ? 'max-height: ' + (group.items.length * 70) + 'px' : 'max-height: 0'}">
+                <div class="platform-list-inner">
+                    ${visibleItems.map((item, index) => `
+                        <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="hot-item">
+                            <span class="item-rank">${index + 1}</span>
+                            <div class="item-content">
+                                <h3 class="item-title">${escapeHtml(item.title)}</h3>
+                                <p class="item-summary">${escapeHtml(item.summary)}</p>
+                            </div>
+                            <div class="item-meta">
+                                <span class="item-score">${formatScore(item.hot_score)}</span>
+                                <span class="item-time">${formatTime(item.published_at)}</span>
+                            </div>
+                        </a>
+                    `).join('')}
+                </div>
             </div>
-            ${hasMore ? `
-                <button class="show-more-btn" data-source="${source}">
-                    ${isExpanded ? '收起' : `查看更多 (${group.items.length - DEFAULT_VISIBLE_COUNT}条)`}
-                </button>
-            ` : ''}
         `;
         
-        container.appendChild(platformCard);
-    });
-
-    document.querySelectorAll('.show-more-btn').forEach(btn => {
-        btn.addEventListener('click', (e) => {
-            e.preventDefault();
-            const source = btn.dataset.source;
-            if (expandedPlatforms.has(source)) {
-                expandedPlatforms.delete(source);
-            } else {
-                expandedPlatforms.add(source);
-            }
-            renderPlatforms();
-        });
+        container.appendChild(card);
     });
 }
 
