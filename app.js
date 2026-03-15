@@ -266,17 +266,18 @@ function escapeHtml(text) {
 function togglePlatform(source) {
     const card = document.querySelector(`[data-card="${source}"]`);
     const list = document.querySelector(`[data-list="${source}"]`);
+    const toggle = card.querySelector('.platform-toggle');
     
     if (expandedPlatforms.has(source)) {
         expandedPlatforms.delete(source);
         card.classList.remove('expanded');
         list.classList.remove('expanded');
-        list.style.maxHeight = '0';
+        toggle.classList.remove('rotated');
     } else {
         expandedPlatforms.add(source);
         card.classList.add('expanded');
         list.classList.add('expanded');
-        list.style.maxHeight = list.scrollHeight + 'px';
+        toggle.classList.add('rotated');
     }
 }
 
@@ -321,7 +322,7 @@ function renderPlatforms() {
                     </span>
                 </div>
             </div>
-            <div class="platform-list ${isExpanded ? 'expanded' : ''}" data-list="${source}" style="${isExpanded ? 'max-height: ' + (group.items.length * 70) + 'px' : 'max-height: 0'}">
+            <div class="platform-list ${isExpanded ? 'expanded' : ''}" data-list="${source}">
                 <div class="platform-list-inner">
                     ${visibleItems.map((item, index) => `
                         <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="hot-item">

@@ -269,6 +269,14 @@ body {
     transform: translateY(-4px);
 }
 
+.platform-toggle {
+    transition: transform 0.3s ease;
+}
+
+.platform-toggle.rotated {
+    transform: rotate(180deg);
+}
+
 .platform-header {
     display: flex;
     align-items: center;
@@ -311,8 +319,9 @@ body {
 }
 
 .platform-list {
-    max-height: 480px;
+    max-height: 320px;
     overflow-y: auto;
+    transition: max-height 0.3s ease;
 }
 
 .platform-list::-webkit-scrollbar {
