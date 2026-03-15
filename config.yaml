@@ -1,0 +1,53 @@
+adapters:
+  hackernews:
+    enabled: true
+    priority: 10
+    timeout: 30
+    max_items: 20
+    category: tech
+    url: "https://hacker-news.firebaseio.com/v0"
+    icon: "https://news.ycombinator.com/favicon.ico"
+
+  github_trending:
+    enabled: true
+    priority: 20
+    timeout: 30
+    max_items: 15
+    category: tech
+    url: "https://api.github.com"
+    icon: "https://github.com/favicon.ico"
+
+  reddit:
+    enabled: true
+    priority: 30
+    timeout: 30
+    max_items: 15
+    category: social
+    url: "https://www.reddit.com"
+    icon: "https://www.reddit.com/favicon.ico"
+
+  weibo:
+    enabled: true
+    priority: 40
+    timeout: 30
+    max_items: 20
+    category: social
+    url: "https://weibo.com/ajax/side/hotSearch"
+    icon: "https://weibo.com/favicon.ico"
+
+  rss:
+    enabled: true
+    priority: 50
+    timeout: 30
+    max_items: 10
+    category: news
+    rss_urls:
+      - "https://feeds.bbci.co.uk/news/world/rss.xml"
+      - "https://www.reutersagency.com/feed/?best-topics=tech"
+      - "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+    icon: "https://www.bbc.com/favicon.ico"
+
+settings:
+  max_items: 100
+  log_level: INFO
+  output_file: hotboard.json

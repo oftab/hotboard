@@ -1,0 +1,79 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-03-14T12:00:00+00:00",
+  "items": [
+    {
+      "id": "hn001",
+      "title": "Hacker News Top Stories - March 2026",
+      "summary": "Top tech stories from Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "source": "hackernews",
+      "hot_score": 256.5,
+      "category": "tech",
+      "published_at": "2026-03-14T10:30:00+00:00",
+      "fetched_at": "2026-03-14T12:00:00+00:00",
+      "tags": ["hackernews", "tech"]
+    },
+    {
+      "id": "gh001",
+      "title": "microsoft/TypeScript - GitHub",
+      "summary": "TypeScript is a superset of JavaScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "source": "github_trending",
+      "hot_score": 98500,
+      "category": "tech",
+      "published_at": "2026-03-14T11:00:00+00:00",
+      "fetched_at": "2026-03-14T12:00:00+00:00",
+      "tags": ["github", "typescript"]
+    },
+    {
+      "id": "gh002",
+      "title": "oven-sh/bun - GitHub",
+      "summary": "Incredibly fast JavaScript runtime",
+      "url": "https://github.com/oven-sh/bun",
+      "source": "github_trending",
+      "hot_score": 95200,
+      "category": "tech",
+      "published_at": "2026-03-14T11:00:00+00:00",
+      "fetched_at": "2026-03-14T12:00:00+00:00",
+      "tags": ["github", "javascript"]
+    },
+    {
+      "id": "rd001",
+      "title": "r/programming - Reddit",
+      "summary": "Programming discussions on Reddit",
+      "url": "https://www.reddit.com/r/programming/",
+      "source": "reddit",
+      "hot_score": 5780,
+      "category": "social",
+      "published_at": "2026-03-14T08:00:00+00:00",
+      "fetched_at": "2026-03-14T12:00:00+00:00",
+      "tags": ["reddit", "programming"]
+    },
+    {
+      "id": "wb001",
+      "title": "微博热搜榜",
+      "summary": "实时热搜榜",
+      "url": "https://weibo.com/hot/search",
+      "source": "weibo",
+      "hot_score": 2850000,
+      "category": "social",
+      "published_at": "2026-03-14T11:30:00+00:00",
+      "fetched_at": "2026-03-14T12:00:00+00:00",
+      "tags": ["weibo", "trending"]
+    },
+    {
+      "id": "rss001",
+      "title": "BBC News - World",
+      "summary": "Latest world news from BBC",
+      "url": "https://www.bbc.com/news/world",
+      "source": "rss",
+      "hot_score": 85,
+      "category": "news",
+      "published_at": "2026-03-14T09:00:00+00:00",
+      "fetched_at": "2026-03-14T12:00:00+00:00",
+      "tags": ["bbc", "news"]
+    }
+  ],
+  "sources": ["hackernews", "github_trending", "reddit", "weibo", "rss"]
+}
