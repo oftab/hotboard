@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-03T19:28:59.557737+00:00",
+  "generatedAt": "2026-10-03T22:20:37.393972+00:00",
   "items": [
     {
       "title": "学 以 乱 用",
@@ -1125,6 +1125,23 @@
       "id": "36b707ce-228d-4b0a-aaf0-002d14180641"
     },
     {
+      "title": "不存在的罪人",
+      "summary": "豆瓣评分: 6.1",
+      "url": "https://movie.douban.com/subject/37124892/",
+      "source": "douban",
+      "hot_score": 46.95630754072113,
+      "category": "entertainment",
+      "published_at": "2026-10-03T22:19:49.428533+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934844988.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-03T22:19:49.428536+00:00",
+      "id": "d0199b31-395d-4ef0-b0e7-d36925060bc7"
+    },
+    {
       "title": "温柔的怪物",
       "summary": "豆瓣评分: 6.0",
       "url": "https://movie.douban.com/subject/37269580/",
@@ -1140,23 +1157,6 @@
       ],
       "fetched_at": "2026-10-03T19:27:56.105334+00:00",
       "id": "4ef724be-e3f2-4d72-aeec-8c1846b0fe2f"
-    },
-    {
-      "title": "不存在的罪人",
-      "summary": "豆瓣评分: 6.0",
-      "url": "https://movie.douban.com/subject/37124892/",
-      "source": "douban",
-      "hot_score": 46.19079879288046,
-      "category": "entertainment",
-      "published_at": "2026-10-03T19:27:56.105582+00:00",
-      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934844988.jpg",
-      "source_icon": null,
-      "tags": [
-        "豆瓣",
-        "电影"
-      ],
-      "fetched_at": "2026-10-03T19:27:56.105584+00:00",
-      "id": "31eb14cc-9b64-41d9-9557-09268b4edd80"
     },
     {
       "title": "护肝人",
@@ -2965,17 +2965,51 @@
       "summary": "刚刚在测“卧龙”版的超级玛丽，愁眉不展中... 突然收到 MiMo 的短信，说是它们发布了 MiMo Code。 这不巧了么！赶紧来体验一下。 网址是： 这个主页的界面设计和界面交互做的还是非常棒的。",
       "url": "https://juejin.cn/post/7650042840928927771",
       "source": "juejin",
-      "hot_score": 1.7036706288107408,
+      "hot_score": 1.7050528066015949,
       "category": "tech",
-      "published_at": "2026-10-03T19:28:13.714115+00:00",
+      "published_at": "2026-10-03T22:19:59.776640+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "掘金",
         "技术"
       ],
-      "fetched_at": "2026-10-03T19:28:13.714121+00:00",
-      "id": "9bc45429-f628-4557-b0a4-71e5e7c91482"
+      "fetched_at": "2026-10-03T22:19:59.776645+00:00",
+      "id": "04e47425-88a5-4dd0-b0e8-f118307ca313"
+    },
+    {
+      "title": "试了下腾讯 Marvis，回不去了...",
+      "summary": "这是苍何的第 553 篇原创！ 大家好，我是苍何。 最近一半时间都在外面跑，高铁上、酒店里、参会现场。 经常会出现手机在手边，但关键文件在家里电脑上。 以前要改个东西，身边只有手机，干瞪眼。 直到用了",
+      "url": "https://juejin.cn/post/7655217832594440243",
+      "source": "juejin",
+      "hot_score": 1.348646734612187,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:59.776679+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-03T22:19:59.776684+00:00",
+      "id": "cca443a8-c7f3-472a-907a-591c85a6ad37"
+    },
+    {
+      "title": "笑抽了！DeepSeek识图，豆包完胜了！",
+      "summary": "听说 DeepSeek 识图功能上线了，我非常兴奋啊！终于要补上多模态这个短板了么？ 打开APP和官网看了一眼： 真的出现了一个识图模式！哇塞！ 我赶紧拿“梁爷爷”的图片试一波！ 看到结果那一刻我瞬间",
+      "url": "https://juejin.cn/post/7652555762114002979",
+      "source": "juejin",
+      "hot_score": 1.341718754811097,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:59.776697+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-03T22:19:59.776702+00:00",
+      "id": "b2508460-4a39-4d3b-ab42-863c48ee8175"
     },
     {
       "title": "基于AI的前端UI自动化测试",
@@ -2999,17 +3033,17 @@
       "summary": "又让 Opus4.8 帮我手搓了一个好玩的软件！ 这一波有点帅气，也很好玩！ 桌面端软件和网页端都已经开发完成！ 这个无限流终端，是一个无限流的主题探险故事生成器。主题由 AI 随机生成，但是命运由你",
       "url": "https://juejin.cn/post/7647819684025827379",
       "source": "juejin",
-      "hot_score": 1.210968775020016,
+      "hot_score": 1.2123964651907504,
       "category": "tech",
-      "published_at": "2026-10-03T19:28:13.714161+00:00",
+      "published_at": "2026-10-03T22:19:59.776605+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "掘金",
         "技术"
       ],
-      "fetched_at": "2026-10-03T19:28:13.714163+00:00",
-      "id": "4fda96ae-8c01-405a-8bd5-924af483afef"
+      "fetched_at": "2026-10-03T22:19:59.776609+00:00",
+      "id": "ba83bcd2-bbdb-4e6b-bfae-cc39f7268354"
     },
     {
       "title": "从零到一！前端搭建本地轻量化 RAG 问答系统",
@@ -3033,17 +3067,17 @@
       "summary": "桌面脑洞 每天开机以后，Chrome、Edge、微信、VS Code 这些软件图标都安安静静地待在 Windows 桌面上。它们的工作只有一个：等我双击。 我突然想到一个有点无聊、但越想越有画面的事情",
       "url": "https://juejin.cn/post/7665201713041211446",
       "source": "juejin",
-      "hot_score": 1.0916425448050748,
+      "hot_score": 1.0930812575053115,
       "category": "tech",
-      "published_at": "2026-10-03T19:28:13.714057+00:00",
+      "published_at": "2026-10-03T22:19:59.776497+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "掘金",
         "技术"
       ],
-      "fetched_at": "2026-10-03T19:28:13.714062+00:00",
-      "id": "9b5c9d50-a71e-4213-9375-caa0a23ea93d"
+      "fetched_at": "2026-10-03T22:19:59.776510+00:00",
+      "id": "8f094157-e520-4f58-a532-1f6dc5330feb"
     },
     {
       "title": "被捅数刀的印度籍机长对话莫迪：飞机急速下坠，我不能眼睁睁看着乘客死去",
@@ -3063,38 +3097,55 @@
       "id": "c6b8f300-e6b5-45d0-9d17-4569f54a7fd8"
     },
     {
+      "title": "做个人 IP 不用真人出镜，我做了个一键生成 IP 动画视频的 Skill",
+      "summary": "今年OPC像雨后春笋般冒出来，做一人公司 把个人 IP 经营好可以成为公司的获客入口，今天这个skill只要输入文章或者口播稿，它就能直出帮你获客的个人IP动画视频。",
+      "url": "https://juejin.cn/post/7666754297045368868",
+      "source": "juejin",
+      "hot_score": 0.8937093943406104,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:59.776622+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-03T22:19:59.776627+00:00",
+      "id": "9d179283-5e50-4181-8cf7-7ee7d20b542d"
+    },
+    {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "summary": "757 points | 366 comments",
+      "summary": "776 points | 381 comments",
       "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
       "source": "hackernews",
-      "hot_score": 0.8683870173061525,
+      "hot_score": 0.8927856637004649,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004129+00:00",
+      "published_at": "2026-10-03T22:19:38.133194+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004131+00:00",
-      "id": "11211984-48c7-4fc4-beff-ab7d07a2e891"
+      "fetched_at": "2026-10-03T22:19:38.133196+00:00",
+      "id": "44678111-732e-4b63-a3c2-ff5abe3d0688"
     },
     {
       "title": "东航再通报“空姐下跪道歉”事件：已向公安机关报案",
       "summary": "澎湃新闻 - 东航再通报“空姐下跪道歉”事件：已向公安机关报案",
       "url": "https://www.thepaper.cn/newsDetail_forward_34195679",
       "source": "thepaper",
-      "hot_score": 0.7521401736774035,
+      "hot_score": 0.7666964313206269,
       "category": "news",
-      "published_at": "2026-10-03T19:28:04.863261+00:00",
+      "published_at": "2026-10-03T22:19:53.290333+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "澎湃新闻",
         "新闻"
       ],
-      "fetched_at": "2026-10-03T19:28:04.863274+00:00",
-      "id": "c63e8a36-6c6d-449d-8468-fe5ff0860d9e"
+      "fetched_at": "2026-10-03T22:19:53.290351+00:00",
+      "id": "f426cc4f-54b2-461c-8a7a-2196016cac82"
     },
     {
       "title": "奔赴“县”场｜流量变乡情，小城有了自己的麦克风",
@@ -3112,6 +3163,23 @@
       ],
       "fetched_at": "2026-10-03T16:44:00.063364+00:00",
       "id": "50a250fd-a6d6-40b8-9325-b692bc99efa5"
+    },
+    {
+      "title": "Apple Pass Designer",
+      "summary": "540 points | 321 comments",
+      "url": "https://developer.apple.com/pass-designer/",
+      "source": "hackernews",
+      "hot_score": 0.6470733134218062,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133087+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133089+00:00",
+      "id": "d7ce44bc-f8d7-4336-8f83-89df9f3d7475"
     },
     {
       "title": "大佬们，如果让你们推荐一本此生必读的书，你们会推荐哪一本？",
@@ -3148,21 +3216,21 @@
       "id": "6d71ef81-2f40-49cb-90f7-cde09ebcc7ed"
     },
     {
-      "title": "Apple Pass Designer",
-      "summary": "530 points | 317 comments",
-      "url": "https://developer.apple.com/pass-designer/",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "summary": "454 points | 277 comments",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
       "source": "hackernews",
-      "hot_score": 0.6360472993779639,
+      "hot_score": 0.5473104042861102,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004164+00:00",
+      "published_at": "2026-10-03T22:19:38.132799+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004167+00:00",
-      "id": "eb76d8dc-e3ed-4538-8b7f-ebbb007dcdfc"
+      "fetched_at": "2026-10-03T22:19:38.132802+00:00",
+      "id": "8a8984da-9f56-4fff-b4cc-50a0f8fa941a"
     },
     {
       "title": "奔赴“县”场｜莫言笔下的“高密东北乡”，不止有“红高粱”",
@@ -3217,20 +3285,20 @@
     },
     {
       "title": "Extra Big Ass Intelligence",
-      "summary": "462 points | 110 comments",
+      "summary": "475 points | 113 comments",
       "url": "https://www.extrabigassintelligence.com/",
       "source": "hackernews",
-      "hot_score": 0.4776128595183839,
+      "hot_score": 0.4909628352372448,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004309+00:00",
+      "published_at": "2026-10-03T22:19:38.133217+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004311+00:00",
-      "id": "e9040e67-6ba1-4b2a-ae14-c56b923561f9"
+      "fetched_at": "2026-10-03T22:19:38.133220+00:00",
+      "id": "8c4ce7de-8869-4b1e-aadb-e6f9cee5fe5c"
     },
     {
       "title": "Sites in ChatGPT",
@@ -3250,6 +3318,23 @@
       "id": "6e7ea92a-4086-4a27-96d9-10db97796d1f"
     },
     {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "summary": "430 points | 126 comments",
+      "url": "https://www.newgrounds.com/",
+      "source": "hackernews",
+      "hot_score": 0.4553992055916494,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133037+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133039+00:00",
+      "id": "51cf5108-1f52-411c-91d3-dcd89d4170c4"
+    },
+    {
       "title": "FLUX 3 Image",
       "summary": "417 points | 92 comments",
       "url": "https://bfl.ai/models/flux-3-image",
@@ -3267,38 +3352,21 @@
       "id": "7790d606-851a-4778-a121-d8dd91fd1e77"
     },
     {
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "summary": "403 points | 119 comments",
-      "url": "https://www.newgrounds.com/",
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "summary": "387 points | 79 comments",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
       "source": "hackernews",
-      "hot_score": 0.4272648888341442,
+      "hot_score": 0.39397111802198476,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004119+00:00",
+      "published_at": "2026-10-03T22:19:38.133104+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004121+00:00",
-      "id": "060ae436-371f-4bd8-9092-3efa07e1495b"
-    },
-    {
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "summary": "337 points | 240 comments",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "source": "hackernews",
-      "hot_score": 0.4221839009669273,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.003972+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.003977+00:00",
-      "id": "beb75b50-d5f1-41aa-bef0-baeba65c3d51"
+      "fetched_at": "2026-10-03T22:19:38.133106+00:00",
+      "id": "ee1b1ccf-3dfe-435d-8d7f-04e5facbe388"
     },
     {
       "title": "Loss of cell identity drives human aging: Two new papers",
@@ -3335,23 +3403,6 @@
       "id": "db19db2f-eace-4613-8914-b951c3a26de7"
     },
     {
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "summary": "373 points | 75 comments",
-      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "source": "hackernews",
-      "hot_score": 0.3792264580895485,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004190+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.004193+00:00",
-      "id": "7395db3d-e53a-4dc1-8ad0-d1afb8d03723"
-    },
-    {
       "title": "你更相信门诊医生还是 AI？",
       "summary": "当门诊医生的说法和 AI 的说法不一致时，你更相信谁？",
       "url": "https://www.v2ex.com/t/1246146",
@@ -3384,6 +3435,23 @@
       ],
       "fetched_at": "2026-10-03T07:06:27.545693+00:00",
       "id": "1840cbae-9462-4897-9c66-9345803fbfcf"
+    },
+    {
+      "title": "AI 替我工作之后，我应该做什么？",
+      "summary": "当原本擅长的技能逐渐被 AI 掌握，我们新的兴趣和价值支点在哪里？当执行能力越来越便宜，人还应该发展哪些能力？",
+      "url": "https://juejin.cn/post/7664584295958003758",
+      "source": "juejin",
+      "hot_score": 0.3648736028574068,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:59.776585+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-03T22:19:59.776591+00:00",
+      "id": "bfdb5e63-9ba1-4e4e-a342-b453702a1b83"
     },
     {
       "title": "深度｜渴望中资的阿富汗塔利班，留不住曾想淘金的中国商人",
@@ -3420,6 +3488,40 @@
       "id": "ca0b1775-cb68-4bfe-b927-5111ab5d30f6"
     },
     {
+      "title": "Updates to Full Disk Access in macOS",
+      "summary": "286 points | 201 comments",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "source": "hackernews",
+      "hot_score": 0.3570218924161714,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133178+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133180+00:00",
+      "id": "813d3e13-4066-4fac-929b-4860d5338a63"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "summary": "338 points | 97 comments",
+      "url": "https://dwarfstar.sh/",
+      "source": "hackernews",
+      "hot_score": 0.3570218924161714,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133152+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133155+00:00",
+      "id": "29f34018-5dff-4698-a2f8-a6c4c6dbd987"
+    },
+    {
       "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
       "summary": "316 points | 130 comments",
       "url": "https://tej.as/blog/aleph-alpha-kolibri",
@@ -3437,72 +3539,38 @@
       "id": "68dbaa2e-3bda-47e2-93ae-644c32126ef9"
     },
     {
-      "title": "Updates to Full Disk Access in macOS",
-      "summary": "280 points | 199 comments",
-      "url": "https://developer.apple.com/news/?id=p6zjojqw",
-      "source": "hackernews",
-      "hot_score": 0.3505881628379626,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004284+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.004286+00:00",
-      "id": "b5e09ecf-f019-4271-b914-12bb3b6d36f5"
-    },
-    {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "summary": "324 points | 95 comments",
-      "url": "https://dwarfstar.sh/",
-      "source": "hackernews",
-      "hot_score": 0.3431976350311018,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004252+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.004254+00:00",
-      "id": "fbf43216-5d5c-4021-98e1-30c4fbf514cb"
-    },
-    {
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "summary": "311 points | 112 comments",
+      "summary": "323 points | 116 comments",
       "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
       "source": "hackernews",
-      "hot_score": 0.3390404631397425,
+      "hot_score": 0.35194137389537206,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004243+00:00",
+      "published_at": "2026-10-03T22:19:38.133145+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004246+00:00",
-      "id": "e69b87a7-3499-4dcf-a0ba-e136e3046a38"
+      "fetched_at": "2026-10-03T22:19:38.133147+00:00",
+      "id": "583895b3-0dc9-4ed9-8a24-f7d770144230"
     },
     {
       "title": "Fable 5 入职第一天，我没让它转正",
       "summary": "昨天 Anthropic 发了 Claude Fable 5，先别急着让他拯救/毁灭世界，而是...",
       "url": "https://juejin.cn/post/7649932853715304511",
       "source": "juejin",
-      "hot_score": 0.3318039046621913,
+      "hot_score": 0.33331280598577456,
       "category": "tech",
-      "published_at": "2026-10-03T19:28:13.714129+00:00",
+      "published_at": "2026-10-03T22:19:59.776562+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "掘金",
         "技术"
       ],
-      "fetched_at": "2026-10-03T19:28:13.714132+00:00",
-      "id": "3dfcde2f-66ee-4b26-9b17-af96f4a15c42"
+      "fetched_at": "2026-10-03T22:19:59.776568+00:00",
+      "id": "4f322c48-8c2f-4c62-a209-16f50f3616c0"
     },
     {
       "title": "The Forgetful CPU (Linux on M4)",
@@ -3522,6 +3590,23 @@
       "id": "a49fa30c-1499-4ab2-a39a-6147c30d6bc9"
     },
     {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "summary": "276 points | 140 comments",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "hackernews",
+      "hot_score": 0.3196108014902854,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133161+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133163+00:00",
+      "id": "353a1f31-dbf8-4a45-b73a-624da435e954"
+    },
+    {
       "title": "Shimano Bicycle Museum Review",
       "summary": "302 points | 80 comments",
       "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
@@ -3539,21 +3624,21 @@
       "id": "3ff21881-98e5-4c0a-8258-d5fcd82487d2"
     },
     {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "summary": "273 points | 138 comments",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "source": "hackernews",
-      "hot_score": 0.3159450637433023,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004260+00:00",
+      "title": "人民日报评“空姐下跪道歉”：一味息事宁人，只会纵容无理者得寸进尺",
+      "summary": "澎湃新闻 - 人民日报评“空姐下跪道歉”：一味息事宁人，只会纵容无理者得寸进尺",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34193872",
+      "source": "thepaper",
+      "hot_score": 0.2801982941774179,
+      "category": "news",
+      "published_at": "2026-10-03T22:19:53.290543+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
-        "hacker-news",
-        "tech"
+        "澎湃新闻",
+        "新闻"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004262+00:00",
-      "id": "303cb768-767d-481d-843e-4a251f016d06"
+      "fetched_at": "2026-10-03T22:19:53.290547+00:00",
+      "id": "46119ab6-f0e2-476b-8d79-b80d3b6064e0"
     },
     {
       "title": "One month coding with GLM 5.3 Flash",
@@ -3571,23 +3656,6 @@
       ],
       "fetched_at": "2026-10-03T19:27:44.004319+00:00",
       "id": "3ddbf402-6b65-4644-b4ef-d1659deefc50"
-    },
-    {
-      "title": "人民日报评“空姐下跪道歉”：一味息事宁人，只会纵容无理者得寸进尺",
-      "summary": "澎湃新闻 - 人民日报评“空姐下跪道歉”：一味息事宁人，只会纵容无理者得寸进尺",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34193872",
-      "source": "thepaper",
-      "hot_score": 0.27714479275728277,
-      "category": "news",
-      "published_at": "2026-10-03T19:28:04.863398+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "澎湃新闻",
-        "新闻"
-      ],
-      "fetched_at": "2026-10-03T19:28:04.863403+00:00",
-      "id": "1b03f888-14a7-457c-9ba8-d4bf02c04998"
     },
     {
       "title": "On social reality in China",
@@ -3608,20 +3676,71 @@
     },
     {
       "title": "Muse Gadgets",
-      "summary": "234 points | 106 comments",
+      "summary": "237 points | 106 comments",
       "url": "https://gadgets.muse.ai",
       "source": "hackernews",
-      "hot_score": 0.2651351850711338,
+      "hot_score": 0.2678818856421467,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004301+00:00",
+      "published_at": "2026-10-03T22:19:38.133201+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004303+00:00",
-      "id": "be049b1c-03a6-4a4b-a149-b5ad34e6ed77"
+      "fetched_at": "2026-10-03T22:19:38.133204+00:00",
+      "id": "255b683e-abfb-4096-bca6-9e2a936bcda7"
+    },
+    {
+      "title": "GPT 6.1 秀",
+      "summary": "如下这个商业展示网站，完全用 gpt 6.1 生成。\r\nhttps://dyntu.com/\r\n我感觉挺惊艳。不管是交互，还是内容，都超出我的意料。\r\n我输入的提示语很少，短短几句话。6.1 大概花了",
+      "url": "https://www.v2ex.com/t/1246202",
+      "source": "v2ex",
+      "hot_score": 0.2617236813745112,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:58.626888+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "openai"
+      ],
+      "fetched_at": "2026-10-03T22:19:58.626894+00:00",
+      "id": "c6207782-0dd1-4547-8497-b380e74ce667"
+    },
+    {
+      "title": "这两年 AI 进步太快了 一年一个新模样",
+      "summary": "2024：网页代码补全/问答助手   \r\n2025：AI 能认真帮你写代码  \r\n2026：AI 可以独立负责一整块开发任务  \r\n\r\n\r\n按这速度，估计明年 AI 可以负责整个小型项目的自我迭代，维",
+      "url": "https://www.v2ex.com/t/1246207",
+      "source": "v2ex",
+      "hot_score": 0.2617236813745112,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:58.626911+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "programmer"
+      ],
+      "fetched_at": "2026-10-03T22:19:58.626916+00:00",
+      "id": "79a2a42b-bc9d-4c7e-94b1-9ac75ab815ca"
+    },
+    {
+      "title": "奔赴“县”场｜这座高速服务区，凭什么一天吸引近8万人",
+      "summary": "澎湃新闻 - 奔赴“县”场｜这座高速服务区，凭什么一天吸引近8万人",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34191472",
+      "source": "thepaper",
+      "hot_score": 0.25710502817378456,
+      "category": "news",
+      "published_at": "2026-10-03T22:19:53.290437+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-03T22:19:53.290441+00:00",
+      "id": "4c17bf6e-4aa6-4140-9f11-1f1a6098c929"
     },
     {
       "title": "做了个网盘，同一份文件可以由一万个人分摊存储费",
@@ -3641,23 +3760,6 @@
       "id": "1e915268-5ebd-4bc7-b1e8-639974455ce0"
     },
     {
-      "title": "GPT 6.1 秀",
-      "summary": "如下这个商业展示网站，完全用 gpt 6.1 生成。\r\nhttps://dyntu.com/\r\n我感觉挺惊艳。不管是交互，还是内容，都超出我的意料。\r\n我输入的提示语很少，短短几句话。6.1 大概花了",
-      "url": "https://www.v2ex.com/t/1246202",
-      "source": "v2ex",
-      "hot_score": 0.25404939336084253,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:12.324291+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "V2EX",
-        "openai"
-      ],
-      "fetched_at": "2026-10-03T19:28:12.324295+00:00",
-      "id": "eb374d97-a480-436d-a47b-82a898ac1a83"
-    },
-    {
       "title": "长征精神在今天意味着什么？人文社出版罗平汉《回看长征》",
       "summary": "澎湃新闻 - 长征精神在今天意味着什么？人文社出版罗平汉《回看长征》",
       "url": "https://www.thepaper.cn/newsDetail_forward_34188188",
@@ -3673,23 +3775,6 @@
       ],
       "fetched_at": "2026-10-03T16:44:00.063380+00:00",
       "id": "709bf9ae-f36d-4d79-b5b0-1583dd785765"
-    },
-    {
-      "title": "奔赴“县”场｜这座高速服务区，凭什么一天吸引近8万人",
-      "summary": "澎湃新闻 - 奔赴“县”场｜这座高速服务区，凭什么一天吸引近8万人",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34191472",
-      "source": "thepaper",
-      "hot_score": 0.24558108024881442,
-      "category": "news",
-      "published_at": "2026-10-03T19:28:04.863306+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "澎湃新闻",
-        "新闻"
-      ],
-      "fetched_at": "2026-10-03T19:28:04.863309+00:00",
-      "id": "76d2bba6-6492-43cc-ad79-ff97fc2ea703"
     },
     {
       "title": "0比5输球后，邵佳一：这样的失利说实话以前没有经历过",
@@ -3726,6 +3811,40 @@
       "id": "99db15ab-8d26-4f90-a101-0443bae4d432"
     },
     {
+      "title": "全景还原｜当你成为FZ1073航班的乘客：172人如何逃离死亡",
+      "summary": "澎湃新闻 - 全景还原｜当你成为FZ1073航班的乘客：172人如何逃离死亡",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34194848",
+      "source": "thepaper",
+      "hot_score": 0.21707670043415342,
+      "category": "news",
+      "published_at": "2026-10-03T22:19:53.290380+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-03T22:19:53.290388+00:00",
+      "id": "128d9ea8-8ecd-4334-a649-0a4679091ab3"
+    },
+    {
+      "title": "Make Tmux the OS",
+      "summary": "179 points | 112 comments",
+      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "source": "hackernews",
+      "hot_score": 0.2170767004341534,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133137+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133139+00:00",
+      "id": "345dadd1-d089-4198-897a-c3177cb96592"
+    },
+    {
       "title": "爷青回！在浏览器里复刻了 CS/CF「运输船」联机版",
       "summary": "前几天看到有人开源单机版，被回忆袭击，就特别想做个联机版 CS, 于是做了这个游戏，重温当年的手感～\r\n\r\n阴人、爆头，开箱即战、秒进\r\n\r\n突突突，超解压，来开一局\r\n\r\nhttps://playc",
       "url": "https://www.v2ex.com/t/1246157",
@@ -3741,40 +3860,6 @@
       ],
       "fetched_at": "2026-10-03T07:06:32.324550+00:00",
       "id": "b18f0415-a6e6-4892-b1f0-5a5e4e9d2d85"
-    },
-    {
-      "title": "这两年 AI 进步太快了 一年一个新模样",
-      "summary": "2024：网页代码补全/问答助手   \r\n2025：AI 能认真帮你写代码  \r\n2026：AI 可以独立负责一整块开发任务  \r\n\r\n\r\n按这速度，估计明年 AI 可以负责整个小型项目的自我迭代，维",
-      "url": "https://www.v2ex.com/t/1246207",
-      "source": "v2ex",
-      "hot_score": 0.21555706103344213,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:12.324304+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "V2EX",
-        "programmer"
-      ],
-      "fetched_at": "2026-10-03T19:28:12.324307+00:00",
-      "id": "904141cf-6cb8-4ffc-a47b-7b5fcc7227bd"
-    },
-    {
-      "title": "全景还原｜当你成为FZ1073航班的乘客：172人如何逃离死亡",
-      "summary": "澎湃新闻 - 全景还原｜当你成为FZ1073航班的乘客：172人如何逃离死亡",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34194848",
-      "source": "thepaper",
-      "hot_score": 0.2132475210937981,
-      "category": "news",
-      "published_at": "2026-10-03T19:28:04.863294+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "澎湃新闻",
-        "新闻"
-      ],
-      "fetched_at": "2026-10-03T19:28:04.863298+00:00",
-      "id": "0fad44ff-4f37-4a66-9b6c-4585ddca3981"
     },
     {
       "title": "宁波鲸途海洋乐园“挑逗”鳄鱼表演引关注，辖区文旅局约谈园区负责人",
@@ -3811,6 +3896,23 @@
       "id": "39587025-ff41-4855-8046-c79b77445734"
     },
     {
+      "title": "Cloudflare OHTTP gateway",
+      "summary": "182 points | 86 comments",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "source": "hackernews",
+      "hot_score": 0.20783939403270008,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133112+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133114+00:00",
+      "id": "22029044-89db-4e87-bf05-7a977df09d4a"
+    },
+    {
       "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
       "summary": "205 points | 35 comments",
       "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
@@ -3826,6 +3928,23 @@
       ],
       "fetched_at": "2026-10-03T16:43:07.966716+00:00",
       "id": "a919c1cb-06bd-4d36-8cc4-1e867f0d18b3"
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "summary": "171 points | 99 comments",
+      "url": "https://blog.kagi.com/update-orion-linux-windows",
+      "source": "hackernews",
+      "hot_score": 0.20368260615204606,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133129+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133131+00:00",
+      "id": "89799fa1-b455-4d0e-b18d-4c51ebe83a7f"
     },
     {
       "title": "中国驻美国大使接受美《新闻周刊》专访：谈习近平对美进行国事访问和中美关系",
@@ -3862,55 +3981,21 @@
       "id": "746810a2-fc55-40f4-a3b3-0e40e2e25ffe"
     },
     {
-      "title": "Make Tmux the OS",
-      "summary": "164 points | 104 comments",
-      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-      "source": "hackernews",
-      "hot_score": 0.19954425078524357,
+      "title": "199 的小米充电宝放在图书馆，插着充电忘记拿走，第二天一大家被一家子（女的还考公）偷走了，我需要较真吗？",
+      "summary": "小孩老婆男的\r\n三口之家早上 8 点半就来了\r\n神奇的是，这男的一进门就抬头看监控\r\n然后她家孩子把我的充电宝拔下来给他爸爸\r\n他爸爸先放到地上一分钟，再拿到桌上，还拿自己的线看是不是可以正常使用的充",
+      "url": "https://www.v2ex.com/t/1246297",
+      "source": "v2ex",
+      "hot_score": 0.19244388336361115,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004268+00:00",
+      "published_at": "2026-10-03T22:19:58.626956+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
-        "hacker-news",
-        "tech"
+        "V2EX",
+        "qna"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004270+00:00",
-      "id": "4ab3b1c4-9cc1-4185-b412-f36942c46525"
-    },
-    {
-      "title": "Cloudflare OHTTP gateway",
-      "summary": "169 points | 76 comments",
-      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "source": "hackernews",
-      "hot_score": 0.1912299070025251,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004173+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.004175+00:00",
-      "id": "fef7faa0-79cb-43ac-9d89-4901b8687350"
-    },
-    {
-      "title": "An Update on Orion for Linux and Windows",
-      "summary": "158 points | 92 comments",
-      "url": "https://blog.kagi.com/update-orion-linux-windows",
-      "source": "hackernews",
-      "hot_score": 0.18845845907495226,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004217+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.004219+00:00",
-      "id": "8e489936-96dc-4325-ab94-37105a49c0e7"
+      "fetched_at": "2026-10-03T22:19:58.626960+00:00",
+      "id": "92dca76f-c09f-41f9-8a8d-c4e10f345f6e"
     },
     {
       "title": "Things that apparently cause cancer",
@@ -3947,6 +4032,23 @@
       "id": "961c99ab-293a-41c3-b784-f493883eb3a2"
     },
     {
+      "title": "安东尼奥：中国球员潜力巨大，但需要有人推他们一把",
+      "summary": "澎湃新闻 - 安东尼奥：中国球员潜力巨大，但需要有人推他们一把",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34195681",
+      "source": "thepaper",
+      "hot_score": 0.1824368014287034,
+      "category": "news",
+      "published_at": "2026-10-03T22:19:53.290571+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-03T22:19:53.290574+00:00",
+      "id": "51a5cfa8-c608-4d64-801a-37f1eb2ff15b"
+    },
+    {
       "title": "Tiny Brutalism",
       "summary": "181 points | 32 comments",
       "url": "https://placeholders.itch.io/tiny-brutalism",
@@ -3981,40 +4083,6 @@
       "id": "5562bc29-4276-4dd3-ae5c-0930974dcfac"
     },
     {
-      "title": "安东尼奥：中国球员潜力巨大，但需要有人推他们一把",
-      "summary": "澎湃新闻 - 安东尼奥：中国球员潜力巨大，但需要有人推他们一把",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34195681",
-      "source": "thepaper",
-      "hot_score": 0.17706472870604176,
-      "category": "news",
-      "published_at": "2026-10-03T19:28:04.863426+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "澎湃新闻",
-        "新闻"
-      ],
-      "fetched_at": "2026-10-03T19:28:04.863431+00:00",
-      "id": "74a352e2-8327-41db-8002-44074be87ae9"
-    },
-    {
-      "title": "199 的小米充电宝放在图书馆，插着充电忘记拿走，第二天一大家被一家子（女的还考公）偷走了，我需要较真吗？",
-      "summary": "小孩老婆男的\r\n三口之家早上 8 点半就来了\r\n神奇的是，这男的一进门就抬头看监控\r\n然后她家孩子把我的充电宝拔下来给他爸爸\r\n他爸爸先放到地上一分钟，再拿到桌上，还拿自己的线看是不是可以正常使用的充",
-      "url": "https://www.v2ex.com/t/1246297",
-      "source": "v2ex",
-      "hot_score": 0.17706472870604176,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:12.324334+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "V2EX",
-        "qna"
-      ],
-      "fetched_at": "2026-10-03T19:28:12.324337+00:00",
-      "id": "86e6de66-01f6-430c-a20a-571bf661db50"
-    },
-    {
       "title": "Venice’s failed war against Constantinople led to the first bond market",
       "summary": "161 points | 53 comments",
       "url": "https://bigthink.com/books/a-fabulous-debt/",
@@ -4030,6 +4098,23 @@
       ],
       "fetched_at": "2026-10-03T19:27:44.004327+00:00",
       "id": "17155482-c4ba-4aa7-87f0-84797d7a718e"
+    },
+    {
+      "title": "City building games have a Soul Problem pt.2",
+      "summary": "124 points | 118 comments",
+      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "source": "hackernews",
+      "hot_score": 0.16904270714659606,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133209+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133212+00:00",
+      "id": "a27851a3-5a02-42d6-b04c-eddac0fe96aa"
     },
     {
       "title": "Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackathon, and Pear Prime 2027",
@@ -4065,6 +4150,23 @@
       ],
       "fetched_at": "2026-10-03T16:43:07.966986+00:00",
       "id": "d62472c9-e155-44be-b98d-97e2152dafa8"
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "summary": "153 points | 45 comments",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "source": "hackernews",
+      "hot_score": 0.16211472734550605,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132711+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132736+00:00",
+      "id": "ae0b4b83-a452-46f4-934f-0cb6aeb04286"
     },
     {
       "title": "个人项目做到哪种程度你才愿意发出来给别人用呢？",
@@ -4134,6 +4236,23 @@
       ],
       "fetched_at": "2026-10-03T12:32:22.234131+00:00",
       "id": "3638c4cc-7bd3-4b02-8c63-1bed6d6b1e5c"
+    },
+    {
+      "title": "FTL: A new operating system for clouds",
+      "summary": "134 points | 55 comments",
+      "url": "https://ftl-os.org/",
+      "source": "hackernews",
+      "hot_score": 0.1491824983834714,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132871+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132875+00:00",
+      "id": "b7bd6daa-1225-4f53-a3c7-c0159b9ec06c"
     },
     {
       "title": "60年首败！国足热身赛0比5不敌巴勒斯坦",
@@ -4221,21 +4340,21 @@
       "id": "390d20fd-3710-4629-8752-da191de8a74a"
     },
     {
-      "title": "City building games have a Soul Problem pt.2",
-      "summary": "104 points | 99 comments",
-      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-      "source": "hackernews",
-      "hot_score": 0.14180575229414302,
+      "title": "16U 落地机架 U 位设备布局与理线顺序，求 V 友帮看是否有坑",
+      "summary": "准备在索菲亚定制无底柜里塞一个 16U 带轮开放机架，主要想请教一下设备 U 位的垂直堆叠顺序与理线/风道布局是否合理。\r\n\r\nhttps://imgur.com/3nX6JpK\r\n\r\n# 垂直布局\r",
+      "url": "https://www.v2ex.com/t/1246216",
+      "source": "v2ex",
+      "hot_score": 0.1462573513563445,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004182+00:00",
+      "published_at": "2026-10-03T22:19:58.626988+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
-        "hacker-news",
-        "tech"
+        "V2EX",
+        "nas"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004184+00:00",
-      "id": "ebee6ab8-7075-45e9-8917-d074e900a717"
+      "fetched_at": "2026-10-03T22:19:58.626990+00:00",
+      "id": "664d576d-11f2-41bd-ae3c-1a0fd10447db"
     },
     {
       "title": "Anatomy of a Lean proof for software engineers",
@@ -4270,23 +4389,6 @@
       ],
       "fetched_at": "2026-10-03T07:06:32.324609+00:00",
       "id": "acc11c4c-6e3b-48c6-9e4c-b45b79b88bf2"
-    },
-    {
-      "title": "16U 落地机架 U 位设备布局与理线顺序，求 V 友帮看是否有坑",
-      "summary": "准备在索菲亚定制无底柜里塞一个 16U 带轮开放机架，主要想请教一下设备 U 位的垂直堆叠顺序与理线/风道布局是否合理。\r\n\r\nhttps://imgur.com/3nX6JpK\r\n\r\n# 垂直布局\r",
-      "url": "https://www.v2ex.com/t/1246216",
-      "source": "v2ex",
-      "hot_score": 0.13866313332460267,
-      "category": "tech",
-      "published_at": "2026-10-03T12:32:24.222574+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "V2EX",
-        "nas"
-      ],
-      "fetched_at": "2026-10-03T12:32:24.222577+00:00",
-      "id": "5d16c8b5-1c9b-435f-979f-7d49928dbf61"
     },
     {
       "title": "Hacktoberfest Is Coming to Nadiad, Gujarat 🚀 Official MLH Meetup at DDU, 15 Oct",
@@ -4358,6 +4460,40 @@
       "id": "fe5b40f8-cb72-431d-a1bc-5480f68bccac"
     },
     {
+      "title": "C++ Insights – See your source code with the eyes of a Compiler",
+      "summary": "127 points | 26 comments",
+      "url": "https://github.com/andreasfertig/cppinsights",
+      "source": "hackernews",
+      "hot_score": 0.1293222896203467,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133012+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133014+00:00",
+      "id": "dd3508f7-0e93-4e9e-abd6-917cc8d95505"
+    },
+    {
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "summary": "103 points | 61 comments",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "source": "hackernews",
+      "hot_score": 0.12331804045940205,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132769+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132775+00:00",
+      "id": "5dfdc7dd-1015-4ae9-b030-4919b3a879a2"
+    },
+    {
       "title": "美国暂停驻巴西大使馆和领事馆服务",
       "summary": "澎湃新闻 - 美国暂停驻巴西大使馆和领事馆服务",
       "url": "https://www.thepaper.cn/newsDetail_forward_34192666",
@@ -4373,23 +4509,6 @@
       ],
       "fetched_at": "2026-10-03T12:32:18.148937+00:00",
       "id": "682c26ea-901c-4900-9456-28ef60209797"
-    },
-    {
-      "title": "FTL: A new operating system for clouds",
-      "summary": "103 points | 48 comments",
-      "url": "https://ftl-os.org/",
-      "source": "hackernews",
-      "hot_score": 0.11732462893391638,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.003949+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.003954+00:00",
-      "id": "f248c910-16bb-4327-9fd6-f24ab2137b3e"
     },
     {
       "title": "体感上， ChatGPT plus 5 小时额度少于 Claude pro",
@@ -4409,21 +4528,21 @@
       "id": "97ededd0-683a-4194-a7a9-6f1b9313fa08"
     },
     {
-      "title": "C++ Insights – See your source code with the eyes of a Compiler",
-      "summary": "112 points | 22 comments",
-      "url": "https://github.com/andreasfertig/cppinsights",
+      "title": "Woking Electrical Control Room (2016)",
+      "summary": "114 points | 20 comments",
+      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
       "source": "hackernews",
-      "hot_score": 0.11362936503048593,
+      "hot_score": 0.11454259937802136,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004100+00:00",
+      "published_at": "2026-10-03T22:19:38.132937+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004103+00:00",
-      "id": "64cb1f93-c32e-41f6-92ba-c3eb7f77ef77"
+      "fetched_at": "2026-10-03T22:19:38.132939+00:00",
+      "id": "819fe36e-1d9e-41f3-9dc6-341dec084fd2"
     },
     {
       "title": "Graduating in 2030: Is learning C worth it? Honestly?",
@@ -4495,21 +4614,56 @@
       "id": "72d8eb18-6938-415b-8e76-19cc4fca20f5"
     },
     {
-      "title": "Woking Electrical Control Room (2016)",
-      "summary": "101 points | 17 comments",
-      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "summary": "99 points | 22 comments",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
       "source": "hackernews",
-      "hot_score": 0.1011578493564082,
+      "hot_score": 0.1016103704159867,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004053+00:00",
+      "published_at": "2026-10-03T22:19:38.132787+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004058+00:00",
-      "id": "a9d17218-2a70-468c-9fb2-43374fda8334"
+      "fetched_at": "2026-10-03T22:19:38.132790+00:00",
+      "id": "7575ced8-245c-41a4-b832-60bd9e6234ef"
+    },
+    {
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "summary": "75 points | 70 comments",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "source": "hackernews",
+      "hot_score": 0.1016103704159867,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132827+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132830+00:00",
+      "id": "67596782-bbd6-41a6-bbc4-74d86531cdf9"
+    },
+    {
+      "title": "EmbedCatalog is participating in Hacktoberfest 2026",
+      "summary": "Hi everyone! A little late, perhaps, but in this article, I’d like to share that my new project is...",
+      "url": "https://dev.to/anthonymax/embedcatalog-is-participating-in-hacktoberfest-2026-7f4",
+      "source": "devto",
+      "hot_score": 0.10084059488253225,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:57.027101+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fag5veodb2yihpm364qbx.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "webdev",
+        "javascript"
+      ],
+      "fetched_at": "2026-10-03T22:19:57.027105+00:00",
+      "id": "1f9a920d-63b7-45f0-b99c-47d513b1a16f"
     },
     {
       "title": "国庆假期第三天：“拼假”提前出行游客陆续返程，省内游成假期中后段出游主力",
@@ -4716,6 +4870,23 @@
       ],
       "fetched_at": "2026-10-03T19:28:10.307632+00:00",
       "id": "ea53fa02-67e9-4752-a426-a539c08f11a7"
+    },
+    {
+      "title": "0比5不敌巴勒斯坦，新华社：给中国足球的又一记警钟",
+      "summary": "澎湃新闻 - 0比5不敌巴勒斯坦，新华社：给中国足球的又一记警钟",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34194646",
+      "source": "thepaper",
+      "hot_score": 0.08082643101271669,
+      "category": "news",
+      "published_at": "2026-10-03T22:19:53.290530+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-03T22:19:53.290534+00:00",
+      "id": "a96de6b4-4087-4a51-94f0-6895cce68a9f"
     },
     {
       "title": "澎湃回声｜宁波鲸途海洋乐园：停止“挑逗”鳄鱼行为，改为其他互动形式",
@@ -4955,23 +5126,6 @@
       ],
       "fetched_at": "2026-10-03T07:07:09.636680+00:00",
       "id": "558e2416-fa57-40e9-8117-71ed827354a7"
-    },
-    {
-      "title": "0比5不敌巴勒斯坦，新华社：给中国足球的又一记警钟",
-      "summary": "澎湃新闻 - 0比5不敌巴勒斯坦，新华社：给中国足球的又一记警钟",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34194646",
-      "source": "thepaper",
-      "hot_score": 0.07549437258783924,
-      "category": "news",
-      "published_at": "2026-10-03T12:32:18.148885+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "澎湃新闻",
-        "新闻"
-      ],
-      "fetched_at": "2026-10-03T12:32:18.148888+00:00",
-      "id": "4e4bba6b-ffda-47d2-a420-ed641416f067"
     },
     {
       "title": "更多图片&gt;&gt;",
@@ -5297,6 +5451,23 @@
       "id": "29cda00d-3f4a-4c02-89b3-3a8d039e8609"
     },
     {
+      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+      "summary": "63 points | 26 comments",
+      "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+      "source": "hackernews",
+      "hot_score": 0.07020352865104536,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133062+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133064+00:00",
+      "id": "0f04bf14-82bc-4641-8aca-4b191e58c411"
+    },
+    {
       "title": "更多娱乐新闻&gt;&gt;",
       "summary": "新浪热点 - 更多娱乐新闻&gt;&gt;",
       "url": "http://ent.sina.com.cn",
@@ -5329,6 +5500,23 @@
       ],
       "fetched_at": "2026-10-03T07:07:09.636802+00:00",
       "id": "9f834e98-24b4-4e4d-b7cc-8ee0ea1b4f10"
+    },
+    {
+      "title": "外交部：中方欢迎普京总统出席APEC深圳峰会",
+      "summary": "澎湃新闻 - 外交部：中方欢迎普京总统出席APEC深圳峰会",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34195890",
+      "source": "thepaper",
+      "hot_score": 0.07004957354435447,
+      "category": "news",
+      "published_at": "2026-10-03T22:19:53.290597+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-03T22:19:53.290601+00:00",
+      "id": "20556899-7f75-4223-b9e3-c39dabd795b5"
     },
     {
       "title": "更多科技新闻&gt;&gt;",
@@ -5433,6 +5621,23 @@
       "id": "e2544972-08e2-4c21-adfa-11ee47e25668"
     },
     {
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "summary": "62 points | 26 comments",
+      "url": "https://pipod.dev/",
+      "source": "hackernews",
+      "hot_score": 0.06927979801090002,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132838+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132841+00:00",
+      "id": "d3782cb8-884e-406a-ad6e-acbd08c28e77"
+    },
+    {
       "title": "更多军事新闻&gt;&gt;",
       "summary": "新浪热点 - 更多军事新闻&gt;&gt;",
       "url": "http://mil.news.sina.com.cn",
@@ -5518,6 +5723,24 @@
       "id": "35a649b5-58f7-4bba-9bd1-caa68c1a5764"
     },
     {
+      "title": "🛑 Stop Writing Code Like It's 2026: How I Built an Autonomous Agent Pipeline That Actually Works",
+      "summary": "\"The biggest innovation in software engineering isn't new JavaScript framework - it's the shift from...",
+      "url": "https://dev.to/hizba_cloud/stop-writing-code-like-its-2025-how-i-built-an-autonomous-agent-pipeline-that-actually-works-2hhn",
+      "source": "devto",
+      "hot_score": 0.06774024694399114,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:57.027365+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb557c61r3fous00ux1gh.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "webdev"
+      ],
+      "fetched_at": "2026-10-03T22:19:57.027367+00:00",
+      "id": "e74e8fa6-ec55-489d-a0d6-7babbf44e496"
+    },
+    {
       "title": "【V2.4攻略】#角色攻略#云堇先生机制/养成/就业全解析",
       "summary": "UID：102877935 同学们早上中午晚上好！！我是为真爱肝攻略的绢旗！欢迎来到我的白垩小课堂05，请大家自己找位置坐下，前排不要留空位哦！ 同学们，云堇真是太好看了！以至于这次绢旗写",
       "url": "https://www.miyoushe.com/ys/article/14168921",
@@ -5584,24 +5807,6 @@
       ],
       "fetched_at": "2026-10-03T07:07:09.636870+00:00",
       "id": "03c9fc6f-1d12-4b42-9852-ca86927cf5b8"
-    },
-    {
-      "title": "🛑 Stop Writing Code Like It's 2026: How I Built an Autonomous Agent Pipeline That Actually Works",
-      "summary": "\"The biggest innovation in software engineering isn't new JavaScript framework - it's the shift from...",
-      "url": "https://dev.to/hizba_cloud/stop-writing-code-like-its-2025-how-i-built-an-autonomous-agent-pipeline-that-actually-works-2hhn",
-      "source": "devto",
-      "hot_score": 0.06620681160312866,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:10.307879+00:00",
-      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb557c61r3fous00ux1gh.png",
-      "source_icon": null,
-      "tags": [
-        "Dev.to",
-        "ai",
-        "webdev"
-      ],
-      "fetched_at": "2026-10-03T19:28:10.307881+00:00",
-      "id": "a0ee94d9-8914-45fa-9fcd-709294ad867d"
     },
     {
       "title": "【V2.4攻略】#探索解谜#食莲者（附密室解谜，华丽宝箱）",
@@ -5878,23 +6083,6 @@
       "id": "d0491031-271d-4add-b8c1-9b91985c248b"
     },
     {
-      "title": "外交部：中方欢迎普京总统出席APEC深圳峰会",
-      "summary": "澎湃新闻 - 外交部：中方欢迎普京总统出席APEC深圳峰会",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34195890",
-      "source": "thepaper",
-      "hot_score": 0.059278191784196584,
-      "category": "news",
-      "published_at": "2026-10-03T19:28:04.863470+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "澎湃新闻",
-        "新闻"
-      ],
-      "fetched_at": "2026-10-03T19:28:04.863476+00:00",
-      "id": "ed66ab8f-216f-4dd1-8117-3680dd2b567a"
-    },
-    {
       "title": "【观测枢】申鹤-数据、攻略、材料合集",
       "summary": "食用目录   1.申鹤-wiki资料 2.申鹤-相关材料标点 3.申鹤-角色评测   1.申鹤-wiki资料（完整版戳这里） 角色简介 基础属性 角色突破 [图",
       "url": "https://www.miyoushe.com/ys/article/14150338",
@@ -5980,6 +6168,58 @@
       "id": "2aa3861b-7ab6-4821-abb1-6ab705f1d0d1"
     },
     {
+      "title": "Never Stranded Again: How I Built an Edge AI Bus Guardian for My Friend Tejas Using TabPFN & SerpApi",
+      "summary": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend           What I...",
+      "url": "https://dev.to/kakeroth/never-stranded-again-how-i-built-an-edge-ai-bus-guardian-for-my-friend-tejas-using-tabpfn-serpapi-57i3",
+      "source": "devto",
+      "hot_score": 0.057733165009083355,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:57.027082+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "devchallenge",
+        "weekendchallenge"
+      ],
+      "fetched_at": "2026-10-03T22:19:57.027087+00:00",
+      "id": "37a2e791-a8e4-4d27-8bfc-89f0633a8944"
+    },
+    {
+      "title": "OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
+      "summary": "钛媒体热点 - OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
+      "url": "https://www.tmtpost.com/8158249.html",
+      "source": "tmtpost",
+      "hot_score": 0.057733165009083355,
+      "category": "tech",
+      "published_at": "2026-10-03T22:20:10.484895+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-03T22:20:10.484897+00:00",
+      "id": "29165f93-0c0b-47aa-b1da-c679076fbca5"
+    },
+    {
+      "title": "Vx – One Language, Every Chip",
+      "summary": "49 points | 27 comments",
+      "url": "https://vxlang.org/",
+      "source": "hackernews",
+      "hot_score": 0.05773316500908334,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132920+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132922+00:00",
+      "id": "64c61370-99b3-48ea-b968-b9c9cba7123d"
+    },
+    {
       "title": "【一图流】云堇·角色指南",
       "summary": "这里是阿斯盖特，这一次是云堇的角色指南，长图之后还有内容补充以及角色培养材料图表！ 【更新通知】本篇云堇的攻略已经停止翻新啦~楼主已经发布了新的云堇攻略帖子（点击下方连接直接跳转） [链接",
       "url": "https://www.miyoushe.com/ys/article/14158324",
@@ -6012,24 +6252,6 @@
       ],
       "fetched_at": "2026-10-03T07:07:09.636987+00:00",
       "id": "55763e70-9c2c-41d0-ab90-95d479629914"
-    },
-    {
-      "title": "Never Stranded Again: How I Built an Edge AI Bus Guardian for My Friend Tejas Using TabPFN & SerpApi",
-      "summary": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend           What I...",
-      "url": "https://dev.to/kakeroth/never-stranded-again-how-i-built-an-edge-ai-bus-guardian-for-my-friend-tejas-using-tabpfn-serpapi-57i3",
-      "source": "devto",
-      "hot_score": 0.05619880519800456,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:10.307669+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "Dev.to",
-        "devchallenge",
-        "weekendchallenge"
-      ],
-      "fetched_at": "2026-10-03T19:28:10.307672+00:00",
-      "id": "6ae60a9e-9125-454d-9d25-d85aeb2ce243"
     },
     {
       "title": "【V2.4攻略】#其他攻略#「魔药研析」低配队伍拿满奖励",
@@ -6083,23 +6305,6 @@
       "id": "39a37052-9ddb-4dd3-82c0-21a19a023833"
     },
     {
-      "title": "OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
-      "summary": "钛媒体热点 - OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
-      "url": "https://www.tmtpost.com/8158249.html",
-      "source": "tmtpost",
-      "hot_score": 0.05542895855145655,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:28.690084+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "钛媒体",
-        "科技"
-      ],
-      "fetched_at": "2026-10-03T19:28:28.690086+00:00",
-      "id": "1df1527b-ad71-45e0-a2e9-2049a7e3add8"
-    },
-    {
       "title": "US killer's sentence quashed because of AI video of victim shown in court",
       "summary": "44 points | 31 comments",
       "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
@@ -6132,6 +6337,40 @@
       ],
       "fetched_at": "2026-10-03T07:07:09.637004+00:00",
       "id": "593e8daf-1ed2-451a-a624-23ca6cf5d392"
+    },
+    {
+      "title": "169金89银83铜收官！中国队创境外参加亚运会最佳战绩",
+      "summary": "澎湃新闻 - 169金89银83铜收官！中国队创境外参加亚运会最佳战绩",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34195973",
+      "source": "thepaper",
+      "hot_score": 0.05465406287526557,
+      "category": "news",
+      "published_at": "2026-10-03T22:19:53.290584+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-03T22:19:53.290588+00:00",
+      "id": "6a5285e5-db4a-43a0-88d6-87717aabe29c"
+    },
+    {
+      "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
+      "summary": "46 points | 24 comments",
+      "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
+      "source": "hackernews",
+      "hot_score": 0.05357637712842935,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133095+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133098+00:00",
+      "id": "a022e58a-c9a5-4d0d-a547-2e0ce8c64c24"
     },
     {
       "title": "Kolibri – Tech Report [pdf]",
@@ -6184,23 +6423,6 @@
       ],
       "fetched_at": "2026-10-03T07:06:30.723083+00:00",
       "id": "ad56de11-0951-4d94-ac0f-6fa36dba64e0"
-    },
-    {
-      "title": "169金89银83铜收官！中国队创境外参加亚运会最佳战绩",
-      "summary": "澎湃新闻 - 169金89银83铜收官！中国队创境外参加亚运会最佳战绩",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34195973",
-      "source": "thepaper",
-      "hot_score": 0.04850033873252448,
-      "category": "news",
-      "published_at": "2026-10-03T19:28:04.863454+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "澎湃新闻",
-        "新闻"
-      ],
-      "fetched_at": "2026-10-03T19:28:04.863459+00:00",
-      "id": "3dbc4386-e54e-4e64-a244-19046f9c6df9"
     },
     {
       "title": "OKI Develops 124-Layer PCB Technology",
@@ -6306,6 +6528,41 @@
       "id": "f51605d5-2bbb-4ef6-8148-4830499259f3"
     },
     {
+      "title": "Holes (1996-2025)",
+      "summary": "42 points | 11 comments",
+      "url": "https://plato.stanford.edu/entries/holes/",
+      "source": "hackernews",
+      "hot_score": 0.04387720540690335,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133071+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133073+00:00",
+      "id": "b0113488-4b8b-4ec3-85a3-abdad84d4bc6"
+    },
+    {
+      "title": "I Was Overwhelmed, So I Turned My GitHub Profile Into a Roguelike Dungeon",
+      "summary": "It was a late afternoon. I came in tired and a bit down, with a long list of tasks and a pile of...",
+      "url": "https://dev.to/g00ds0ul/i-was-overwhelmed-so-i-turned-my-github-profile-into-a-roguelike-dungeon-17a8",
+      "source": "devto",
+      "hot_score": 0.0431074298734489,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:57.026951+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6kyvcofukgzaqo0lhkbd.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "csharp",
+        "gamedev"
+      ],
+      "fetched_at": "2026-10-03T22:19:57.026964+00:00",
+      "id": "014e38ca-e8fe-4d40-bf4f-3899da345499"
+    },
+    {
       "title": "They Learned to Code Before Copilot. They're Not Anti-AI. They're Pro-Evidence.",
       "summary": "In July 2025, METR published a study that nobody in a boardroom wanted to read.   They took 16...",
       "url": "https://dev.to/debashish_ghosal/they-learned-to-code-before-copilot-theyre-not-anti-ai-theyre-pro-evidence-27b",
@@ -6409,6 +6666,23 @@
       ],
       "fetched_at": "2026-10-03T19:27:44.004073+00:00",
       "id": "72447254-e310-43f3-811b-975d83c3d31d"
+    },
+    {
+      "title": "Body Awareness in Goffin's Cockatoos",
+      "summary": "36 points | 4 comments",
+      "url": "https://www.nature.com/articles/s41598-026-57500-7",
+      "source": "hackernews",
+      "hot_score": 0.03510176432552268,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133079+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133081+00:00",
+      "id": "d6244bf9-5c61-4049-94f8-2571a74067ed"
     },
     {
       "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
@@ -7278,6 +7552,23 @@
       "id": "f1ab8b9b-ce64-4a32-bff9-215775579b68"
     },
     {
+      "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
+      "summary": "33 points | 9 comments",
+      "url": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
+      "source": "hackernews",
+      "hot_score": 0.03463989900545001,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133053+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133056+00:00",
+      "id": "020f806f-6239-4d60-a472-31c47a1c031e"
+    },
+    {
       "title": "AccessPatch: breaking down web barriers for people with disabilities",
       "summary": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend.           What I...",
       "url": "https://dev.to/axrisi/accesspatch-breaking-down-web-barriers-for-people-with-disabilities-5dk3",
@@ -7311,23 +7602,6 @@
       ],
       "fetched_at": "2026-10-03T19:27:44.004336+00:00",
       "id": "c9759fed-02b0-4a77-bda0-93e51d34cc7a"
-    },
-    {
-      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-      "summary": "31 points | 10 comments",
-      "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-      "source": "hackernews",
-      "hot_score": 0.03325737513087393,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004146+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.004149+00:00",
-      "id": "aa0d09a8-31b8-4f82-89dd-b255d9f89848"
     },
     {
       "title": "The Developer Triangle: DSA, AI, and the Skill That Actually Gets You Hired (as a Beginner)",
@@ -7401,23 +7675,6 @@
       "id": "a3f787e7-671f-4c44-bb29-b9b8c60ea4d7"
     },
     {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "summary": "29 points | 8 comments",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "source": "hackernews",
-      "hot_score": 0.030485927203301098,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.003930+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.003936+00:00",
-      "id": "cae837a4-1d9a-43de-9112-e89052684af2"
-    },
-    {
       "title": "I Said Isolation Was Structural. Then Tenancy Shipped and Proved Me Right the Hard Way",
       "summary": "In the last piece of my v0.1.0 series I wrote a sentence I was proud of and not yet entitled to:...",
       "url": "https://dev.to/debashish_ghosal/i-said-isolation-was-structural-then-tenancy-shipped-and-proved-me-right-the-hard-way-aec",
@@ -7434,6 +7691,23 @@
       ],
       "fetched_at": "2026-10-03T12:32:22.234211+00:00",
       "id": "476d37a9-a85e-44ee-a4c4-366593f0dd76"
+    },
+    {
+      "title": "来论｜2026年诺贝尔物理学奖，我为何看好“学习、记忆和计算的统计物理”",
+      "summary": "澎湃新闻 - 来论｜2026年诺贝尔物理学奖，我为何看好“学习、记忆和计算的统计物理”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34195914",
+      "source": "thepaper",
+      "hot_score": 0.030021245804723345,
+      "category": "news",
+      "published_at": "2026-10-03T22:19:53.290421+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-03T22:19:53.290426+00:00",
+      "id": "2146adfd-fdc8-418c-83dd-66003f650579"
     },
     {
       "title": "A junior asked me how I knew the code was wrong. I couldn't answer him.",
@@ -7490,6 +7764,24 @@
       "id": "93856b63-4450-4233-964a-614a422d5fae"
     },
     {
+      "title": "Turn Your GitHub Contribution Graph Into an ASCII City",
+      "summary": "I decided that a normal GitHub contribution graph is not enough.  So I turned mine into a city.  And...",
+      "url": "https://dev.to/sizzlebop/turn-your-github-contribution-graph-into-an-ascii-city-ic5",
+      "source": "devto",
+      "hot_score": 0.02771191920436001,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:57.026984+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feulsjeuse6wn9bho0g8d.gif",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "github",
+        "opensource"
+      ],
+      "fetched_at": "2026-10-03T22:19:57.026988+00:00",
+      "id": "5c1e52ac-cc66-4c87-9155-4a557cc5bf39"
+    },
+    {
       "title": "Where Is the Planet",
       "summary": "28 points | 3 comments",
       "url": "http://whereistheplanet.com",
@@ -7525,39 +7817,56 @@
       "id": "052e9df3-6c21-456d-882f-21c0a2a71d01"
     },
     {
-      "title": "Body Awareness in Goffin's Cockatoos",
-      "summary": "26 points | 3 comments",
-      "url": "https://www.nature.com/articles/s41598-026-57500-7",
-      "source": "hackernews",
-      "hot_score": 0.02540493933608425,
+      "title": "湖南衡阳通报“女子驾驶摩托别车遭脚踹”，涉事双方均被依法处理",
+      "summary": "澎湃新闻 - 湖南衡阳通报“女子驾驶摩托别车遭脚踹”，涉事双方均被依法处理",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34195825",
+      "source": "thepaper",
+      "hot_score": 0.026172368137451118,
+      "category": "news",
+      "published_at": "2026-10-03T22:19:53.290642+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-03T22:19:53.290645+00:00",
+      "id": "898dbb97-63be-4472-801e-e44856c75682"
+    },
+    {
+      "title": "I Made Spider-Man Swing Without Animating a Single Frame",
+      "summary": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
+      "url": "https://dev.to/lovestaco/i-made-spider-man-swing-without-animating-a-single-frame-blender-rigging-and-mcp-14f7",
+      "source": "devto",
+      "hot_score": 0.026172368137451118,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004110+00:00",
+      "published_at": "2026-10-03T22:19:57.027050+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F49dufu4f9a09v9pc8xu6.gif",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "blender",
+        "mcp"
+      ],
+      "fetched_at": "2026-10-03T22:19:57.027055+00:00",
+      "id": "c916c597-5c48-4da2-b9bb-c72df6c03ce3"
+    },
+    {
+      "title": "RSS Feed Best Practices (2022)",
+      "summary": "24 points | 7 comments",
+      "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+      "source": "hackernews",
+      "hot_score": 0.025402592603996674,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132902+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004112+00:00",
-      "id": "d9b8da0c-e6cc-47a2-b1f6-46d3ae9b9839"
-    },
-    {
-      "title": "I Was Overwhelmed, So I Turned My GitHub Profile Into a Roguelike Dungeon",
-      "summary": "It was a late afternoon. I came in tired and a bit down, with a long list of tasks and a pile of...",
-      "url": "https://dev.to/g00ds0ul/i-was-overwhelmed-so-i-turned-my-github-profile-into-a-roguelike-dungeon-17a8",
-      "source": "devto",
-      "hot_score": 0.024635092689536245,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:10.307610+00:00",
-      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6kyvcofukgzaqo0lhkbd.png",
-      "source_icon": null,
-      "tags": [
-        "Dev.to",
-        "csharp",
-        "gamedev"
-      ],
-      "fetched_at": "2026-10-03T19:28:10.307617+00:00",
-      "id": "f33dc5c5-8769-4728-a8e0-bc47e61b07ab"
+      "fetched_at": "2026-10-03T22:19:38.132904+00:00",
+      "id": "110c68f3-cd43-449e-b3b9-eb9a248298e4"
     },
     {
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
@@ -7594,6 +7903,23 @@
       "id": "3b86ef97-cb79-41cf-82aa-312d92f7d7fd"
     },
     {
+      "title": "Memory-Safe WebP Decoding",
+      "summary": "23 points | 6 comments",
+      "url": "https://halide.cx/blog/wpd/",
+      "source": "hackernews",
+      "hot_score": 0.02401699664377867,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132970+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132972+00:00",
+      "id": "c3903feb-5408-4ca5-9582-4946fc4c57bd"
+    },
+    {
       "title": "zenkai: The App Launcher I Wrote Because I Wanted Something Fast and Beautiful",
       "summary": "If you only came here to try it, grab it at zenkai-launcher.netlify.app and the source is on GitHub....",
       "url": "https://dev.to/dayvster/zenkai-the-app-launcher-i-wrote-because-i-wanted-something-fast-and-beautiful-1gkc",
@@ -7612,21 +7938,21 @@
       "id": "cd69888f-f0d6-4990-814d-f0ff6c3b0e4a"
     },
     {
-      "title": "Holes (1996-2025)",
-      "summary": "23 points | 4 comments",
-      "url": "https://plato.stanford.edu/entries/holes/",
+      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+      "summary": "22 points | 7 comments",
+      "url": "https://github.com/graphene-data/graphene",
       "source": "hackernews",
-      "hot_score": 0.023095399396440227,
+      "hot_score": 0.02355513132370601,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004199+00:00",
+      "published_at": "2026-10-03T22:19:38.133020+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004201+00:00",
-      "id": "0b6386e8-5470-4097-8ba8-4446b71a38e0"
+      "fetched_at": "2026-10-03T22:19:38.133022+00:00",
+      "id": "6aa34c22-fa51-4e9d-bec0-9c81894e0c16"
     },
     {
       "title": "Redis says the key is gone. The memory comes back 22 seconds later.",
@@ -7647,30 +7973,13 @@
       "id": "73c1eb40-c0a1-46a2-a353-dfd3883d9149"
     },
     {
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "summary": "18 points | 12 comments",
-      "url": "https://pipod.dev/",
-      "source": "hackernews",
-      "hot_score": 0.02217158342058262,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004030+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.004035+00:00",
-      "id": "2ddd76dc-5a2e-4916-8391-07d61fa71bc5"
-    },
-    {
       "title": "I built a Tool for helping my friend next interview",
       "summary": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend           What I...",
       "url": "https://dev.to/aarishmansur/i-built-a-tool-for-helping-my-friend-next-interview-2c09",
       "source": "devto",
-      "hot_score": 0.020016012810248198,
+      "hot_score": 0.02155371493672445,
       "category": "tech",
-      "published_at": "2026-10-03T19:28:10.307773+00:00",
+      "published_at": "2026-10-03T22:19:57.027219+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
@@ -7678,42 +7987,25 @@
         "devchallenge",
         "weekendchallenge"
       ],
-      "fetched_at": "2026-10-03T19:28:10.307775+00:00",
-      "id": "20b0e863-b065-44a2-a50d-8261ee655951"
+      "fetched_at": "2026-10-03T22:19:57.027224+00:00",
+      "id": "a94c60bc-73c9-4b3a-acb3-c29e2c502449"
     },
     {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "summary": "20 points | 3 comments",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "summary": "18 points | 4 comments",
+      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
       "source": "hackernews",
-      "hot_score": 0.019862043480938597,
+      "hot_score": 0.01847461280290667,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.003991+00:00",
+      "published_at": "2026-10-03T22:19:38.133003+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.003996+00:00",
-      "id": "499cc3d7-062d-4304-8754-01c0da37078d"
-    },
-    {
-      "title": "来论｜2026年诺贝尔物理学奖，我为何看好“学习、记忆和计算的统计物理”",
-      "summary": "澎湃新闻 - 来论｜2026年诺贝尔物理学奖，我为何看好“学习、记忆和计算的统计物理”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34195914",
-      "source": "thepaper",
-      "hot_score": 0.01924616616370019,
-      "category": "news",
-      "published_at": "2026-10-03T19:28:04.863606+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "澎湃新闻",
-        "新闻"
-      ],
-      "fetched_at": "2026-10-03T19:28:04.863608+00:00",
-      "id": "d55bad7f-e382-4406-b67a-386f5949b2ab"
+      "fetched_at": "2026-10-03T22:19:38.133006+00:00",
+      "id": "e653f7b2-f4cf-4d63-9698-12555c2cc8ee"
     },
     {
       "title": "A Sanity Check for AI-Generated Cyber Attack Reconstructions",
@@ -7734,23 +8026,6 @@
       "id": "8719f26f-b824-400d-86e2-c441aa2090c4"
     },
     {
-      "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
-      "summary": "16 points | 5 comments",
-      "url": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
-      "source": "hackernews",
-      "hot_score": 0.01709059555336577,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004138+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.004140+00:00",
-      "id": "3b3eb0f9-cd0d-4dcc-b5d4-d06e52583d83"
-    },
-    {
       "title": "A service mesh costs 0.16ms at one connection and 86% of your throughput at 32",
       "summary": "The per-hop latency figure every mesh benchmark quotes is honest and nearly useless. Measured Linkerd on identical hardware with and without, at three concurrency levels, with the nodes never above 50% CPU.",
       "url": "https://dev.to/remdore/a-service-mesh-costs-016ms-at-one-connection-and-86-of-your-throughput-at-32-4akf",
@@ -7769,21 +8044,38 @@
       "id": "f07bdc79-b3fd-46fe-937f-72986ffc52a8"
     },
     {
-      "title": "湖南衡阳通报“女子驾驶摩托别车遭脚踹”，涉事双方均被依法处理",
-      "summary": "澎湃新闻 - 湖南衡阳通报“女子驾驶摩托别车遭脚踹”，涉事双方均被依法处理",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34195825",
-      "source": "thepaper",
-      "hot_score": 0.01616677957750816,
-      "category": "news",
-      "published_at": "2026-10-03T19:28:04.863588+00:00",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "summary": "18 points | 0 comments",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "source": "hackernews",
+      "hot_score": 0.016627151522616006,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132978+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
-        "澎湃新闻",
-        "新闻"
+        "hacker-news",
+        "tech"
       ],
-      "fetched_at": "2026-10-03T19:28:04.863591+00:00",
-      "id": "968d8919-68ab-4f0f-9a9a-d9af998483fb"
+      "fetched_at": "2026-10-03T22:19:38.132980+00:00",
+      "id": "3f656db4-5e6c-4ab9-8a4b-809517e8ff4b"
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "summary": "14 points | 7 comments",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "source": "hackernews",
+      "hot_score": 0.016165286202543337,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132995+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132997+00:00",
+      "id": "232cf1dc-a471-4c36-9831-4bc4069ea77f"
     },
     {
       "title": "Rediscovering the Schwartzian Transform: Why I Had to Comment on a Flutter Performance Article",
@@ -7802,24 +8094,6 @@
       ],
       "fetched_at": "2026-10-03T16:44:03.238027+00:00",
       "id": "ef65b225-772e-4317-adf0-ffe8c77f4b9f"
-    },
-    {
-      "title": "I Made Spider-Man Swing Without Animating a Single Frame",
-      "summary": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
-      "url": "https://dev.to/lovestaco/i-made-spider-man-swing-without-animating-a-single-frame-blender-rigging-and-mcp-14f7",
-      "source": "devto",
-      "hot_score": 0.015396932930960153,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:10.307826+00:00",
-      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F49dufu4f9a09v9pc8xu6.gif",
-      "source_icon": null,
-      "tags": [
-        "Dev.to",
-        "blender",
-        "mcp"
-      ],
-      "fetched_at": "2026-10-03T19:28:10.307829+00:00",
-      "id": "361a4568-54e0-426e-a844-5cee605a7551"
     },
     {
       "title": "Debian Inference Portal",
@@ -7927,22 +8201,55 @@
       "id": "eb929071-3d0c-4412-883b-fe222f1b2e32"
     },
     {
-      "title": "Turn Your GitHub Contribution Graph Into an ASCII City",
-      "summary": "I decided that a normal GitHub contribution graph is not enough.  So I turned mine into a city.  And...",
-      "url": "https://dev.to/sizzlebop/turn-your-github-contribution-graph-into-an-ascii-city-ic5",
-      "source": "devto",
-      "hot_score": 0.011547699698220115,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:10.307682+00:00",
-      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feulsjeuse6wn9bho0g8d.gif",
+      "title": "10月3日全国多处景区发布限流公告",
+      "summary": "澎湃新闻 - 10月3日全国多处景区发布限流公告",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34195515",
+      "source": "thepaper",
+      "hot_score": 0.012316408535271117,
+      "category": "news",
+      "published_at": "2026-10-03T22:19:53.290610+00:00",
+      "image_url": null,
       "source_icon": null,
       "tags": [
-        "Dev.to",
-        "github",
-        "opensource"
+        "澎湃新闻",
+        "新闻"
       ],
-      "fetched_at": "2026-10-03T19:28:10.307684+00:00",
-      "id": "fe9e92e8-71b2-45ef-ba03-1fd1a0f3a00a"
+      "fetched_at": "2026-10-03T22:19:53.290614+00:00",
+      "id": "e21f5365-7f44-46a3-bb4e-474e928f31f6"
+    },
+    {
+      "title": "Show HN: Factorio but with unreliable components",
+      "summary": "12 points | 1 comments",
+      "url": "https://think-twice.me/public/rely/",
+      "source": "hackernews",
+      "hot_score": 0.01154663300181667,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132954+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132956+00:00",
+      "id": "80772b4a-10c8-473b-aef2-517ee8ac9bb3"
+    },
+    {
+      "title": "New York City should carefully measure a new tree",
+      "summary": "11 points | 2 comments",
+      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
+      "source": "hackernews",
+      "hot_score": 0.011084767681744004,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132851+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132855+00:00",
+      "id": "4c87338c-4c5f-4bf3-9c3f-42e781624b67"
     },
     {
       "title": "Tala: Free Audio-to-Text for My Designer Friend (No Signup, No Credit Card)",
@@ -7997,21 +8304,38 @@
       "id": "0ea40643-cb9f-4897-bde7-534d7ee02671"
     },
     {
-      "title": "Memory-Safe WebP Decoding",
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
       "summary": "10 points | 1 comments",
-      "url": "https://halide.cx/blog/wpd/",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
       "source": "hackernews",
-      "hot_score": 0.00970641933272219,
+      "hot_score": 0.009699171721526002,
       "category": "tech",
-      "published_at": "2026-10-03T12:31:25.869580+00:00",
+      "published_at": "2026-10-03T22:19:38.132911+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T12:31:25.869582+00:00",
-      "id": "026f5189-1eeb-4a46-9bee-d5db655fea5d"
+      "fetched_at": "2026-10-03T22:19:38.132913+00:00",
+      "id": "efb31f73-3d06-4900-a6d9-872dcc7f6895"
+    },
+    {
+      "title": "Agents don't need memory, they need documentation",
+      "summary": "8 points | 5 comments",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "source": "hackernews",
+      "hot_score": 0.009699171721526002,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133029+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133031+00:00",
+      "id": "a3a8da94-7598-44e8-96cb-33af7dad0116"
     },
     {
       "title": "Programming the ENIAC (2011)",
@@ -8031,23 +8355,6 @@
       "id": "d2cd6a24-6269-4d79-adcc-37e3251df515"
     },
     {
-      "title": "Vx – One Language, Every Chip",
-      "summary": "8 points | 4 comments",
-      "url": "https://vxlang.org/",
-      "source": "hackernews",
-      "hot_score": 0.009238159758576092,
-      "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004081+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "hacker-news",
-        "tech"
-      ],
-      "fetched_at": "2026-10-03T19:27:44.004084+00:00",
-      "id": "447ee214-5ae8-45de-ae05-d79052beef39"
-    },
-    {
       "title": "现在反驳型人格怎么改呀？",
       "summary": "之前自己都没有在意，现在才发现好像别人说什么自己都喜欢反驳。",
       "url": "https://www.v2ex.com/t/1246103",
@@ -8063,6 +8370,23 @@
       ],
       "fetched_at": "2026-10-03T01:39:52.757231+00:00",
       "id": "0d222143-6671-4d77-b221-81cc919e0405"
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "summary": "8 points | 3 comments",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "source": "hackernews",
+      "hot_score": 0.00877544108138067,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132815+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132818+00:00",
+      "id": "981af3c6-b15a-40aa-b1ee-be09ed278e29"
     },
     {
       "title": "Show HN: Timeline of the Far Future",
@@ -8154,6 +8478,40 @@
       "id": "7e584310-6933-4aaa-a4a5-13a997fbaf4b"
     },
     {
+      "title": "The characters of plastics (2024)",
+      "summary": "7 points | 2 comments",
+      "url": "https://yarchive.net/blog/plastics/",
+      "source": "hackernews",
+      "hot_score": 0.007389845121162669,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133225+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133228+00:00",
+      "id": "663e9d84-d6bc-4e33-a330-b3b2f0c08e21"
+    },
+    {
+      "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
+      "summary": "8 points | 0 comments",
+      "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
+      "source": "hackernews",
+      "hot_score": 0.007389845121162669,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133045+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133047+00:00",
+      "id": "37d7d8d1-987d-4760-8a85-2e18752a9733"
+    },
+    {
       "title": "国庆假期第二天多地景区再发限流公告，节中机票“真香价”催生“说走就走”的旅行",
       "summary": "澎湃新闻 - 国庆假期第二天多地景区再发限流公告，节中机票“真香价”催生“说走就走”的旅行",
       "url": "https://www.thepaper.cn/newsDetail_forward_34191622",
@@ -8169,6 +8527,23 @@
       ],
       "fetched_at": "2026-10-03T07:06:27.545742+00:00",
       "id": "5bd5ca3c-313f-4392-b77c-27ef32c9698b"
+    },
+    {
+      "title": "Generic Const Args and You",
+      "summary": "7 points | 1 comments",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/",
+      "source": "hackernews",
+      "hot_score": 0.006927979801090002,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133186+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133188+00:00",
+      "id": "ae57f539-0fa5-4daf-89db-fffae00dd8b1"
     },
     {
       "title": "Nobody Is Listening on Port 8125",
@@ -8240,38 +8615,72 @@
       "id": "5e4f02a5-7910-4d5b-8166-56eaba155d39"
     },
     {
-      "title": "10月3日全国多处景区发布限流公告",
-      "summary": "澎湃新闻 - 10月3日全国多处景区发布限流公告",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34195515",
-      "source": "thepaper",
-      "hot_score": 0.005388926525836054,
-      "category": "news",
-      "published_at": "2026-10-03T19:28:04.863487+00:00",
-      "image_url": null,
-      "source_icon": null,
-      "tags": [
-        "澎湃新闻",
-        "新闻"
-      ],
-      "fetched_at": "2026-10-03T19:28:04.863544+00:00",
-      "id": "db2721f0-4170-4c49-a0df-15000354369f"
-    },
-    {
-      "title": "The characters of plastics (2024)",
-      "summary": "4 points | 2 comments",
-      "url": "https://yarchive.net/blog/plastics/",
+      "title": "Show HN: Local pretrained classifiers, GPU not needed",
+      "summary": "6 points | 1 comments",
+      "url": "https://github.com/nicobrenner/jeffy",
       "source": "hackernews",
-      "hot_score": 0.004619079879288046,
+      "hot_score": 0.006004249160944668,
       "category": "tech",
-      "published_at": "2026-10-03T19:27:44.004234+00:00",
+      "published_at": "2026-10-03T22:19:38.132987+00:00",
       "image_url": null,
       "source_icon": null,
       "tags": [
         "hacker-news",
         "tech"
       ],
-      "fetched_at": "2026-10-03T19:27:44.004237+00:00",
-      "id": "09694ab1-e059-43c0-bca1-557b3dd2ce07"
+      "fetched_at": "2026-10-03T22:19:38.132989+00:00",
+      "id": "bdd90b64-dba9-4e98-acd1-5a0f97f6fe69"
+    },
+    {
+      "title": "AI safety is mostly a sex cult in Berkeley, CA [pdf]",
+      "summary": "6 points | 0 comments",
+      "url": "https://ams3.digitaloceanspaces.com/urbits3/sitful-hatred/2026.9.24..22.31.54..beb8.51eb.851e.b851-AI%20Safety%20Is%20Mostly%20A%20Sex%20Cult%20In%20Berkeley%2C%20California.pdf",
+      "source": "hackernews",
+      "hot_score": 0.005542383840872002,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133169+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133172+00:00",
+      "id": "10a41906-3c33-4971-9fdb-eb71e58c17d5"
+    },
+    {
+      "title": "Gboard Conveyor Belt Version",
+      "summary": "5 points | 1 comments",
+      "url": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
+      "source": "hackernews",
+      "hot_score": 0.005080518520799335,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132892+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132895+00:00",
+      "id": "d3be2913-b1bf-491c-bfaa-6ce207c2683f"
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "summary": "5 points | 0 comments",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "source": "hackernews",
+      "hot_score": 0.004618653200726667,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132962+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132964+00:00",
+      "id": "d1f2733b-c650-4cb0-a1ff-f197b1c68111"
     },
     {
       "title": "Tibo 耍猴了， 明天全局重置",
@@ -8325,6 +8734,40 @@
       "id": "3c45b0f9-76a1-4d22-97a5-0b4a050218a2"
     },
     {
+      "title": "How to hack time, with C2PA",
+      "summary": "4 points | 0 comments",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "source": "hackernews",
+      "hot_score": 0.0036949225605813346,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.132928+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.132930+00:00",
+      "id": "13a3dd7f-40b4-4ebd-bd72-598aa4400aa9"
+    },
+    {
+      "title": "At the Conformation Show: Chasing the Ideal Dog",
+      "summary": "4 points | 0 comments",
+      "url": "https://www.theparisreview.org/blog/2026/09/03/the-conformation-show-and-the-pursuit-of-the-ideal-dog/",
+      "source": "hackernews",
+      "hot_score": 0.0036949225605813346,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:38.133121+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-03T22:19:38.133123+00:00",
+      "id": "2ebcb455-64df-4dcc-bb12-f85a917d0a1a"
+    },
+    {
       "title": "Zig v0.17.0",
       "summary": "209 points | 132 comments",
       "url": "https://ziglang.org/download/0.17.0/release-notes.html",
@@ -8375,6 +8818,24 @@
       ],
       "fetched_at": "2026-10-03T16:44:03.238094+00:00",
       "id": "a7c0ba94-8a49-405d-b2db-a132e7728137"
+    },
+    {
+      "title": "Miraiclip: an open-source engine for building video editors in the browser",
+      "summary": "Commands, frame-accurate preview, export, HTML clips, templates and AI editing. You bring the UI.",
+      "url": "https://dev.to/vinamrasareen/miraiclip-an-open-source-engine-for-building-video-editors-in-the-browser-1eo0",
+      "source": "devto",
+      "hot_score": 0.003079102133817779,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:57.027381+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcomaniacs.github.io%2Fmiraiclip%2Fmedia%2Fmiraiclip-demo-poster.jpg",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "javascript",
+        "webdev"
+      ],
+      "fetched_at": "2026-10-03T22:19:57.027383+00:00",
+      "id": "de2d2dd2-47fe-4afc-9d7d-e031d4ea4e24"
     },
     {
       "title": "戒短视频，碎片时间，可以干啥？",
@@ -8549,6 +9010,42 @@
       ],
       "fetched_at": "2026-10-03T16:44:03.238299+00:00",
       "id": "b92f6f50-b86a-438c-85b3-72d79a6610e4"
+    },
+    {
+      "title": "Nudging with Questions: Why Telling Your AI What to Fix Triggers an Apology Death Spiral (And How to Advance Juniors)",
+      "summary": "What I learned mentoring juniors for four decades seems to apply to today's agentic coding: why barking code fixes triggers sycophantic panic, and how Socratic questions yield 95%+ first-pass success.",
+      "url": "https://dev.to/gde/nudging-with-questions-why-telling-your-ai-what-to-fix-triggers-an-apology-death-spiral-and-how-5gm4",
+      "source": "devto",
+      "hot_score": 0.0015395510669088896,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:57.027066+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq4n1nl9uebtqthv7tj99.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "programming"
+      ],
+      "fetched_at": "2026-10-03T22:19:57.027071+00:00",
+      "id": "b86f916c-f8d2-4f8d-a28f-7def8255321d"
+    },
+    {
+      "title": "Claude Code mods: Minesweeper and testkit",
+      "summary": "My own harness, the tooling I run around Claude Code, comes with a custom trust score. That trust...",
+      "url": "https://dev.to/reporails/claude-code-mods-minesweeper-and-testkit-3067",
+      "source": "devto",
+      "hot_score": 0.0015395510669088896,
+      "category": "tech",
+      "published_at": "2026-10-03T22:19:57.027323+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvusqlrhowrv8t7t0b28b.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "claude"
+      ],
+      "fetched_at": "2026-10-03T22:19:57.027325+00:00",
+      "id": "f0363bad-a750-41d2-9d2a-b7d4e113b2b0"
     },
     {
       "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
@@ -11534,40 +12031,55 @@
       "id": "0f39214a-5cbd-4065-8f0a-a77497cf8414"
     },
     {
-      "title": "Nudging with Questions: Why Telling Your AI What to Fix Triggers an Apology Death Spiral (And How to Advance Juniors)",
-      "summary": "What I learned mentoring juniors for four decades seems to apply to today's agentic coding: why barking code fixes triggers sycophantic panic, and how Socratic questions yield 95%+ first-pass success.",
-      "url": "https://dev.to/gde/nudging-with-questions-why-telling-your-ai-what-to-fix-triggers-an-apology-death-spiral-and-how-5gm4",
-      "source": "devto",
-      "hot_score": 0.0007698466465480077,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:10.307659+00:00",
-      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq4n1nl9uebtqthv7tj99.png",
+      "title": "男子多次恶意举报足浴店涉黄被行拘",
+      "summary": "微博热搜 - 男子多次恶意举报足浴店涉黄被行拘",
+      "url": "https://s.weibo.com/weibo?q=男子多次恶意举报足浴店涉黄被行拘",
+      "source": "weibo_hot",
+      "hot_score": 0.0007697755334544448,
+      "category": "social",
+      "published_at": "2026-10-03T22:19:40.462938+00:00",
+      "image_url": null,
       "source_icon": null,
       "tags": [
-        "Dev.to",
-        "ai",
-        "programming"
+        "微博",
+        "热搜"
       ],
-      "fetched_at": "2026-10-03T19:28:10.307662+00:00",
-      "id": "06d3e675-604d-41e6-85fa-a29eeaf1b6f4"
+      "fetched_at": "2026-10-03T22:19:40.462942+00:00",
+      "id": "768ef3ac-8948-465d-a58b-93495ac8f6df"
     },
     {
-      "title": "Claude Code mods: Minesweeper and testkit",
-      "summary": "My own harness, the tooling I run around Claude Code, comes with a custom trust score. That trust...",
-      "url": "https://dev.to/reporails/claude-code-mods-minesweeper-and-testkit-3067",
-      "source": "devto",
-      "hot_score": 0.0007698466465480077,
-      "category": "tech",
-      "published_at": "2026-10-03T19:28:10.307852+00:00",
-      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvusqlrhowrv8t7t0b28b.png",
+      "title": "谢谢雪饼猴关键时刻伸手相助",
+      "summary": "微博热搜 - 谢谢雪饼猴关键时刻伸手相助",
+      "url": "https://s.weibo.com/weibo?q=谢谢雪饼猴关键时刻伸手相助",
+      "source": "weibo_hot",
+      "hot_score": 0.0007697755334544448,
+      "category": "social",
+      "published_at": "2026-10-03T22:19:40.463216+00:00",
+      "image_url": null,
       "source_icon": null,
       "tags": [
-        "Dev.to",
-        "ai",
-        "claude"
+        "微博",
+        "热搜"
       ],
-      "fetched_at": "2026-10-03T19:28:10.307855+00:00",
-      "id": "461f8e60-3087-46e9-9988-b530e8af59f4"
+      "fetched_at": "2026-10-03T22:19:40.463218+00:00",
+      "id": "80df6156-76f9-403c-bcec-8d2a3bb8cc83"
+    },
+    {
+      "title": "KPL",
+      "summary": "微博热搜 - KPL",
+      "url": "https://s.weibo.com/weibo?q=KPL",
+      "source": "weibo_hot",
+      "hot_score": 0.0007697755334544448,
+      "category": "social",
+      "published_at": "2026-10-03T22:19:40.463339+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-03T22:19:40.463341+00:00",
+      "id": "a2a918ba-7999-4d5e-ad7a-12776140b30d"
     },
     {
       "title": "Now That's an Impurity Story",
@@ -12819,17 +13331,17 @@
     }
   ],
   "sources": [
-    "tmtpost",
-    "miyoushe",
-    "weibo_hot",
-    "bilibili",
-    "hackernews",
-    "rss",
     "juejin",
-    "douban",
+    "hackernews",
+    "thepaper",
+    "miyoushe",
     "sina",
-    "devto",
+    "bilibili",
+    "douban",
+    "tmtpost",
+    "weibo_hot",
+    "rss",
     "v2ex",
-    "thepaper"
+    "devto"
   ]
 }
