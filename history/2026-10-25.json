@@ -1,0 +1,5234 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-10-25T03:15:38.668003+00:00",
+  "items": [
+    {
+      "title": "Cursor 转 Codex 大半个月，聊聊我的真实感受",
+      "summary": "Cursor 让我第一次强烈感受到 AI 编程的震撼，Codex 则让我第一次真正感觉到，AI 不只是编程助手，而是一个真正的超级Agent，Codex 明显更接近下一阶段的形态。",
+      "url": "https://juejin.cn/post/7637856870833635343",
+      "source": "juejin",
+      "hot_score": 100.0,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:50.307584+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-25T03:14:50.307597+00:00",
+      "id": "58d550e7-1e7a-4f22-9984-5a8278cfa45c"
+    },
+    {
+      "title": "别再裸用 Claude Code 了！32 个亲测Skills + 8 个 MCP，开发效率直接拉满！",
+      "summary": "别再裸用 Claude Code 了！32 个亲测技能 + 8 个 MCP 服务器，开发效率直接拉满！ 先晒一下我装完的效果（见下图），所有技能均实测可用。",
+      "url": "https://juejin.cn/post/7620060655607857178",
+      "source": "juejin",
+      "hot_score": 69.9733815001426,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:50.307627+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-25T03:14:50.307634+00:00",
+      "id": "7a564e96-acd8-4751-8ab9-6d7e94f3f0ae"
+    },
+    {
+      "title": "给阿嬷的情书",
+      "summary": "豆瓣评分: 9.3",
+      "url": "https://movie.douban.com/subject/37116446/",
+      "source": "douban",
+      "hot_score": 63.1510328249562,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727627+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931851430.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727630+00:00",
+      "id": "67f7028f-d707-41d9-96f0-0def2b2c46a1"
+    },
+    {
+      "title": "黑球",
+      "summary": "豆瓣评分: 8.6",
+      "url": "https://movie.douban.com/subject/37215318/",
+      "source": "douban",
+      "hot_score": 58.39772927899176,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727427+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936417029.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727432+00:00",
+      "id": "c6622985-562c-4c0b-bac8-6ccce5df051a"
+    },
+    {
+      "title": "挽救计划",
+      "summary": "豆瓣评分: 8.6",
+      "url": "https://movie.douban.com/subject/35010610/",
+      "source": "douban",
+      "hot_score": 58.39772927899176,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727739+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931370692.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727741+00:00",
+      "id": "ddf32e35-7dd9-4ca1-951d-4a132c86285b"
+    },
+    {
+      "title": "罗斯",
+      "summary": "豆瓣评分: 8.5",
+      "url": "https://movie.douban.com/subject/35322132/",
+      "source": "douban",
+      "hot_score": 57.71868591528255,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727447+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935294362.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727452+00:00",
+      "id": "94a27dc2-cd50-4a4a-b6a1-ef36c3f43a5c"
+    },
+    {
+      "title": "大濛",
+      "summary": "豆瓣评分: 8.2",
+      "url": "https://movie.douban.com/subject/36680492/",
+      "source": "douban",
+      "hot_score": 55.68155582415493,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727576+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2925804842.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727582+00:00",
+      "id": "71104778-122d-419d-810b-efefe0bb44a2"
+    },
+    {
+      "title": "八仙！",
+      "summary": "豆瓣评分: 8.2",
+      "url": "https://movie.douban.com/subject/36882191/",
+      "source": "douban",
+      "hot_score": 55.68155582415493,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727731+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934074566.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727734+00:00",
+      "id": "b6835f1f-857e-4c08-9c01-607cfd4affff"
+    },
+    {
+      "title": "诺曼底72小时",
+      "summary": "豆瓣评分: 8.2",
+      "url": "https://movie.douban.com/subject/36916000/",
+      "source": "douban",
+      "hot_score": 55.68155582415493,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727830+00:00",
+      "image_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2932334501.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727832+00:00",
+      "id": "d5287d66-c667-4d8d-86ed-fbdc94fa5ed6"
+    },
+    {
+      "title": "玩具总动员5",
+      "summary": "豆瓣评分: 8.0",
+      "url": "https://movie.douban.com/subject/36238849/",
+      "source": "douban",
+      "hot_score": 54.323469096736524,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727783+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933391462.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727785+00:00",
+      "id": "1cab9e58-1df1-467b-9d22-f5bcfcf2046b"
+    },
+    {
+      "title": "东京出租车",
+      "summary": "豆瓣评分: 8.0",
+      "url": "https://movie.douban.com/subject/37213104/",
+      "source": "douban",
+      "hot_score": 54.323469096736524,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727854+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924658739.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727856+00:00",
+      "id": "cfd8cd38-757e-43d9-a95e-528b7b4ac83f"
+    },
+    {
+      "title": "登峰传奇：丹增诺盖",
+      "summary": "豆瓣评分: 7.7",
+      "url": "https://movie.douban.com/subject/36887293/",
+      "source": "douban",
+      "hot_score": 52.286339005608895,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727387+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935498318.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727393+00:00",
+      "id": "b6f8666c-675f-4e0b-ba00-fa7c74543420"
+    },
+    {
+      "title": "蜘蛛侠：崭新之日",
+      "summary": "豆瓣评分: 7.7",
+      "url": "https://movie.douban.com/subject/36246195/",
+      "source": "douban",
+      "hot_score": 52.286339005608895,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727544+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934276912.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727548+00:00",
+      "id": "ac50a008-e576-4451-a75a-6573ad749fc8"
+    },
+    {
+      "title": "故土",
+      "summary": "豆瓣评分: 7.7",
+      "url": "https://movie.douban.com/subject/37487816/",
+      "source": "douban",
+      "hot_score": 52.286339005608895,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727644+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935691855.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727646+00:00",
+      "id": "65be8147-0be4-4b30-ab0e-f869b619c2d9"
+    },
+    {
+      "title": "突如其来",
+      "summary": "豆瓣评分: 7.7",
+      "url": "https://movie.douban.com/subject/37342630/",
+      "source": "douban",
+      "hot_score": 52.286339005608895,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727723+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931445409.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727726+00:00",
+      "id": "9582ec73-d5a4-4fab-b7ea-7d2baa225320"
+    },
+    {
+      "title": "夜王",
+      "summary": "豆瓣评分: 7.7",
+      "url": "https://movie.douban.com/subject/37375594/",
+      "source": "douban",
+      "hot_score": 52.286339005608895,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727774+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929673775.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727777+00:00",
+      "id": "c60929c0-bf3a-46ee-a420-25b7dbc12de3"
+    },
+    {
+      "title": "500英里",
+      "summary": "豆瓣评分: 7.6",
+      "url": "https://movie.douban.com/subject/36772727/",
+      "source": "douban",
+      "hot_score": 51.60729564189969,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727764+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932686404.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727766+00:00",
+      "id": "b9d0ff5c-d251-4a90-beac-4231b4de561e"
+    },
+    {
+      "title": "杯雪·一战成名",
+      "summary": "豆瓣评分: 7.5",
+      "url": "https://movie.douban.com/subject/37516455/",
+      "source": "douban",
+      "hot_score": 50.92825227819049,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727280+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936719035.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727287+00:00",
+      "id": "e1c087fa-b05c-4882-8798-8b855e0e4f08"
+    },
+    {
+      "title": "寻找艾米丽",
+      "summary": "豆瓣评分: 7.5",
+      "url": "https://movie.douban.com/subject/36912404/",
+      "source": "douban",
+      "hot_score": 50.92825227819049,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727747+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932264143.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727750+00:00",
+      "id": "6caa7d40-3d49-49e1-9ca2-9516b8e0bc67"
+    },
+    {
+      "title": "双喜",
+      "summary": "豆瓣评分: 7.5",
+      "url": "https://movie.douban.com/subject/36576765/",
+      "source": "douban",
+      "hot_score": 50.92825227819049,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727806+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2930587034.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727808+00:00",
+      "id": "197d451e-4148-4acf-a3dd-89d4de739b82"
+    },
+    {
+      "title": "逃出布迪秀",
+      "summary": "豆瓣评分: 7.3",
+      "url": "https://movie.douban.com/subject/37446297/",
+      "source": "douban",
+      "hot_score": 49.570165550772074,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727409+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934286660.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727415+00:00",
+      "id": "589255d0-cdbb-468d-879f-9b07daf9d1d0"
+    },
+    {
+      "title": "阳光女子合唱团",
+      "summary": "豆瓣评分: 7.3",
+      "url": "https://movie.douban.com/subject/37193250/",
+      "source": "douban",
+      "hot_score": 49.570165550772074,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727669+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2930838026.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727672+00:00",
+      "id": "ff260fdc-7d10-4b3b-9ef4-624444d71140"
+    },
+    {
+      "title": "激情邀约",
+      "summary": "豆瓣评分: 7.3",
+      "url": "https://movie.douban.com/subject/35801126/",
+      "source": "douban",
+      "hot_score": 49.570165550772074,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727681+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932993239.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727684+00:00",
+      "id": "3dfc0016-1c10-4390-9244-ef21dd5c28c7"
+    },
+    {
+      "title": "电动维纳斯",
+      "summary": "豆瓣评分: 7.3",
+      "url": "https://movie.douban.com/subject/37193887/",
+      "source": "douban",
+      "hot_score": 49.570165550772074,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727878+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934251452.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727880+00:00",
+      "id": "54b621ea-62e1-478a-9776-f837ee9e2fa9"
+    },
+    {
+      "title": "一个部门的诞生",
+      "summary": "豆瓣评分: 7.2",
+      "url": "https://movie.douban.com/subject/36937765/",
+      "source": "douban",
+      "hot_score": 48.89112218706286,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727502+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933113603.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727506+00:00",
+      "id": "9779e817-4a2c-4e5a-9a27-9b5952d63ea6"
+    },
+    {
+      "title": "求救信号",
+      "summary": "豆瓣评分: 7.2",
+      "url": "https://movie.douban.com/subject/36439868/",
+      "source": "douban",
+      "hot_score": 48.89112218706286,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727636+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935448686.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727638+00:00",
+      "id": "f4137b24-9dbd-4383-b134-c3d7a6c2caee"
+    },
+    {
+      "title": "抓特务",
+      "summary": "豆瓣评分: 7.2",
+      "url": "https://movie.douban.com/subject/36812879/",
+      "source": "douban",
+      "hot_score": 48.89112218706286,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727690+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933198755.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727692+00:00",
+      "id": "ae587bf0-556e-4be1-a585-88d8851ba761"
+    },
+    {
+      "title": "家弑服务",
+      "summary": "豆瓣评分: 7.1",
+      "url": "https://movie.douban.com/subject/36367195/",
+      "source": "douban",
+      "hot_score": 48.21207882335366,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727594+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932673659.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727600+00:00",
+      "id": "4b512841-861f-4cef-bdcd-29645614ec76"
+    },
+    {
+      "title": "利未记",
+      "summary": "豆瓣评分: 7.0",
+      "url": "https://movie.douban.com/subject/37559942/",
+      "source": "douban",
+      "hot_score": 47.53303545964445,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727846+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932806762.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727848+00:00",
+      "id": "d735e8fc-47e0-453f-a703-bc013fa4279a"
+    },
+    {
+      "title": "爱情抓马",
+      "summary": "豆瓣评分: 6.9",
+      "url": "https://movie.douban.com/subject/36995126/",
+      "source": "douban",
+      "hot_score": 46.85399209593525,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727862+00:00",
+      "image_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2929524191.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727864+00:00",
+      "id": "9b05dba9-072f-4db4-ac0f-8b7c2a8ba0d9"
+    },
+    {
+      "title": "眩晕",
+      "summary": "豆瓣评分: 6.8",
+      "url": "https://movie.douban.com/subject/38424785/",
+      "source": "douban",
+      "hot_score": 46.17494873222604,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727368+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932533736.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727373+00:00",
+      "id": "a93318cd-2f77-4594-a47b-f3961212248c"
+    },
+    {
+      "title": "魔方小姐",
+      "summary": "豆瓣评分: 6.8",
+      "url": "https://movie.douban.com/subject/36808520/",
+      "source": "douban",
+      "hot_score": 46.17494873222604,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727791+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933654136.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727793+00:00",
+      "id": "c0adf452-3bc5-4d36-9bca-fc4c99bacc3b"
+    },
+    {
+      "title": "瘴气营地的青春性事与死亡",
+      "summary": "豆瓣评分: 6.7",
+      "url": "https://movie.douban.com/subject/36801617/",
+      "source": "douban",
+      "hot_score": 45.49590536851683,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727530+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935854243.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727534+00:00",
+      "id": "b0f05b07-938a-4bfd-aff4-97d94fae733c"
+    },
+    {
+      "title": "潜伏6",
+      "summary": "豆瓣评分: 6.6",
+      "url": "https://movie.douban.com/subject/37525017/",
+      "source": "douban",
+      "hot_score": 44.816862004807625,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727464+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931576822.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727469+00:00",
+      "id": "60102a00-b1fd-46ba-9343-1b68722e33d4"
+    },
+    {
+      "title": "爱情假说",
+      "summary": "豆瓣评分: 6.6",
+      "url": "https://movie.douban.com/subject/37365064/",
+      "source": "douban",
+      "hot_score": 44.816862004807625,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727558+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935295277.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727561+00:00",
+      "id": "c99f9007-f5d3-4812-94f7-9ed4bfd6f64a"
+    },
+    {
+      "title": "特立独行",
+      "summary": "豆瓣评分: 6.6",
+      "url": "https://movie.douban.com/subject/36953973/",
+      "source": "douban",
+      "hot_score": 44.816862004807625,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727707+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933638302.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727710+00:00",
+      "id": "a2adc067-e38a-4985-8578-5d62a42c26fd"
+    },
+    {
+      "title": "后室",
+      "summary": "豆瓣评分: 6.6",
+      "url": "https://movie.douban.com/subject/36235977/",
+      "source": "douban",
+      "hot_score": 44.816862004807625,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727838+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933327977.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727840+00:00",
+      "id": "3664c8d4-1f74-4249-9074-6f148548a706"
+    },
+    {
+      "title": "人为何要写情书",
+      "summary": "豆瓣评分: 6.6",
+      "url": "https://movie.douban.com/subject/37170532/",
+      "source": "douban",
+      "hot_score": 44.816862004807625,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727870+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933130655.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727872+00:00",
+      "id": "8dc3af78-1d6a-490a-8329-e469597aab70"
+    },
+    {
+      "title": "魔法少女小圆：沃普尔吉斯的回天",
+      "summary": "豆瓣评分: 6.5",
+      "url": "https://movie.douban.com/subject/35316478/",
+      "source": "douban",
+      "hot_score": 44.13781864109842,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727814+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923423510.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727817+00:00",
+      "id": "40f61473-c15f-452b-888e-3c1b862158be"
+    },
+    {
+      "title": "一生所爱",
+      "summary": "豆瓣评分: 6.4",
+      "url": "https://movie.douban.com/subject/37246674/",
+      "source": "douban",
+      "hot_score": 43.458775277389215,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727611+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936742829.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727613+00:00",
+      "id": "bf9af324-2b0f-4f90-82c3-f73d7044bb1c"
+    },
+    {
+      "title": "数到三",
+      "summary": "豆瓣评分: 6.3",
+      "url": "https://movie.douban.com/subject/36931140/",
+      "source": "douban",
+      "hot_score": 42.77973191368001,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727339+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935012359.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727349+00:00",
+      "id": "9af45334-603f-4b0c-9cf3-e3d4e1338e77"
+    },
+    {
+      "title": "揭秘日",
+      "summary": "豆瓣评分: 6.3",
+      "url": "https://movie.douban.com/subject/36860212/",
+      "source": "douban",
+      "hot_score": 42.77973191368001,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727798+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933170423.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727800+00:00",
+      "id": "11bcfcab-6904-40b8-a698-e9d1c07aef06"
+    },
+    {
+      "title": "起义",
+      "summary": "豆瓣评分: 6.3",
+      "url": "https://movie.douban.com/subject/37425363/",
+      "source": "douban",
+      "hot_score": 42.77973191368001,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727822+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934146453.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727825+00:00",
+      "id": "8fa87982-1bb9-420c-8e05-4f3db02a20e1"
+    },
+    {
+      "title": "年会不能停！2",
+      "summary": "豆瓣评分: 6.2",
+      "url": "https://movie.douban.com/subject/36850814/",
+      "source": "douban",
+      "hot_score": 42.1006885499708,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727660+00:00",
+      "image_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2934583425.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727662+00:00",
+      "id": "591ff732-3a59-4f3d-8919-a621f00b8c35"
+    },
+    {
+      "title": "火柴盒大电影",
+      "summary": "豆瓣评分: 6.1",
+      "url": "https://movie.douban.com/subject/36885557/",
+      "source": "douban",
+      "hot_score": 41.4216451862616,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727619+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935696033.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727621+00:00",
+      "id": "0f9a105b-887a-42d2-9e5c-ee5d7394c155"
+    },
+    {
+      "title": "群体",
+      "summary": "豆瓣评分: 6.1",
+      "url": "https://movie.douban.com/subject/37096700/",
+      "source": "douban",
+      "hot_score": 41.4216451862616,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727755+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932381127.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727758+00:00",
+      "id": "43907ada-84e3-40cb-a0f0-96d9747f01ac"
+    },
+    {
+      "title": "功夫女足",
+      "summary": "豆瓣评分: 5.9",
+      "url": "https://movie.douban.com/subject/36452545/",
+      "source": "douban",
+      "hot_score": 40.06355845884318,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727516+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933860063.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727520+00:00",
+      "id": "84be8434-edb0-4f5a-acc4-09c10f2a06f7"
+    },
+    {
+      "title": "人性本兽",
+      "summary": "豆瓣评分: 5.8",
+      "url": "https://movie.douban.com/subject/36749187/",
+      "source": "douban",
+      "hot_score": 39.38451509513398,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727488+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935862659.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727493+00:00",
+      "id": "c948f1ef-a1f0-4107-a4c0-b2751866854d"
+    },
+    {
+      "title": "卖冰淇淋的人",
+      "summary": "豆瓣评分: 5.6",
+      "url": "https://movie.douban.com/subject/37346752/",
+      "source": "douban",
+      "hot_score": 38.02642836771557,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727698+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936042502.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727701+00:00",
+      "id": "9a1619f3-7c1a-492d-b7af-f6abd325a759"
+    },
+    {
+      "title": "希望",
+      "summary": "豆瓣评分: 5.5",
+      "url": "https://movie.douban.com/subject/36179101/",
+      "source": "douban",
+      "hot_score": 37.347385004006355,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727237+00:00",
+      "image_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2933326871.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727250+00:00",
+      "id": "e683c080-b7c5-4a9a-8706-72538ce9889b"
+    },
+    {
+      "title": "致命录像带：混音带",
+      "summary": "豆瓣评分: 5.5",
+      "url": "https://movie.douban.com/subject/38584401/",
+      "source": "douban",
+      "hot_score": 37.347385004006355,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727652+00:00",
+      "image_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935914663.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727654+00:00",
+      "id": "cab10106-cead-41ca-944d-f98dad832669"
+    },
+    {
+      "title": "逃出绝命街",
+      "summary": "豆瓣评分: 5.5",
+      "url": "https://movie.douban.com/subject/36318703/",
+      "source": "douban",
+      "hot_score": 37.347385004006355,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:14:37.727715+00:00",
+      "image_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2934546481.jpg",
+      "source_icon": null,
+      "tags": [
+        "豆瓣",
+        "电影"
+      ],
+      "fetched_at": "2026-10-25T03:14:37.727718+00:00",
+      "id": "38dc0f99-3d19-4e16-9949-03f191fd52e6"
+    },
+    {
+      "title": "三年了，为什么 AI 应用还没爆发？",
+      "summary": "最近meta讲了个算力过剩的鬼故事，AI 股市应声暴跌，大家都很焦虑。 都在问这场 AI 游戏还能不能继续，AI 应用到底什么时候爆发，AI的抖音微信小红书什么时候才出现，AI会不会重蹈 2000 年",
+      "url": "https://juejin.cn/post/7659709059810705462",
+      "source": "juejin",
+      "hot_score": 19.874920212404763,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:50.307716+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-25T03:14:50.307720+00:00",
+      "id": "7a416c09-7f2f-4fd5-9856-5102cacfe188"
+    },
+    {
+      "title": "Kimi K3太牛了！但老板说API太贵，让我本地化部署，我算完成本，他涨红脸沉默不语了！其实成本不高，三千万足矣。",
+      "summary": "我看着老板的脸色由白转红，又有点儿紫，最后有点儿黑，没说一句话。沉默良久以后老板开口说：小X啊，这个事儿公司需要开会讨论一下，你把材料留下先回去吧。走出办公室的一刻，我看着老板拿起那份账单...",
+      "url": "https://juejin.cn/post/7666482995197722630",
+      "source": "juejin",
+      "hot_score": 19.6562682492904,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:50.307735+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-25T03:14:50.307740+00:00",
+      "id": "15c7af20-0cd4-47b5-a4cc-df9c46d09162"
+    },
+    {
+      "title": "携程员工：在携程4年，月薪3万左右，基本没涨薪了。不过挺满足的，毕竟稳定，福利也不错（附Agent面试题）",
+      "summary": "携程员工爆料4年月薪3万没涨薪但满足，14道Coding Agent面试题全解：Prompt组装、上下文三层压缩、Tool与Skill区别、多Agent编排、Plan设计，附源码级回答。",
+      "url": "https://juejin.cn/post/7667495083470471177",
+      "source": "juejin",
+      "hot_score": 17.97020357720044,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:50.307701+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-25T03:14:50.307705+00:00",
+      "id": "5e47d676-aead-4b99-8eb1-3ede0825c69e"
+    },
+    {
+      "title": "DeepSeek Harness 值得安装的 15 款插件",
+      "summary": "最近 DeepSeek Harness（DSH）火得一塌糊涂，社区插件生态也是爆发式增长,来看看那些值得安装的插件。",
+      "url": "https://juejin.cn/post/7675273747710001206",
+      "source": "juejin",
+      "hot_score": 16.90817975635924,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:50.307768+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-25T03:14:50.307771+00:00",
+      "id": "6bd007f6-410c-48ad-ab6f-c01c71b93bbc"
+    },
+    {
+      "title": "DeepSeek 昨晚刚开源了 Harness：附万少的2 万字保姆级教程",
+      "summary": "DeepSeek 昨晚刚开源了 Harness：附万少的2 万字保姆级教程 就在昨天（8 月 13 日），DeepSeek 正式发布首款 Agent 产品 DeepSeek Harness（dsh），",
+      "url": "https://juejin.cn/post/7673390412729614390",
+      "source": "juejin",
+      "hot_score": 16.272595167927424,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:50.307670+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-25T03:14:50.307674+00:00",
+      "id": "5ef25ac6-fa74-43a5-b9c4-62cbdf183dde"
+    },
+    {
+      "title": "曾经人手一个的Superpowers，为什么现在都在卸",
+      "summary": "一个GitHub上有超过25万星标的项目，用户正在集体卸载它。 这个项目叫Superpowers，是Claude Code生态里最火的skill插件，没有之一。装上之后，它会给你的Agent注入14个",
+      "url": "https://juejin.cn/post/7662691781214437412",
+      "source": "juejin",
+      "hot_score": 14.845925060774382,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:50.307652+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-25T03:14:50.307657+00:00",
+      "id": "efe588a7-6276-492b-bf56-23331545f1c8"
+    },
+    {
+      "title": "我用 REA 逆向了付费颜色 APP，结果很意外！",
+      "summary": "GitHub 爆火的开源项目 REA 真的能逆向一切？软件已死？ 本期先科普什么是逆向工程、什么是 REA，然后实测用 AI 逆向单机安卓游戏和学习 App，看看它到底有没有那么神！",
+      "url": "https://juejin.cn/post/7696894428150300682",
+      "source": "juejin",
+      "hot_score": 6.77685276981788,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:50.307686+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-25T03:14:50.307690+00:00",
+      "id": "a3614fbb-b0ba-40ac-a9e4-c425b3cd3da2"
+    },
+    {
+      "title": "腾讯一面，我霸气反问：“你说你们在做Agent项目，说说 SubAgent、Plan 模式、Skill 调用这些你们都是怎么做的？”面试官一直在擦汗。。",
+      "summary": "腾讯Agent开发面试12道硬核问题全解，结合PaiCLI源码讲解SubAgent编排、Skill分层、记忆系统、上下文压缩等Agent工程化核心技术。",
+      "url": "https://juejin.cn/post/7665184555516395555",
+      "source": "juejin",
+      "hot_score": 6.689935219263102,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:50.307754+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "掘金",
+        "技术"
+      ],
+      "fetched_at": "2026-10-25T03:14:50.307759+00:00",
+      "id": "bfa4edbe-883c-4fc4-8ce9-c276244c2edc"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "summary": "1554 points | 244 comments",
+      "url": "https://edjefferson.com/localwiki/",
+      "source": "hackernews",
+      "hot_score": 1.3656920130919559,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003593+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003595+00:00",
+      "id": "92155c06-fa9c-4191-8922-bd62f0b2c2cf"
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "summary": "1077 points | 679 comments",
+      "url": "https://blog.calif.io/p/iphone",
+      "source": "hackernews",
+      "hot_score": 1.1542379096329092,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003746+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003748+00:00",
+      "id": "fa44dfad-0443-499d-bd7e-24cd5a11766c"
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "summary": "1060 points | 654 comments",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "hackernews",
+      "hot_score": 1.1301997745576031,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003702+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003704+00:00",
+      "id": "82731913-b588-498f-ad90-191084c1b7b3"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "summary": "913 points | 268 comments",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "source": "hackernews",
+      "hot_score": 0.853150082164247,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003822+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003824+00:00",
+      "id": "923e7ab6-fc6f-4daa-b7b4-51d9145f3436"
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "summary": "623 points | 295 comments",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "source": "hackernews",
+      "hot_score": 0.6278434940855323,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003763+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003765+00:00",
+      "id": "fe93b4f9-aca5-4e86-98bf-7e0563e0d6bf"
+    },
+    {
+      "title": "No signs of AI payoff outside the tech sector",
+      "summary": "503 points | 513 comments",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "hackernews",
+      "hot_score": 0.6188801216845707,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003666+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003668+00:00",
+      "id": "f537e5f9-58df-4ad7-9af2-e908a1384a1d"
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "summary": "490 points | 203 comments",
+      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "source": "hackernews",
+      "hot_score": 0.4819849795607948,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003814+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003816+00:00",
+      "id": "298de4e3-3aee-4b66-8cb6-fbe6567da9df"
+    },
+    {
+      "title": "Show HN: Steal My Bitcoin",
+      "summary": "424 points | 260 comments",
+      "url": "https://stealmybitcoin.com/",
+      "source": "hackernews",
+      "hot_score": 0.45142802819388045,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003468+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003471+00:00",
+      "id": "415a3501-621a-4549-bdf2-78b461f360c0"
+    },
+    {
+      "title": "OBS Studio 33",
+      "summary": "444 points | 159 comments",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "source": "hackernews",
+      "hot_score": 0.4265750410821235,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003772+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003774+00:00",
+      "id": "9b81e1be-42f1-474a-94f3-7dace7367850"
+    },
+    {
+      "title": "又双‌叒没赢！成都0比1不敌大连，中超冠军收官战揭晓",
+      "summary": "澎湃新闻 - 又双‌叒没赢！成都0比1不敌大连，中超冠军收官战揭晓",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325208",
+      "source": "thepaper",
+      "hot_score": 0.40335175804326867,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938478+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938482+00:00",
+      "id": "a1180636-3b7d-412c-9407-c1c6f0a834c3"
+    },
+    {
+      "title": "言短意长｜小鹏还在“圆”，道一声歉很难么",
+      "summary": "澎湃新闻 - 言短意长｜小鹏还在“圆”，道一声歉很难么",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34326329",
+      "source": "thepaper",
+      "hot_score": 0.39180802086021216,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938463+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938467+00:00",
+      "id": "1df336b1-fc4d-46f9-8382-5061a89017f0"
+    },
+    {
+      "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+      "summary": "澎湃新闻 - 王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325705",
+      "source": "thepaper",
+      "hot_score": 0.3653253296755531,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938577+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938581+00:00",
+      "id": "2d5d8796-cebc-45d3-9f0e-79fe7a26d5ce"
+    },
+    {
+      "title": "I don't understand quantum physics (2018)",
+      "summary": "289 points | 220 comments",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "source": "hackernews",
+      "hot_score": 0.32512596254396803,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003506+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003508+00:00",
+      "id": "4713f884-f894-445e-a30e-a2deadf525ae"
+    },
+    {
+      "title": "The Goose Programming Language",
+      "summary": "273 points | 179 comments",
+      "url": "https://aardappel.github.io/goose/",
+      "source": "hackernews",
+      "hot_score": 0.2953838632135048,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003267+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003276+00:00",
+      "id": "5ecd7f5b-a1a1-4157-a3d2-c410903f83b3"
+    },
+    {
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "summary": "268 points | 184 comments",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "source": "hackernews",
+      "hot_score": 0.2933467331223772,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003575+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003577+00:00",
+      "id": "23e8ec2f-d1d6-4e7c-a6ee-44209a6f970e"
+    },
+    {
+      "title": "特斯拉到底有什么魔力, 销量这么高的毛坯房",
+      "summary": "去实际体验了一下特斯拉的 model Y, 并没有什么明显的突出感受啊, 和之前体验的 yu7 su7 i6 ls6 07 这些都没什么明显的区别啊, 操控到底好在哪里了? 最让我绷不住的是智驾, 只",
+      "url": "https://www.v2ex.com/t/1251551",
+      "source": "v2ex",
+      "hot_score": 0.2919886463949588,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:48.389911+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "ev"
+      ],
+      "fetched_at": "2026-10-25T03:14:48.389934+00:00",
+      "id": "63115b36-8520-452f-9467-232823f126ef"
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "summary": "283 points | 140 comments",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "source": "hackernews",
+      "hot_score": 0.28764276886721984,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003546+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003549+00:00",
+      "id": "67f3ee0c-8760-471a-92eb-213d49a40bf1"
+    },
+    {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "summary": "285 points | 80 comments",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "source": "hackernews",
+      "hot_score": 0.2648269118465905,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003621+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003623+00:00",
+      "id": "2b52af96-2b44-4b8a-8acc-3097d018766d"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "summary": "228 points | 188 comments",
+      "url": "https://danluu.com/ambitious/",
+      "source": "hackernews",
+      "hot_score": 0.26238235573723734,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003198+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003223+00:00",
+      "id": "35c08341-4859-440f-9bdc-d57d15d2c619"
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "summary": "208 points | 188 comments",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "hackernews",
+      "hot_score": 0.2460853150082164,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003337+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003343+00:00",
+      "id": "5f545e62-02eb-4fc9-9584-69b083cb0828"
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "summary": "258 points | 88 comments",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "source": "hackernews",
+      "hot_score": 0.2460853150082164,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003647+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003649+00:00",
+      "id": "7290d95c-9813-43b5-88f3-d101f0692a29"
+    },
+    {
+      "title": "FreeDNS",
+      "summary": "262 points | 65 comments",
+      "url": "https://freedns.afraid.org/",
+      "source": "hackernews",
+      "hot_score": 0.23997392473483353,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003488+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003490+00:00",
+      "id": "48ee9aa1-5718-4370-bcdf-a6fda4979687"
+    },
+    {
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "summary": "246 points | 83 comments",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "source": "hackernews",
+      "hot_score": 0.23426996047967621,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003675+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003677+00:00",
+      "id": "18d1dbcc-5752-4dbb-a91d-a22386901e6c"
+    },
+    {
+      "title": "一图世界｜多型导弹首次参与，瞄准岛链封锁，美日“利剑”演习为何值得关注",
+      "summary": "澎湃新闻 - 一图世界｜多型导弹首次参与，瞄准岛链封锁，美日“利剑”演习为何值得关注",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325334",
+      "source": "thepaper",
+      "hot_score": 0.2213681365692013,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938348+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938356+00:00",
+      "id": "c3287529-2124-4e30-ab7f-47d211255b84"
+    },
+    {
+      "title": "CVE Tracker",
+      "summary": "213 points | 72 comments",
+      "url": "https://cve.0xosprey.com/",
+      "source": "hackernews",
+      "hot_score": 0.20289815707631087,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003754+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003756+00:00",
+      "id": "3d6183a8-11df-494e-bad2-dd3368d75fa2"
+    },
+    {
+      "title": "Why is AI generated language so hard to understand?",
+      "summary": "166 points | 151 comments",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "source": "hackernews",
+      "hot_score": 0.19678676680292803,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003656+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003659+00:00",
+      "id": "3659c269-38ad-4fbf-9775-fe0afce4ad54"
+    },
+    {
+      "title": "二十届中央第八轮巡视对象公布",
+      "summary": "澎湃新闻 - 二十届中央第八轮巡视对象公布",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325730",
+      "source": "thepaper",
+      "hot_score": 0.19284831529341465,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938595+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938600+00:00",
+      "id": "c5d3496f-004e-4cc0-94e6-db29361de433"
+    },
+    {
+      "title": "国行 iPhone Duo 如何在境内写入境外 eSIM？",
+      "summary": "如题\n- iPhone Duo 国行\n- iOS 27.0.1\n- 中国联通 eSIM 已安装\n\n1 ，我用 Anygo 把 iPhone Duo 的定位改到了纽约\n2 ，用另一台 iPhone 上的",
+      "url": "https://www.v2ex.com/t/1251454",
+      "source": "v2ex",
+      "hot_score": 0.19013214183857782,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:48.389967+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "iphone"
+      ],
+      "fetched_at": "2026-10-25T03:14:48.389975+00:00",
+      "id": "cc13e322-61bf-4f18-8bb2-817e1a9b9bb4"
+    },
+    {
+      "title": "Apple Security Research Device",
+      "summary": "173 points | 117 comments",
+      "url": "https://security.apple.com/research-device/",
+      "source": "hackernews",
+      "hot_score": 0.18863824643841756,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003780+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003782+00:00",
+      "id": "5791439f-44fe-430a-b009-e4e7ab13fd7c"
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "summary": "197 points | 63 comments",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "source": "hackernews",
+      "hot_score": 0.1861936903290644,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003602+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003604+00:00",
+      "id": "4aae3f4a-9957-4273-8644-bc13ccbdbed5"
+    },
+    {
+      "title": "大龄单身青年晚上都干啥",
+      "summary": "想问下，单身的大伙晚上都做啥。现在貌似对啥都失去兴趣了，打游戏，看直播，也没啥想去聊天的人",
+      "url": "https://www.v2ex.com/t/1251553",
+      "source": "v2ex",
+      "hot_score": 0.18334170820148576,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:48.389991+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "life"
+      ],
+      "fetched_at": "2026-10-25T03:14:48.389996+00:00",
+      "id": "74a4f431-8b6b-4ac2-9915-ff591e4072ce"
+    },
+    {
+      "title": "言短意长｜肯德基员工就不能投诉胖哥俩了？",
+      "summary": "澎湃新闻 - 言短意长｜肯德基员工就不能投诉胖哥俩了？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325596",
+      "source": "thepaper",
+      "hot_score": 0.1785884046555213,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938370+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938375+00:00",
+      "id": "2638efaf-ecc8-4b7c-b76d-673d37e5d872"
+    },
+    {
+      "title": "马上评｜“独生女继承遗产后遭离婚分产”怎么会反复上热搜",
+      "summary": "澎湃新闻 - 马上评｜“独生女继承遗产后遭离婚分产”怎么会反复上热搜",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34324278",
+      "source": "thepaper",
+      "hot_score": 0.17519318783697527,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938257+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938270+00:00",
+      "id": "a6dd8e40-5c0b-4dd6-892e-056ecc794f9c"
+    },
+    {
+      "title": "被流量“选中”的打馕“阿达西”",
+      "summary": "澎湃新闻 - 被流量“选中”的打馕“阿达西”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325424",
+      "source": "thepaper",
+      "hot_score": 0.17383510110955686,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938493+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938497+00:00",
+      "id": "5e9de44c-d3db-445c-9649-f59db758b983"
+    },
+    {
+      "title": "董明珠发话“长头发该剪了”，珠海格力技工学校为师生安排免费剪发",
+      "summary": "澎湃新闻 - 董明珠发话“长头发该剪了”，珠海格力技工学校为师生安排免费剪发",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34324990",
+      "source": "thepaper",
+      "hot_score": 0.16364945065391875,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938402+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938406+00:00",
+      "id": "7bf9fbea-c69b-4f0d-84f9-37160cd1a8f7"
+    },
+    {
+      "title": "众声｜谭爷爷独自进藏值得点赞，尤需思考如何让更多老人放心出行",
+      "summary": "澎湃新闻 - 众声｜谭爷爷独自进藏值得点赞，尤需思考如何让更多老人放心出行",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34323887",
+      "source": "thepaper",
+      "hot_score": 0.1582171037442451,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938418+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938422+00:00",
+      "id": "56995840-8711-4040-a29c-21770409adfb"
+    },
+    {
+      "title": "Dream-1",
+      "summary": "156 points | 75 comments",
+      "url": "https://dreamlabs.ai/research/dream-1/",
+      "source": "hackernews",
+      "hot_score": 0.15767386905327774,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003737+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003739+00:00",
+      "id": "d1f7346d-13ba-447f-a352-a1f3b0eb55f2"
+    },
+    {
+      "title": "今年“苏超”谁最强：上届倒数第二的常州杀进决赛，将与无锡争冠",
+      "summary": "澎湃新闻 - 今年“苏超”谁最强：上届倒数第二的常州杀进决赛，将与无锡争冠",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34326139",
+      "source": "thepaper",
+      "hot_score": 0.15006858337973464,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938536+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938540+00:00",
+      "id": "cf108fd8-2e84-4894-b1ef-c0cca812ecc1"
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "summary": "137 points | 86 comments",
+      "url": "https://missileer.watch",
+      "source": "hackernews",
+      "hot_score": 0.1466733665611886,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003294+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003320+00:00",
+      "id": "b4ba0c42-7524-4c2a-b795-a6669f0a409f"
+    },
+    {
+      "title": "现在新号订阅是不是必被 KYC",
+      "summary": "前两天第二个号封了，注册了新号 free tier 可以正常使用，google play 里面想订阅，扣完钱就弹 kyc ，网络环境应该是干净的，出口是日本住宅 IP",
+      "url": "https://www.v2ex.com/t/1251445",
+      "source": "v2ex",
+      "hot_score": 0.14259910637893336,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:48.390009+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "claude"
+      ],
+      "fetched_at": "2026-10-25T03:14:48.390014+00:00",
+      "id": "09fa7d41-4fdb-4577-889f-99a3301a01fe"
+    },
+    {
+      "title": "为什么突然出现那么多类 ARC 浏览器",
+      "summary": "功能差不多，我知道的就五六个\r\n是 ai 逆向一切在起作用吗？",
+      "url": "https://www.v2ex.com/t/1251519",
+      "source": "v2ex",
+      "hot_score": 0.14259910637893336,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:48.390026+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "programmer"
+      ],
+      "fetched_at": "2026-10-25T03:14:48.390030+00:00",
+      "id": "68142842-714c-4d59-92eb-54a3f837597d"
+    },
+    {
+      "title": "大家现在上班每天早餐消费多少钱？",
+      "summary": "我是不吃早餐= =",
+      "url": "https://www.v2ex.com/t/1251530",
+      "source": "v2ex",
+      "hot_score": 0.14259910637893336,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:48.390042+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "career"
+      ],
+      "fetched_at": "2026-10-25T03:14:48.390046+00:00",
+      "id": "f23d699f-36cb-4434-a671-db0b20f885ef"
+    },
+    {
+      "title": "Pro 已掉，羊毛没了🤣",
+      "summary": "我查了一下邮箱，原因找到了：今天太平洋时间下午 5:04 ，Google Play 发了一封「退款已获批准」，退的是 US$9.79 ，对应的商品是「 Google AI Pro (5 TB) wit",
+      "url": "https://www.v2ex.com/t/1251436",
+      "source": "v2ex",
+      "hot_score": 0.12901823910474924,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:48.390059+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "programmer"
+      ],
+      "fetched_at": "2026-10-25T03:14:48.390063+00:00",
+      "id": "19e3d635-b6e2-4524-9a3c-e9ae996b7314"
+    },
+    {
+      "title": "目前 git 用起来让你最难受的一点是什么？",
+      "summary": "目前 git 用起来让你最难受的一点是什么？",
+      "url": "https://www.v2ex.com/t/1251461",
+      "source": "v2ex",
+      "hot_score": 0.12901823910474924,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:48.390077+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "git"
+      ],
+      "fetched_at": "2026-10-25T03:14:48.390082+00:00",
+      "id": "3c16951a-6186-4c8e-9785-e8d3f1f9426a"
+    },
+    {
+      "title": "C vs. C#: racing VLC's Gaussian blur",
+      "summary": "130 points | 46 comments",
+      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+      "source": "hackernews",
+      "hot_score": 0.1246723615770103,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003806+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003808+00:00",
+      "id": "9c856b15-863a-4471-b5d2-9f96787ed8c9"
+    },
+    {
+      "title": "之前加入等候名单的 MUSE，现在开通了",
+      "summary": "我应该登记了挺久了，今天点进去突然发现开通了。有可能和地区有关系。\r\n\r\n最新邀请码 BFBKSR  可获得 10 亿词元",
+      "url": "https://www.v2ex.com/t/1251500",
+      "source": "v2ex",
+      "hot_score": 0.12222780546765717,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:48.390095+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "V2EX",
+        "muse"
+      ],
+      "fetched_at": "2026-10-25T03:14:48.390099+00:00",
+      "id": "19ed9c2a-2900-43c2-94d0-f636957fc550"
+    },
+    {
+      "title": "谭案说法｜保洁阿姨“告赢”事业单位东家，拆解一份“有智慧”的判决",
+      "summary": "澎湃新闻 - 谭案说法｜保洁阿姨“告赢”事业单位东家，拆解一份“有智慧”的判决",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34324755",
+      "source": "thepaper",
+      "hot_score": 0.1045726780112178,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938507+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938511+00:00",
+      "id": "92a1b73c-a35f-498c-86cf-66838488d617"
+    },
+    {
+      "title": "男子帮朋友代购字画被指诈骗遭追逃：176幅鉴定仅值25万，律师称“同一性”存疑",
+      "summary": "澎湃新闻 - 男子帮朋友代购字画被指诈骗遭追逃：176幅鉴定仅值25万，律师称“同一性”存疑",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34324536",
+      "source": "thepaper",
+      "hot_score": 0.10185650455638098,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938449+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938453+00:00",
+      "id": "13bf23fc-0a28-4257-89b8-907dd005a05b"
+    },
+    {
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "summary": "99 points | 32 comments",
+      "url": "https://de.numista.com/9866",
+      "source": "hackernews",
+      "hot_score": 0.09370798419187049,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003536+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003539+00:00",
+      "id": "23117756-ddf9-41bf-9fbb-8b8f10dad62e"
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "summary": "96 points | 34 comments",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "source": "hackernews",
+      "hot_score": 0.09207828011896839,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003556+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003559+00:00",
+      "id": "d5737658-7a27-4557-9b14-21c1af50a546"
+    },
+    {
+      "title": "How to run a city builder on 16 MHz",
+      "summary": "92 points | 26 comments",
+      "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+      "source": "hackernews",
+      "hot_score": 0.08555946382736002,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003788+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003791+00:00",
+      "id": "4a922674-bcb4-4c9b-be20-a4db45f4a562"
+    },
+    {
+      "title": "广西多地呼吁“外嫁女回娘家”摒弃攀比",
+      "summary": "澎湃新闻 - 广西多地呼吁“外嫁女回娘家”摒弃攀比",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325090",
+      "source": "thepaper",
+      "hot_score": 0.0842013770999416,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938292+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938295+00:00",
+      "id": "a31a1649-c75c-4fc2-98fe-1ca088363d03"
+    },
+    {
+      "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+      "summary": "澎湃新闻 - 商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325799",
+      "source": "thepaper",
+      "hot_score": 0.07876903019026794,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938607+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938610+00:00",
+      "id": "e462b618-f6d8-4640-96f9-ae377cdac8ca"
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "summary": "89 points | 12 comments",
+      "url": "https://www.speedcrunch.org/",
+      "source": "hackernews",
+      "hot_score": 0.07741094346284955,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003413+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003417+00:00",
+      "id": "0b92cc26-5e35-4d97-a002-dcb11c5fe56c"
+    },
+    {
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "summary": "86 points | 17 comments",
+      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "source": "hackernews",
+      "hot_score": 0.07700351744462401,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003684+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003686+00:00",
+      "id": "53725af6-27f7-455f-bac5-3d1fdb94d27a"
+    },
+    {
+      "title": "I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test Was Wrong.)",
+      "summary": "I’m not on the DEV team. I don’t have an admin panel, production database access, or internal Slack....",
+      "url": "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo",
+      "source": "devto",
+      "hot_score": 0.07265763991688509,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.557836+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu93kz0lmzx5azbphc6x9.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "opensource",
+        "ruby"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.557851+00:00",
+      "id": "1dc7776c-8f82-4b0b-91ea-6a647646d08f"
+    },
+    {
+      "title": "Day 22 of Building Crowdwide: I Thought UI Polish Would Be Easy, BUT I WAS WRONGGGGG 😭",
+      "summary": "I was building the social media platform for newly created creators and someone who wants a simple...",
+      "url": "https://dev.to/puneetkumar2010/day-22-of-building-crowdwide-i-thought-ui-polish-would-be-easy-but-i-was-wronggggg-27jk",
+      "source": "devto",
+      "hot_score": 0.07129955318946668,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558036+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fww6mdli8zclj6n910fqh.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "webdev",
+        "buildinpublic"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558040+00:00",
+      "id": "838701e0-1bfd-432f-8709-36b39b27689f"
+    },
+    {
+      "title": "每周新闻排行",
+      "summary": "新浪热点 - 每周新闻排行",
+      "url": "https://news.sina.com.cn/hotnews/index_weekly.shtml",
+      "source": "sina",
+      "hot_score": 0.06790433637092065,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454693+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454706+00:00",
+      "id": "c2b25f6a-b710-43c3-90e0-13ca6b336121"
+    },
+    {
+      "title": "清朗网络行动",
+      "summary": "钛媒体热点 - 清朗网络行动",
+      "url": "https://www.tmtpost.com/tag/topic/5982474",
+      "source": "tmtpost",
+      "hot_score": 0.06790433637092065,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252714+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252731+00:00",
+      "id": "4f9010e5-f350-42c1-8167-008caa6c2225"
+    },
+    {
+      "title": "2.4稻妻终极隐藏任务「蒲公英的归宿」【共三篇，本篇为其三】",
+      "summary": "各位旅行者大家好，这里是决定发完这篇立马闭眼睡觉已经顶不住了的FTFuture 本篇为大家带来的是最后一篇藏得非常深的稻妻隐藏任务——「蒲公英的归宿」，这个任务在前面做完「顶替者的",
+      "url": "https://www.miyoushe.com/ys/article/14348942",
+      "source": "miyoushe",
+      "hot_score": 0.06790433637092065,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115107+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115128+00:00",
+      "id": "ecbb8c72-d2f4-4a04-b5c1-a26480f11312"
+    },
+    {
+      "title": "八国外长“史无前例”齐聚土耳其，反对对伊朗采取军事行动",
+      "summary": "澎湃新闻 - 八国外长“史无前例”齐聚土耳其，反对对伊朗采取军事行动",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325583",
+      "source": "thepaper",
+      "hot_score": 0.06722529300721145,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938387+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938391+00:00",
+      "id": "58cea62e-3895-42bb-9443-508ba285c9d6"
+    },
+    {
+      "title": "每周新闻排行",
+      "summary": "新浪热点 - 每周新闻排行",
+      "url": "http://news.sina.com.cn/hotnews/index_weekly.shtml",
+      "source": "sina",
+      "hot_score": 0.06722529300721145,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454728+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454732+00:00",
+      "id": "90e1f17b-cfb7-4379-84b4-4e93c456cd8b"
+    },
+    {
+      "title": "ENGLISH",
+      "summary": "钛媒体热点 - ENGLISH",
+      "url": "https://en.tmtpost.com/",
+      "source": "tmtpost",
+      "hot_score": 0.06722529300721145,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252760+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252765+00:00",
+      "id": "6c3f69ca-3cb7-4116-8b2f-ab861bb84490"
+    },
+    {
+      "title": "「魔药研析」阶段1+2 魔药选择、阵容推荐 攻略合集",
+      "summary": "收集&文案：绢旗 ┏ 本帖包含以下内容 前置任务，魔药分析 阵容搭配，实战视频 低练全金，试用全银 ┛  啊哈哈哈哈，魔药研析来咯！ 这活动都开了，怎么不打啊？ 绢旗，大伙都不",
+      "url": "https://www.miyoushe.com/ys/article/14430398",
+      "source": "miyoushe",
+      "hot_score": 0.06722529300721145,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115164+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115172+00:00",
+      "id": "cf646598-a2f2-4771-8fd0-f8dad9a9e379"
+    },
+    {
+      "title": "更多视频新闻&gt;&gt;",
+      "summary": "新浪热点 - 更多视频新闻&gt;&gt;",
+      "url": "http://video.sina.com.cn/news/",
+      "source": "sina",
+      "hot_score": 0.06654624964350224,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454741+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454744+00:00",
+      "id": "733f82c1-391c-4790-b33d-35ae9cc8f2ca"
+    },
+    {
+      "title": "钛媒体创投家",
+      "summary": "钛媒体热点 - 钛媒体创投家",
+      "url": "https://www.tmtpost.com/tag/topic/6124710",
+      "source": "tmtpost",
+      "hot_score": 0.06654624964350224,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252779+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252784+00:00",
+      "id": "66243304-c4a6-4c03-8bab-87788c5c674d"
+    },
+    {
+      "title": "云堇先生 | 机制解析、阵容搭配、养成材料 攻略合集",
+      "summary": "文案&收集：安井  ┏ 本帖包含以下云堇相关内容 基础信息 推荐攻略 养成材料收集   ┛ 吾友，汝尝闻云堇先生呼? 吾等生于世，即使举世之人知先生之美也。先生之明眸",
+      "url": "https://www.miyoushe.com/ys/article/14296914",
+      "source": "miyoushe",
+      "hot_score": 0.06654624964350224,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115188+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115194+00:00",
+      "id": "931309b2-9b9c-4814-9684-31bf190e7661"
+    },
+    {
+      "title": "更多图片&gt;&gt;",
+      "summary": "新浪热点 - 更多图片&gt;&gt;",
+      "url": "http://news.sina.com.cn/photo/",
+      "source": "sina",
+      "hot_score": 0.06586720627979303,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454750+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454753+00:00",
+      "id": "76737620-ffd3-4d41-8147-d757eab37846"
+    },
+    {
+      "title": "Humanizer has about 60,000 stars. On 12 public tasks my linter plugin scored 2.67 higher",
+      "summary": "ai-slop-linter against six humanizer tools and no tool: 12 public tasks, graded blind, 58.67 of 60 against 56. On a held-out set the top tools tied.",
+      "url": "https://dev.to/efe_genc/humanizer-has-about-60000-stars-on-12-public-tasks-my-linter-plugin-scored-267-higher-2cdg",
+      "source": "devto",
+      "hot_score": 0.06586720627979303,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.557908+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FBubblegunn%2Fai-slop-linter%2Flaunch-assets%2Fbenchmark-round8%2Fcover-safe.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "opensource"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.557915+00:00",
+      "id": "8684013a-239e-4455-9c14-f5c1b651aec1"
+    },
+    {
+      "title": "创投家CLUB投资机构库",
+      "summary": "钛媒体热点 - 创投家CLUB投资机构库",
+      "url": "https://www.tmtpost.com/tmtclub",
+      "source": "tmtpost",
+      "hot_score": 0.06586720627979303,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252797+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252802+00:00",
+      "id": "ec04706d-9ecf-48f5-9545-1755e9ae1d06"
+    },
+    {
+      "title": "【2.4新增】稻妻隐藏世界任务「特别的御神签」，多天任务！",
+      "summary": "UID130468275 hello~大家好，这里是“七休”呀，2.4版本更新有几天了，新地图渊下宫不少肝帝已经满探索了，除了渊下宫残魂隐藏任务，稻妻和璃月也分别新增了隐藏的世界任务，这些世界",
+      "url": "https://www.miyoushe.com/ys/article/14389249",
+      "source": "miyoushe",
+      "hot_score": 0.06586720627979303,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115207+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115218+00:00",
+      "id": "4e0b2f7b-2666-45e3-912b-f92850f89d93"
+    },
+    {
+      "title": "更多国内新闻&gt;&gt;",
+      "summary": "新浪热点 - 更多国内新闻&gt;&gt;",
+      "url": "http://news.sina.com.cn/china/",
+      "source": "sina",
+      "hot_score": 0.06518816291608383,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454759+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454762+00:00",
+      "id": "a1895a36-baee-40f0-8e6e-c1140d16b0cf"
+    },
+    {
+      "title": "万播收益低至5元，AI短剧的生意为何越做越亏？",
+      "summary": "钛媒体热点 - 万播收益低至5元，AI短剧的生意为何越做越亏？",
+      "url": "https://www.tmtpost.com/8177437.html",
+      "source": "tmtpost",
+      "hot_score": 0.06518816291608383,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252814+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252820+00:00",
+      "id": "2ca0f37d-8e52-4673-9425-237042874846"
+    },
+    {
+      "title": "【V2.4攻略】#探索解谜#声望任务《食莲者》",
+      "summary": "大家好我是kk～UID169369934，本期攻略是世界任务《常世入口》的后续任务《食莲者》 《常世入口》详见攻略《白夜国晨昏记》 [链接] ▪前往【蛇心之地】图示位置 ※常夜状态",
+      "url": "https://www.miyoushe.com/ys/article/14332486",
+      "source": "miyoushe",
+      "hot_score": 0.06518816291608383,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115231+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115236+00:00",
+      "id": "511c5397-90d2-425f-a9dd-5e5a37fb817e"
+    },
+    {
+      "title": "更多国际新闻&gt;&gt;",
+      "summary": "新浪热点 - 更多国际新闻&gt;&gt;",
+      "url": "http://news.sina.com.cn/world/",
+      "source": "sina",
+      "hot_score": 0.06450911955237462,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454769+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454771+00:00",
+      "id": "50efaf99-9497-48be-95a9-d895c6da9e69"
+    },
+    {
+      "title": "魔药研析攻略（目前更新无练度打法）",
+      "summary": "魔药研析 请不要在他人攻略下刷我和我的攻略，万分感谢。 UID：101777931 第一期：尘封的荒墟 [链接] 第二期：锁顿的废城 [链接]第三期：郁闭的孤垒 [链接] 个人小活动： [链接]",
+      "url": "https://www.miyoushe.com/ys/article/14289431",
+      "source": "miyoushe",
+      "hot_score": 0.06450911955237462,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115249+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115254+00:00",
+      "id": "750ad0d9-e955-4e87-b1d2-ca3b3de425ca"
+    },
+    {
+      "title": "更多社会新闻&gt;&gt;",
+      "summary": "新浪热点 - 更多社会新闻&gt;&gt;",
+      "url": "http://news.sina.com.cn/society/",
+      "source": "sina",
+      "hot_score": 0.0638300761886654,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454778+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454781+00:00",
+      "id": "067c90f4-95ab-41bd-a49d-56b053314c7d"
+    },
+    {
+      "title": "2.4稻妻终极隐藏任务「终末番的任务」【共三篇，本篇为其一】",
+      "summary": "各位旅行者大家好，这里是又通宵爆肝的FTFuture 本篇给大家带来的是一个藏得非常深的稻妻隐藏任务——「终末番的任务」，这个任务的前置条件就是完成鸣神大社「诡谲的御神签",
+      "url": "https://www.miyoushe.com/ys/article/14340645",
+      "source": "miyoushe",
+      "hot_score": 0.0638300761886654,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115266+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115270+00:00",
+      "id": "2f96946f-d263-4512-a415-4d76320e97a3"
+    },
+    {
+      "title": "更多体育新闻&gt;&gt;",
+      "summary": "新浪热点 - 更多体育新闻&gt;&gt;",
+      "url": "http://sports.sina.com.cn/",
+      "source": "sina",
+      "hot_score": 0.0631510328249562,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454790+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454793+00:00",
+      "id": "6a512489-d7c6-408e-ace7-7f51b2298e0d"
+    },
+    {
+      "title": "天银机电Q3由盈转亏，商业航天高增长仍难撑起大盘｜看财报",
+      "summary": "钛媒体热点 - 天银机电Q3由盈转亏，商业航天高增长仍难撑起大盘｜看财报",
+      "url": "https://www.tmtpost.com/8177567.html",
+      "source": "tmtpost",
+      "hot_score": 0.0631510328249562,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252850+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252853+00:00",
+      "id": "2042d571-921f-463b-9b48-40b80dae2b8b"
+    },
+    {
+      "title": "隐藏任务「特别的御神签」（共需4天完成，已完结）",
+      "summary": "各位旅行者大家好呀，这里是睡了一觉继续开肝的FTFuture 本篇为大家带来的是隐藏世界任务「特别的御神签」，本任务是一个需要四天（现实时间）来完成的连续任务，各位从触发任",
+      "url": "https://www.miyoushe.com/ys/article/14241427",
+      "source": "miyoushe",
+      "hot_score": 0.0631510328249562,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115286+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115290+00:00",
+      "id": "e0b73f05-ebdf-4673-a2c2-2bbf2e1325d2"
+    },
+    {
+      "title": "更多财经新闻&gt;&gt;",
+      "summary": "新浪热点 - 更多财经新闻&gt;&gt;",
+      "url": "http://finance.sina.com.cn",
+      "source": "sina",
+      "hot_score": 0.062471989461247,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454800+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454802+00:00",
+      "id": "41ed2986-8222-4f5a-b3f8-60a76229b8a5"
+    },
+    {
+      "title": "【V2.4攻略】#探索解密#【稻妻隐藏世界任务】特别的御神签",
+      "summary": "UID 100499765 旅行者们好啊！这里是一线攻略作者：猫冬。 本篇文章将为大家带来稻妻隐藏世界任务：「特别的御神签」的攻略流程… tip：在做完前置任务，满足触发条件后，先去鸣神大社解",
+      "url": "https://www.miyoushe.com/ys/article/14232900",
+      "source": "miyoushe",
+      "hot_score": 0.062471989461247,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115329+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115336+00:00",
+      "id": "d0e536a0-5cda-49aa-a52c-3e2ba0f16d09"
+    },
+    {
+      "title": "更多娱乐新闻&gt;&gt;",
+      "summary": "新浪热点 - 更多娱乐新闻&gt;&gt;",
+      "url": "http://ent.sina.com.cn",
+      "source": "sina",
+      "hot_score": 0.06179294609753779,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454809+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454811+00:00",
+      "id": "5d0c27b4-7d56-453d-bf2a-ea71539d4e74"
+    },
+    {
+      "title": "渊下宫世界任务/解谜/宝箱/键纹收集【查缺补漏·建议收藏】",
+      "summary": "文本&收集：雨鸠鸠 ┏ 本帖包含渊下宫以下内容： 世界任务系列流程 隐藏成就达成条件 键纹全收集点位 宝箱点位全收集 ┛   各位旅行者大家好呀！随着2.4版本的开放我们终于——不长",
+      "url": "https://www.miyoushe.com/ys/article/14423237",
+      "source": "miyoushe",
+      "hot_score": 0.06179294609753779,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115349+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115353+00:00",
+      "id": "efbde3f1-b166-4cff-94b9-732bf02c939b"
+    },
+    {
+      "title": "更多科技新闻&gt;&gt;",
+      "summary": "新浪热点 - 更多科技新闻&gt;&gt;",
+      "url": "http://tech.sina.com.cn",
+      "source": "sina",
+      "hot_score": 0.061113902733828586,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454817+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454820+00:00",
+      "id": "5c79b1cf-4cf5-4b8f-aefa-012a5404477a"
+    },
+    {
+      "title": "智能门锁和无人机纳入地方消费补贴，对普通人意味着什么？",
+      "summary": "钛媒体热点 - 智能门锁和无人机纳入地方消费补贴，对普通人意味着什么？",
+      "url": "https://www.tmtpost.com/8176818.html",
+      "source": "tmtpost",
+      "hot_score": 0.061113902733828586,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252878+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252880+00:00",
+      "id": "bf291335-20ee-4838-9518-031ea98025f6"
+    },
+    {
+      "title": "【剧情秘境】鸣海栖霞洞天，6个隐藏宝箱全位置！",
+      "summary": "UID130468275 hello~大家好，这里是“七休”呀，本次带来的是【魔神任务·第一幕·风起鹤归】中的「秘境」鸣海栖霞洞天，全宝箱获取攻略！（建议在秘境内使用元素视野，可清楚查看到宝箱）。",
+      "url": "https://www.miyoushe.com/ys/article/14160179",
+      "source": "miyoushe",
+      "hot_score": 0.061113902733828586,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115365+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115369+00:00",
+      "id": "e4203b74-d307-4768-8072-30772b79c4bd"
+    },
+    {
+      "title": "更多军事新闻&gt;&gt;",
+      "summary": "新浪热点 - 更多军事新闻&gt;&gt;",
+      "url": "http://mil.news.sina.com.cn",
+      "source": "sina",
+      "hot_score": 0.06043485937011938,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:44.454838+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "新浪",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:44.454841+00:00",
+      "id": "a1894bef-95fb-4764-a788-245d4456196a"
+    },
+    {
+      "title": "2.4攻略合集 甘雨、钟离、申鹤、云堇、渊下宫【建议收藏】",
+      "summary": "旅行者们大家好呀，盼望着~盼望着~2.4终于来了！快进到：这2.4我一分钟都待不下去了（不是）咳咳，我们还是脚踏实地，开始2.4版本的新冒险吧！ 本篇是2.4版本全周期攻略合集，包含新",
+      "url": "https://www.miyoushe.com/ys/article/14190959",
+      "source": "miyoushe",
+      "hot_score": 0.06043485937011938,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115379+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115383+00:00",
+      "id": "ae40a601-6f96-4c73-85f6-caa059229c1e"
+    },
+    {
+      "title": "【V2.4攻略】#探索解谜# 2.4版本新增世界任务合集导航",
+      "summary": "各位旅行者大家好，这里是肝完以后神清气爽的FTFuture 2.4版本渊下宫的世界任务已经全部更新完了，今天如约给大家把导航合集做出来，便于各位旅行者查漏补缺，感谢大",
+      "url": "https://www.miyoushe.com/ys/article/14315075",
+      "source": "miyoushe",
+      "hot_score": 0.059755816006410174,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115393+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115398+00:00",
+      "id": "55c5c929-e043-4221-a0c8-ab3277ba4448"
+    },
+    {
+      "title": "苏泊尔“中年危机”未解除，前三季度盈利续降｜看财报",
+      "summary": "钛媒体热点 - 苏泊尔“中年危机”未解除，前三季度盈利续降｜看财报",
+      "url": "https://www.tmtpost.com/8179848.html",
+      "source": "tmtpost",
+      "hot_score": 0.05907677264270097,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252903+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252906+00:00",
+      "id": "b32573e3-837e-4bcb-9b89-75b7f29e785c"
+    },
+    {
+      "title": "【V2.4攻略】#角色攻略#云堇先生机制/养成/就业全解析",
+      "summary": "UID：102877935 同学们早上中午晚上好！！我是为真爱肝攻略的绢旗！欢迎来到我的白垩小课堂05，请大家自己找位置坐下，前排不要留空位哦！ 同学们，云堇真是太好看了！以至于这次绢旗写",
+      "url": "https://www.miyoushe.com/ys/article/14168921",
+      "source": "miyoushe",
+      "hot_score": 0.05907677264270097,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115408+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115412+00:00",
+      "id": "76d8f157-b4da-4f04-872b-181417edb1a0"
+    },
+    {
+      "title": "渊下宫185个宝箱收集攻略，快上号",
+      "summary": "大家大家，今天来捡宝箱 视频流程：点我看渊下宫全宝箱点位 1-19 狭间之街 20-55 大日御舆 56-92 [图片",
+      "url": "https://www.miyoushe.com/ys/article/14294558",
+      "source": "miyoushe",
+      "hot_score": 0.058397729278991756,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115428+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115434+00:00",
+      "id": "513f9858-10bc-43a6-8ad8-a0a0cb63543f"
+    },
+    {
+      "title": "泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
+      "summary": "澎湃新闻 - 泽连斯基谈与美国关系：我做不到时刻感恩特朗普，感恩几次真够了",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34325177",
+      "source": "thepaper",
+      "hot_score": 0.05771868591528255,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938550+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938554+00:00",
+      "id": "dc75d95d-6d69-46b7-a301-bb35b9444abb"
+    },
+    {
+      "title": "I turned my portfolio into a playground (plug a theme into a display to open it)",
+      "summary": "My portfolio has three versions now. To switch between them I built Theme Studio, a small canvas where you drag a wire into a display.",
+      "url": "https://dev.to/m_ahmad/i-turned-my-portfolio-into-a-playground-plug-a-theme-into-a-display-to-open-it-1p6",
+      "source": "devto",
+      "hot_score": 0.05771868591528255,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558054+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FMA-Ahmad%2FmyPortfolio%2Fmain%2F.github%2Fscreenshots%2Ftheme-studio.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "showdev",
+        "webdev"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558060+00:00",
+      "id": "6f605090-92e0-47c0-80bf-72eae28c83ed"
+    },
+    {
+      "title": "【V2.4攻略】#探索解谜#食莲者（附密室解谜，华丽宝箱）",
+      "summary": "大家好，这里的抓马特鸡。本篇文章将为大家带来渊下宫世界任务——食莲者的攻略。 ※ 本攻略按【任务介绍】→【任务奖励】→【任务触发条件】→【任务流程】的顺序进行编写，【任务流程】中需要解谜或者值",
+      "url": "https://www.miyoushe.com/ys/article/14206901",
+      "source": "miyoushe",
+      "hot_score": 0.05771868591528255,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115447+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115450+00:00",
+      "id": "39c3bf4d-17ac-4a11-b7b9-9088f9853f10"
+    },
+    {
+      "title": "半年亏掉807亿美元？美国AI一哥，也在用力地活着",
+      "summary": "钛媒体热点 - 半年亏掉807亿美元？美国AI一哥，也在用力地活着",
+      "url": "https://www.tmtpost.com/8177767.html",
+      "source": "tmtpost",
+      "hot_score": 0.057039642551573344,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252927+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252930+00:00",
+      "id": "dd7000fc-638f-41dc-a1e1-565cf4035def"
+    },
+    {
+      "title": "全键纹宝箱（共19个）",
+      "summary": "所有点位如图，能够正好把键纹用光 如果只剩几个可以看我下面说的所需键纹来排查 狭间之街 1，在白天模式，从北边的传送点飞过来就可以看到了，在墙和柱子上 交付1号和4号两个键纹，即可解锁 [图",
+      "url": "https://www.miyoushe.com/ys/article/14457584",
+      "source": "miyoushe",
+      "hot_score": 0.057039642551573344,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115456+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115459+00:00",
+      "id": "6a2f44bf-a2a0-4830-a6b4-f639435e164d"
+    },
+    {
+      "title": "「云堇」角色机制、配装推荐、辅助能力分析",
+      "summary": "2.4版本新登场的辅助角色「云堇」已经开放获取途径了，有入手打算的小伙伴不妨来看看她的内容介绍及分析吧~ ▌角色机制 云堇主要依靠开启元素爆发后给每个角色赋予30层的「飞云旗",
+      "url": "https://www.miyoushe.com/ys/article/14159567",
+      "source": "miyoushe",
+      "hot_score": 0.05636059918786414,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115465+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115467+00:00",
+      "id": "4b63a2b4-076c-4e6c-a990-9e6ae7f71fcd"
+    },
+    {
+      "title": "【一图流】申鹤·角色指南",
+      "summary": "这里是阿斯盖特，这一次是申鹤的角色指南，长图之后还有内容补充和角色培养材料图表！ 角色培养材料图表： 关于天赋 天赋加点的顺序推荐元素战技（天赋2）＞元素爆发（天赋3）＞普攻",
+      "url": "https://www.miyoushe.com/ys/article/14166190",
+      "source": "miyoushe",
+      "hot_score": 0.05568155582415493,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115474+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115476+00:00",
+      "id": "4c143c87-3637-4ad5-9bb8-70f7fc21e2f8"
+    },
+    {
+      "title": "Symbolic Learning in Python and Julia",
+      "summary": "61 points | 14 comments",
+      "url": "https://github.com/astroautomata/PySR",
+      "source": "hackernews",
+      "hot_score": 0.055409938478671254,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003693+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003696+00:00",
+      "id": "42c17eca-06f8-4e42-8ad4-b6344563d892"
+    },
+    {
+      "title": "AI视频爆发一年：一代人的生产红利和孤独迷茫",
+      "summary": "钛媒体热点 - AI视频爆发一年：一代人的生产红利和孤独迷茫",
+      "url": "https://www.tmtpost.com/8177293.html",
+      "source": "tmtpost",
+      "hot_score": 0.05500251246044573,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252952+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252954+00:00",
+      "id": "7cc834d0-168a-4892-96df-c446f5dd5356"
+    },
+    {
+      "title": "「攻略周刊·套娃篇」2.4攻略速报，申鹤、魈、云堇攻略合集",
+      "summary": "制作：绢旗 欸嘿欸嘿同学们好啊！欢迎来到攻略周刊的2.4套娃篇~ 渊下宫地形真的好复杂啊，任务量也多到头皮发麻，旗某人差点都要被绕晕了，但是好玩也是真的好玩，开始越来越期待以后的地图了呢~",
+      "url": "https://www.miyoushe.com/ys/article/14423367",
+      "source": "miyoushe",
+      "hot_score": 0.05500251246044573,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115482+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115485+00:00",
+      "id": "b27f7615-2674-4630-94d4-9285ebd6e304"
+    },
+    {
+      "title": "Bbtree: Fastest Ordered Map",
+      "summary": "62 points | 10 comments",
+      "url": "https://bbtree.xiangpeng.systems/post/",
+      "source": "hackernews",
+      "hot_score": 0.054595086442220206,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003584+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003586+00:00",
+      "id": "f9444d54-1738-4f2e-8aa4-1e1e49178935"
+    },
+    {
+      "title": "【V2.4攻略】#角色攻略#角色养成素材全解——申鹤",
+      "summary": "UID：100298809 我名申鹤，命格孤煞，易伤身边人。若你不畏惧与我同行…很好，就请伸出手来吧。 -前言- 旅行者们好呀~ 这里是友人A，我将不定时为大家分享一位角色的培养攻略。其中包",
+      "url": "https://www.miyoushe.com/ys/article/14165323",
+      "source": "miyoushe",
+      "hot_score": 0.05432346909673652,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115491+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115493+00:00",
+      "id": "f38df922-6d31-4a06-b7cc-fc50caafdf22"
+    },
+    {
+      "title": "魔药研析攻略 第二期",
+      "summary": "魔药研析攻略第二期——锁顿的废城，更新了低练度拿原石攻略 后续会更新普通练度满分攻略（大概咕） 请不要在其他攻略贴中提到我，讨论贴，推荐贴等请随意，非常感谢。 第一期： [链接]第三期：郁闭的孤垒 [",
+      "url": "https://www.miyoushe.com/ys/article/14382940",
+      "source": "miyoushe",
+      "hot_score": 0.053644425733027315,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115499+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115502+00:00",
+      "id": "ba656a10-5f75-400b-9728-cdce64ab643e"
+    },
+    {
+      "title": "AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?",
+      "summary": "钛媒体热点 - AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?",
+      "url": "https://www.tmtpost.com/8179406.html",
+      "source": "tmtpost",
+      "hot_score": 0.05296538236931811,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.252978+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.252980+00:00",
+      "id": "d103dfcc-75e9-46c9-96d9-d3439b344a6e"
+    },
+    {
+      "title": "【西风驿站】v2.4攻略#宝箱攻略#渊下宫·键纹·使用点位",
+      "summary": "–––––––「共有19个键纹使用点」––––––– ––––––––––「快捷路线图」–––––––––– –––––––––「特殊：世界任务",
+      "url": "https://www.miyoushe.com/ys/article/14300766",
+      "source": "miyoushe",
+      "hot_score": 0.05296538236931811,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115509+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115518+00:00",
+      "id": "22312bbd-f8a8-408d-a6f4-da8c5857b114"
+    },
+    {
+      "title": "山东枣庄一老师被指体罚学生，区教育局：家长已报警，会跟进处理",
+      "summary": "澎湃新闻 - 山东枣庄一老师被指体罚学生，区教育局：家长已报警，会跟进处理",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34324775",
+      "source": "thepaper",
+      "hot_score": 0.0522863390056089,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938521+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938526+00:00",
+      "id": "77446fff-8ab7-457d-b9dd-154fcff2cdb6"
+    },
+    {
+      "title": "魈 | 操作手法、阵容搭配、素材收集、武器选择 攻略合集",
+      "summary": "文本&收集：轩瑄丶一步一天坑 ┏ 本帖包含以下内容： 角色攻略 武器选择 阵容搭配 素材收集 ┛ 一年盼一次，一次盼一年！魈，他终于来了！机会难得，一起来看看魈大人该怎么玩吧！ [",
+      "url": "https://www.miyoushe.com/ys/article/14297253",
+      "source": "miyoushe",
+      "hot_score": 0.0522863390056089,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115530+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115535+00:00",
+      "id": "7c61f9e7-a445-40d2-b668-9c73b8ad3c56"
+    },
+    {
+      "title": "【观测枢】申鹤-数据、攻略、材料合集",
+      "summary": "食用目录   1.申鹤-wiki资料 2.申鹤-相关材料标点 3.申鹤-角色评测   1.申鹤-wiki资料（完整版戳这里） 角色简介 基础属性 角色突破 [图",
+      "url": "https://www.miyoushe.com/ys/article/14150338",
+      "source": "miyoushe",
+      "hot_score": 0.0516072956418997,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115548+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115553+00:00",
+      "id": "b36faa32-0795-4863-bc02-ed50418b4b42"
+    },
+    {
+      "title": "独家｜阿维塔副总裁孙百功即将离职，未来将投身AI与出海领域",
+      "summary": "钛媒体热点 - 独家｜阿维塔副总裁孙百功即将离职，未来将投身AI与出海领域",
+      "url": "https://www.tmtpost.com/8177799.html",
+      "source": "tmtpost",
+      "hot_score": 0.05092825227819049,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.253004+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.253006+00:00",
+      "id": "8f309c97-9047-417c-bc53-07bd749c2dc7"
+    },
+    {
+      "title": "【V2.4攻略】#探索解谜#隐藏世界任务——食莲者",
+      "summary": "UID：100298809 Olah！旅行者们好呀~ 本次为大家带来渊下宫隐藏世界任务——食莲者的完成攻略，希望对大家有所帮助。 ▌接取条件 1.完成「白夜国晨昏记」——龙蛇洞宫试炼记 2.",
+      "url": "https://www.miyoushe.com/ys/article/14270013",
+      "source": "miyoushe",
+      "hot_score": 0.05092825227819049,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115567+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115570+00:00",
+      "id": "18d6a6ef-e9e4-41ea-8f67-f9d0cf8d9469"
+    },
+    {
+      "title": "【一图流】云堇·角色指南",
+      "summary": "这里是阿斯盖特，这一次是云堇的角色指南，长图之后还有内容补充以及角色培养材料图表！ 【更新通知】本篇云堇的攻略已经停止翻新啦~楼主已经发布了新的云堇攻略帖子（点击下方连接直接跳转） [链接",
+      "url": "https://www.miyoushe.com/ys/article/14158324",
+      "source": "miyoushe",
+      "hot_score": 0.050249208914481286,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115576+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115578+00:00",
+      "id": "7d7fd5b4-af9a-4ebb-9bb1-c4fe28bd0a9e"
+    },
+    {
+      "title": "【V2.4攻略】#魔药研析#第二阶段【锁顿的废城】详细攻略",
+      "summary": "UID130468275 hello~大家好，这里是“七休”呀，本期带来的是新活动【魔药研析】的第二阶段【锁顿的废城】详细攻略，第一阶段咕咕了~ [链接] 活动时间 2022/1/7 10",
+      "url": "https://www.miyoushe.com/ys/article/14369432",
+      "source": "miyoushe",
+      "hot_score": 0.049570165550772066,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115584+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115587+00:00",
+      "id": "673cb1af-c981-4f17-a291-81adcbd6e161"
+    },
+    {
+      "title": "Tiling Noise – Procedural GPU Patterns",
+      "summary": "59 points | 2 comments",
+      "url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+      "source": "hackernews",
+      "hot_score": 0.04889112218706286,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003729+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003731+00:00",
+      "id": "ef35e3ca-34d1-4168-9fb8-125d8bbc0429"
+    },
+    {
+      "title": "直击iPhone Duo开售：排队三天三夜、行情崩了，日赚10万梦破碎",
+      "summary": "钛媒体热点 - 直击iPhone Duo开售：排队三天三夜、行情崩了，日赚10万梦破碎",
+      "url": "https://www.tmtpost.com/8178497.html",
+      "source": "tmtpost",
+      "hot_score": 0.04889112218706286,
+      "category": "tech",
+      "published_at": "2026-10-25T03:15:04.253027+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "钛媒体",
+        "科技"
+      ],
+      "fetched_at": "2026-10-25T03:15:04.253030+00:00",
+      "id": "911dceec-cbc9-47e0-8c5d-c16575a61e91"
+    },
+    {
+      "title": "【V2.4攻略】#其他攻略#「魔药研析」低配队伍拿满奖励",
+      "summary": "UID 117284831 中午好，这里是余生，今天给大家带来新活动魔药研析的攻略 首先来给大家讲解一下活动规则，这个活动一共有三个关卡，每个关卡里面有四个阶段挑战，并且打完一个阶段挑战后",
+      "url": "https://www.miyoushe.com/ys/article/14296343",
+      "source": "miyoushe",
+      "hot_score": 0.04889112218706286,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115593+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115595+00:00",
+      "id": "2104d2a2-6569-43b1-9167-2d1e3ffa7646"
+    },
+    {
+      "title": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
+      "summary": "The third week of October 2026 was a rough one for anyone who runs software on the internet.  Two...",
+      "url": "https://dev.to/james_anderson_h/security-changed-with-ai-and-small-teams-are-falling-behind-5ebg",
+      "source": "devto",
+      "hot_score": 0.04821207882335366,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.557874+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foffi501tybpph06jvbch.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "security",
+        "ai"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.557877+00:00",
+      "id": "4bd54879-d4e5-4d2d-b359-9b230d9f5b26"
+    },
+    {
+      "title": "【v2.4攻略】#角色攻略#《全角色参考面板》更新申鹤云堇",
+      "summary": "UID 101308382 在交流社区内经常会见到新手提问“我的xx毕业了吗”“xx属性怎么堆”诸如此类的问题，制作一份角色的参考面板，能够非常方便地解决这些疑问，帮助更多玩家制定奋斗目标。",
+      "url": "https://www.miyoushe.com/ys/article/14457345",
+      "source": "miyoushe",
+      "hot_score": 0.04821207882335366,
+      "category": "entertainment",
+      "published_at": "2026-10-25T03:15:34.115601+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "米游社",
+        "游戏"
+      ],
+      "fetched_at": "2026-10-25T03:15:34.115604+00:00",
+      "id": "468bc9c6-033d-4821-9294-0941d95f68f9"
+    },
+    {
+      "title": "Making a VGA Driver in SystemVerilog",
+      "summary": "53 points | 10 comments",
+      "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+      "source": "hackernews",
+      "hot_score": 0.047261418114160764,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003611+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003614+00:00",
+      "id": "f8c7f75c-46ea-4b1f-aff1-ad05428a7c60"
+    },
+    {
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "summary": "38 points | 28 comments",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "source": "hackernews",
+      "hot_score": 0.04237230589545448,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003638+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003640+00:00",
+      "id": "ee5297ce-24a1-4254-9ac5-b460e4923d6f"
+    },
+    {
+      "title": "Small Programs and Languages",
+      "summary": "48 points | 4 comments",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "source": "hackernews",
+      "hot_score": 0.04074260182255239,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003429+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003434+00:00",
+      "id": "2a37cc4a-6236-40cf-9393-0576160610e8"
+    },
+    {
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "summary": "42 points | 1 comments",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "source": "hackernews",
+      "hot_score": 0.03463121154916953,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003458+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003461+00:00",
+      "id": "ba67581b-2a3c-4865-a514-49d2254bb134"
+    },
+    {
+      "title": "台风“蔷琵”影响何时结束？今年编号台风数已并列本世纪以来最多",
+      "summary": "澎湃新闻 - 台风“蔷琵”影响何时结束？今年编号台风数已并列本世纪以来最多",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34324451",
+      "source": "thepaper",
+      "hot_score": 0.03463121154916953,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938434+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938438+00:00",
+      "id": "b12be40d-b490-41d1-8878-208d184e0a14"
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "summary": "36 points | 9 comments",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "source": "hackernews",
+      "hot_score": 0.033001507476267435,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003364+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003371+00:00",
+      "id": "c36146f7-c8b9-4838-83d7-3ca158a13fac"
+    },
+    {
+      "title": "Sloth Reads: an open model reads my read-later pile overnight, then reads me the good ones",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady         ...",
+      "url": "https://dev.to/sbis04/sloth-reads-an-open-model-reads-my-read-later-pile-overnight-then-reads-me-the-good-ones-3o14",
+      "source": "devto",
+      "hot_score": 0.032594081458041914,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.557887+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.557890+00:00",
+      "id": "d3ad9e5e-462b-4135-804d-4b9c0d82bfcf"
+    },
+    {
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "summary": "34 points | 10 comments",
+      "url": "https://ratfactor.com/cards/limitations",
+      "source": "hackernews",
+      "hot_score": 0.031779229421590866,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003526+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003529+00:00",
+      "id": "9386132a-01e2-4510-99b1-a4acf44a619b"
+    },
+    {
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T21:09:27+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.584832+00:00",
+      "id": "50e6d084-5b83-4cad-8d93-a93e886dc3ad"
+    },
+    {
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T12:12:40+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.585208+00:00",
+      "id": "b838d615-591a-49bf-9872-f414a6b9bcdc"
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T23:02:06+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.585675+00:00",
+      "id": "f1deba7c-8950-4bdb-914d-3cee7039c856"
+    },
+    {
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T15:21:44+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.586020+00:00",
+      "id": "43ae84b4-7cbe-41a9-b9de-bcab583322e2"
+    },
+    {
+      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+      "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T22:47:07+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.586362+00:00",
+      "id": "e6014b53-f15a-4f2d-832c-7e3ce41051c5"
+    },
+    {
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T17:11:56+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.586678+00:00",
+      "id": "49d0c045-934a-4476-8f2d-9a861d0bc82c"
+    },
+    {
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T19:12:51+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.586979+00:00",
+      "id": "ca418349-6180-4345-9098-b9cdb02d4186"
+    },
+    {
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T09:38:28+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.587352+00:00",
+      "id": "83099928-a46d-4903-878a-97ac384d7eb9"
+    },
+    {
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T09:46:53+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.587647+00:00",
+      "id": "d3ad5675-728c-40b1-aaf0-d350e393e176"
+    },
+    {
+      "title": "Australian MP's condition improves after alleged car attack",
+      "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T01:55:15+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.587920+00:00",
+      "id": "3593317a-0ee0-4648-8ca8-663e9a3b1523"
+    },
+    {
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T23:08:23+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.588210+00:00",
+      "id": "3d2aebc1-14c5-4563-8aaa-2650ec2b76ca"
+    },
+    {
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T00:36:47+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.588522+00:00",
+      "id": "befa255b-5244-44f3-b01e-c3e46a099e5b"
+    },
+    {
+      "title": "Two rescued after Nairobi building collapse with five still missing",
+      "summary": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T17:25:46+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.588793+00:00",
+      "id": "8e13e972-50be-426a-b5df-99c4f66a52fe"
+    },
+    {
+      "title": "Trump administration sues to block certification of upcoming Alaska election",
+      "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+      "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T18:49:14+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.589480+00:00",
+      "id": "7b9eb826-76d6-42c7-8026-90c177ab81a0"
+    },
+    {
+      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+      "summary": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T05:31:01+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.589769+00:00",
+      "id": "ea451e0b-7768-4136-8ece-e1c944692c4f"
+    },
+    {
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T07:17:44+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.590052+00:00",
+      "id": "1fcc292f-2428-4886-899f-5cab09c52d81"
+    },
+    {
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T19:46:30+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.590342+00:00",
+      "id": "30cccee8-35f3-4185-a74f-932269984278"
+    },
+    {
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T20:59:39+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.590622+00:00",
+      "id": "2291638f-2247-4c0d-bfa5-a8dc5026fb37"
+    },
+    {
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T19:42:08+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.590890+00:00",
+      "id": "9d86ce80-6269-4a7d-b17b-fdc898302d1c"
+    },
+    {
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T20:18:13+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.591152+00:00",
+      "id": "a921e9cd-72dd-4931-8eae-da73ddef865e"
+    },
+    {
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T15:30:47+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.591442+00:00",
+      "id": "3b08eff8-a1da-49b6-b82d-088e6cd89ffe"
+    },
+    {
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T19:37:35+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.591708+00:00",
+      "id": "a73d1dda-b4d2-4150-a614-adcfc4bac7ba"
+    },
+    {
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T22:08:47+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.591967+00:00",
+      "id": "af891f90-1371-4f28-9549-a2605f54c3ca"
+    },
+    {
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+      "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T15:56:48+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.592227+00:00",
+      "id": "60a5e643-729a-4ae5-92cd-0228ef75a623"
+    },
+    {
+      "title": "Who actually controls Ukraine's access to Starlink?",
+      "summary": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
+      "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T22:24:36+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.592537+00:00",
+      "id": "6f3ea435-ab95-4c79-bfe0-5ed072d9a370"
+    },
+    {
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+      "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
+      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T11:30:32+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.592802+00:00",
+      "id": "30744b19-826c-47f3-9a2d-3b85203599e8"
+    },
+    {
+      "title": "The rise of AI election ads in US midterms campaign",
+      "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
+      "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T05:03:44+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.593096+00:00",
+      "id": "239a1bc1-ba27-4b68-bf68-1e33288a5fb5"
+    },
+    {
+      "title": "How Brazil's changing working class is reshaping the presidential race",
+      "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-24T05:05:44+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.593387+00:00",
+      "id": "ce178ddb-d2ba-418d-b46a-b91bec0758f3"
+    },
+    {
+      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+      "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T23:09:16+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.593659+00:00",
+      "id": "2e96118a-120c-49ae-ae7d-06a879a4f0df"
+    },
+    {
+      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T23:11:31+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.593922+00:00",
+      "id": "7fc299ad-a433-4abb-bcc4-071e835b9f52"
+    },
+    {
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+      "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
+      "source": "rss",
+      "hot_score": 0.030556951366914293,
+      "category": "news",
+      "published_at": "2026-10-23T09:23:53+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "rss",
+        "bbc-news"
+      ],
+      "fetched_at": "2026-10-25T03:15:38.594179+00:00",
+      "id": "6af04650-66b0-4557-8e84-64ecb215c550"
+    },
+    {
+      "title": "Black October hit PHP, npm and PyPI. So I built a system that catches it in my app before I ship, with the fix ready",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady  This...",
+      "url": "https://dev.to/nirajkhetre/black-october-hit-php-npm-and-pypi-so-i-built-a-system-that-catches-it-in-my-app-before-i-ship-5gff",
+      "source": "devto",
+      "hot_score": 0.028519821275786672,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558069+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0j9kldxg0ww14ttkoft9.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558072+00:00",
+      "id": "0294c32c-457d-4a6b-b911-9d24363a86a2"
+    },
+    {
+      "title": "Your AI Agent Says “Done.” What Did It Actually Verify?",
+      "summary": "“Fixed the bug. All tests pass.”  Great.  Which tests? Did they run? Did they cover the bug—or did...",
+      "url": "https://dev.to/robertadam987_/your-ai-agent-says-done-what-did-it-actually-verify-16jd",
+      "source": "devto",
+      "hot_score": 0.02716173454836826,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558239+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6a8zutl8uvnh5d9qmnj.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "programming"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558241+00:00",
+      "id": "8a4d92cd-60d0-4e4d-a871-aa0475eb2aa2"
+    },
+    {
+      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
+      "summary": "31 points | 2 comments",
+      "url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+      "source": "hackernews",
+      "hot_score": 0.026075265166433527,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003711+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003713+00:00",
+      "id": "9ca03296-4765-4ff3-b877-f754848813c2"
+    },
+    {
+      "title": "FindMyWeb: Apple Find My, reverse enginiered",
+      "summary": "27 points | 7 comments",
+      "url": "https://codeberg.org/Misom/FindMyWeb",
+      "source": "hackernews",
+      "hot_score": 0.024852987111756954,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003497+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003499+00:00",
+      "id": "43fa6915-a4fb-40c4-9ca2-a5f595c209e8"
+    },
+    {
+      "title": "西安打馕“阿达西”走红：有大学生骑车20多公里专程赶来，有市民自发给大家写号维护秩序",
+      "summary": "澎湃新闻 - 西安打馕“阿达西”走红：有大学生骑车20多公里专程赶来，有市民自发给大家写号维护秩序",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34324765",
+      "source": "thepaper",
+      "hot_score": 0.02444556109353143,
+      "category": "news",
+      "published_at": "2026-10-25T03:14:42.938563+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "澎湃新闻",
+        "新闻"
+      ],
+      "fetched_at": "2026-10-25T03:14:42.938567+00:00",
+      "id": "8ea93a40-0a88-4352-8773-01d57e5b7332"
+    },
+    {
+      "title": "Three Times My Test Failed and the LLM Was Right",
+      "summary": "A test fails, and the reflex is: the code is wrong. Debug the code, fix the code, move on. That...",
+      "url": "https://dev.to/debashish_ghosal/three-times-my-test-failed-and-the-llm-was-right-43l2",
+      "source": "devto",
+      "hot_score": 0.023087474366113022,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.557952+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4o2covnae1ry3vu9zaln.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "programming"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.557956+00:00",
+      "id": "2df1f9a5-f80c-41de-b741-48a55c603dd3"
+    },
+    {
+      "title": "Caddy 2.11.6 turns a silent config failure on /load into an HTTP 400",
+      "summary": "A Caddy reload that broke my running server used to come back HTTP 200. On 2.11.6 and 2.11.7 it's a 400 with a real error, and a related fix cuts a stuck Unix socket from about two minutes to instant.",
+      "url": "https://dev.to/alexgeorgiev17/caddy-2116-turns-a-silent-config-failure-on-load-into-an-http-400-4656",
+      "source": "devto",
+      "hot_score": 0.022408431002403813,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.557968+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "caddy",
+        "devops"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.557973+00:00",
+      "id": "ad99e08b-2959-4510-b6ec-afc259073061"
+    },
+    {
+      "title": "From Ancient Epigraphy to 3D Proteins: Building Plugins, Skills & MCP Sidecars in Google Antigravity",
+      "summary": "Reverse-engineering Google Antigravity's Science Plugin (v1.3.1) with an open-source 3D WebGL Biomolecular Studio, 5 multi-skill pipelines, and 3 custom plugins.",
+      "url": "https://dev.to/gde/from-ancient-epigraphy-to-3d-proteins-building-plugins-skills-mcp-sidecars-in-google-antigravity-4l1m",
+      "source": "devto",
+      "hot_score": 0.016297040729020957,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.557931+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FRobinaMirbahar%2Fantigravity-science-plugin-cookbook%2Fmain%2Fassets%2Fdevto_cover_banner.jpg",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "gemini"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.557937+00:00",
+      "id": "80809fc6-6626-4584-9777-3e9065b3dfb8"
+    },
+    {
+      "title": "knowledge-gate: AI talks into my own notes, while I sleep",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "url": "https://dev.to/gracelee087/knowledge-gate-ai-talks-into-my-own-notes-while-i-sleep-1agg",
+      "source": "devto",
+      "hot_score": 0.01561799736531175,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558166+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "hf26challenge",
+        "devchallenge"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558169+00:00",
+      "id": "ce463e47-07a0-4697-9dab-f049259bf7a3"
+    },
+    {
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "summary": "18 points | 0 comments",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "source": "hackernews",
+      "hot_score": 0.014667336656118857,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003478+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003481+00:00",
+      "id": "3702b82d-0229-4f9e-9735-a246be2dcbb7"
+    },
+    {
+      "title": "Gemma 4 on a 4 GB GPU in Plain PyTorch: From Out of Memory to Faster Than llama.cpp",
+      "summary": "On a 4 GB GTX 1650 Ti, Gemma 4 E2B does not fit in 16-bit, and Transformers' own 4-bit path runs out of memory on its first forward pass. Kept in Google's QAT 4-bit end to end, with a few Triton kernels and a CUDA graph, plain PyTorch decodes at 88 tok/s, 1.07x llama.cpp on the same card, and holds the full 131,072-token context.",
+      "url": "https://dev.to/gde/gemma-4-on-a-4-gb-gpu-in-plain-pytorch-from-out-of-memory-to-faster-than-llamacpp-31jb",
+      "source": "devto",
+      "hot_score": 0.012901823910474924,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558089+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fgemma4-dev%2Fmain%2Fdocs%2Fgemma4-e2b-pytorch-1650ti%2Fdevto-cover.fa8eaefc.jpg",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "gemma",
+        "pytorch"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558091+00:00",
+      "id": "8cb9e3b7-3b21-4530-848d-138b6c1b1236"
+    },
+    {
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "summary": "15 points | 1 comments",
+      "url": "https://xingjianbai.com/reactive-optimizers/",
+      "source": "hackernews",
+      "hot_score": 0.012630206564991241,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003398+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003403+00:00",
+      "id": "ec9bc529-574e-42d3-8717-791d95583a63"
+    },
+    {
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "summary": "13 points | 4 comments",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+      "source": "hackernews",
+      "hot_score": 0.012222780546765715,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003629+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003632+00:00",
+      "id": "ea0a27a8-93d4-4af8-a373-0f59c4a23907"
+    },
+    {
+      "title": "My AI Coding Workflow, v3",
+      "summary": "My AI coding workflow changes every few months, so I give it version numbers. New tools ship, models...",
+      "url": "https://dev.to/helderberto/my-ai-coding-workflow-v3-3c4c",
+      "source": "devto",
+      "hot_score": 0.010185650455638096,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558004+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faixwthhslyhxsdzw5vwv.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "claudecode",
+        "ai"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558009+00:00",
+      "id": "98e6016d-656d-4e21-b71c-72875213ecb7"
+    },
+    {
+      "title": "Everyone Clicks 'I Agree.' No One Reads Them: I Fine-Tuned a 4B Model with Tinker to Catch Unfair Terms of Service in 30 Seconds",
+      "summary": "A 9,000-word contract scanned in 30 seconds. How I fine-tuned Qwen 4B with Tinker on the LexGLUE UNFAIR-ToS benchmark to catch arbitration waivers, unilateral changes, and liability caps.",
+      "url": "https://dev.to/emmasofia/everyone-clicks-i-agree-no-one-reads-them-i-fine-tuned-a-4b-model-with-tinker-to-catch-unfair-30lm",
+      "source": "devto",
+      "hot_score": 0.008827563728219684,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558137+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FEmmaSofiaDev%2Fdidnt-read%2Fmain%2Fstatic%2Fcover.jpg",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558140+00:00",
+      "id": "b759eb47-1f40-468b-8d16-40431392f021"
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "summary": "9 points | 3 comments",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "hackernews",
+      "hot_score": 0.008555946382736001,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003446+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003449+00:00",
+      "id": "a759137a-339d-4719-8cf1-267826629cb8"
+    },
+    {
+      "title": "SlothOps: A Local AI Caretaker for Your Codebase",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady.         ...",
+      "url": "https://dev.to/extinctsion/slothops-a-local-ai-caretaker-for-your-codebase-4nh",
+      "source": "devto",
+      "hot_score": 0.008148520364510478,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558079+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8lbwec4l14oa5v05xew1.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558082+00:00",
+      "id": "9d25bcdd-8d02-4e4d-aff0-645164ba9ce6"
+    },
+    {
+      "title": "You know you can automate screen reader tests right?",
+      "summary": "There is a common misconception that accessibility testing can only fall into two groups:   Some...",
+      "url": "https://dev.to/craigmorten/you-know-you-can-automate-screen-reader-tests-right-2dnk",
+      "source": "devto",
+      "hot_score": 0.008148520364510478,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558202+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0fkqu3pa49b5f70cg70d.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "a11y",
+        "webdev"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558204+00:00",
+      "id": "c7ceac5d-4ad5-4068-b196-cce038ea624f"
+    },
+    {
+      "title": "Spring Data-Style Repositories Compiled to Native Code",
+      "summary": "Use Spring Data-style repositories and Hibernate persistence conventions with generated Java implementations, native compilation and Spring-style transaction boundaries.",
+      "url": "https://dev.to/codenameone/spring-data-style-repositories-compiled-to-native-code-2f4b",
+      "source": "devto",
+      "hot_score": 0.006790433637092065,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558157+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.codenameone.com%2Fblog%2Frepositories-and-transactions-without-surprises.jpg",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "java",
+        "mobile"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558159+00:00",
+      "id": "fac313c5-a233-42d8-b548-c2405953a8d5"
+    },
+    {
+      "title": "DownloadsSloth: a local Gemma tool that tidies messy folders so you don't have to",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "url": "https://dev.to/aakash_mehta_48e67c642976/downloadssloth-a-local-gemma-tool-that-tidies-messy-folders-so-you-dont-have-to-5h5l",
+      "source": "devto",
+      "hot_score": 0.006790433637092065,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558211+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "devchallenge"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558213+00:00",
+      "id": "9253269e-2928-4633-8c08-053c0ea952df"
+    },
+    {
+      "title": "Why Long AI Coding Sessions Get Expensive (Quadratic Attention Explained)",
+      "summary": "Attention is quadratic, and so is re-sending your whole conversation every turn. What prompt caching fixes in a long Claude Code session, and what it doesn't.",
+      "url": "https://dev.to/smit153/why-long-ai-coding-sessions-get-expensive-quadratic-attention-explained-1nfk",
+      "source": "devto",
+      "hot_score": 0.0061113902733828575,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558220+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcsbw71mrc2lqak6h13xw.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "llm"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558222+00:00",
+      "id": "81b448de-38af-42a0-b368-d9ac6f96540b"
+    },
+    {
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "summary": "7 points | 0 comments",
+      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+      "source": "hackernews",
+      "hot_score": 0.005703964255157334,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003515+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003518+00:00",
+      "id": "8fd17eaa-8b1a-4eee-a362-7044fb300794"
+    },
+    {
+      "title": "Making My Blog Readable by AI Agents",
+      "summary": "6 points | 0 comments",
+      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+      "source": "hackernews",
+      "hot_score": 0.004889112218706287,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003720+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003722+00:00",
+      "id": "82691694-805d-4777-9b74-1fbe4e057668"
+    },
+    {
+      "title": "Multirun: A Multi-Agent Run Framework",
+      "summary": "Denis ran the same task through ten isolated Claude Code agents at once — each with its own git worktree and its own Postgres branch — and diffed what all ten did to the database. They agreed completely on the schema, then split 5/5 on two decisions nobody asked them to make. Where they split is the cheapest eval you will ever run.",
+      "url": "https://dev.to/kubeden/multirun-a-multi-agent-run-framework-38a7",
+      "source": "devto",
+      "hot_score": 0.004753303545964445,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558128+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdenislavgavrilov.com%2Fassets%2Fcovers%2Fmultirun-ten-agents-one-task.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "agents"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558130+00:00",
+      "id": "9a4b3cb5-317d-4593-8d11-91d8336c77a9"
+    },
+    {
+      "title": "👾 Nested Bookmarks Organizer for Chrome w/Custom Ticker",
+      "summary": "✨ Finally, some positive excitement! ✨  I went on a tiny mission last night to build something I...",
+      "url": "https://dev.to/annavi11arrea1/nested-bookmarks-organizer-for-chrome-wcustom-ticker-267p",
+      "source": "devto",
+      "hot_score": 0.004074260182255239,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.557988+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffis0ped2401h4ioefa4i.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "webdev",
+        "themes"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.557992+00:00",
+      "id": "c375829c-bbee-44df-9f55-f5f121c7f608"
+    },
+    {
+      "title": "My Passion for Coding Isn't 404. It's 503.",
+      "summary": "Last month, I signed up for a hackathon.  I opened a fresh file and named it ideas.md.  Forty-eight...",
+      "url": "https://dev.to/_boweii/my-passion-for-coding-isnt-404-its-503-446h",
+      "source": "devto",
+      "hot_score": 0.0033952168185460326,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558118+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa320n0vxtnspy5sqt7ms.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "programming",
+        "productivity"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558121+00:00",
+      "id": "871c1659-e7f0-4459-b98b-7f8a96344a30"
+    },
+    {
+      "title": "Claude Code File System Boundaries in 2026: What `--add-dir`, Allowed Paths, and Sandbox Roots Actually Restrict",
+      "summary": "Claude Code's filesystem permissions operate on two distinct layers that most teams conflate. Understanding the difference between sandbox roots and allowed paths determines whether your agent can read secrets, overwrite production config, or execute",
+      "url": "https://dev.to/jsmanifest/claude-code-file-system-boundaries-in-2026-what-add-dir-allowed-paths-and-sandbox-roots-21mp",
+      "source": "devto",
+      "hot_score": 0.0033952168185460326,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558181+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Femzvxuokuqzdkmyrzfut.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblog%2Fposts%2Fclaude-code-filesystem-boundaries-add-dir-sandbox%2Fthumbnail.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "typescript",
+        "programming"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558185+00:00",
+      "id": "b4efdd38-55bd-414b-808c-50666bbf9423"
+    },
+    {
+      "title": "Talking with strangers is surprisingly informative",
+      "summary": "4 points | 0 comments",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35972959/",
+      "source": "hackernews",
+      "hot_score": 0.003259408145804191,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003797+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003800+00:00",
+      "id": "c975d0e6-0cde-4312-aabe-3afecd802778"
+    },
+    {
+      "title": "Road to State Machines VI - But What If Independent Work Finishes in a Different Order?",
+      "summary": "Our order can now wait for a shipping inquiry without pretending that shipping has already...",
+      "url": "https://dev.to/canburaks/road-to-state-machines-vi-but-what-if-independent-work-finishes-in-a-different-order-2eho",
+      "source": "devto",
+      "hot_score": 0.002716173454836826,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558108+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk4vku1lwwzeq0eslxa7s.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "ai",
+        "python"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558111+00:00",
+      "id": "8e2599a0-ef85-4bc0-bfc6-884b18d00f9a"
+    },
+    {
+      "title": "In Rainbows",
+      "summary": "3 points | 0 comments",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "source": "hackernews",
+      "hot_score": 0.0024445561093531434,
+      "category": "tech",
+      "published_at": "2026-10-25T03:13:57.003566+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "hacker-news",
+        "tech"
+      ],
+      "fetched_at": "2026-10-25T03:13:57.003568+00:00",
+      "id": "fc1876f9-1f7b-4029-b3dd-6923a930df6c"
+    },
+    {
+      "title": "日剧Vivant抹黑中国",
+      "summary": "微博热搜 - 日剧Vivant抹黑中国",
+      "url": "https://s.weibo.com/weibo?q=日剧Vivant抹黑中国",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788106+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788121+00:00",
+      "id": "60cea77b-9763-40d9-94ff-4cf6e875aa03"
+    },
+    {
+      "title": "马山猴子溺亡水柜完成首轮消杀",
+      "summary": "微博热搜 - 马山猴子溺亡水柜完成首轮消杀",
+      "url": "https://s.weibo.com/weibo?q=马山猴子溺亡水柜完成首轮消杀",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788156+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788164+00:00",
+      "id": "1e46cc56-c257-4e87-a5ef-739a8d31b295"
+    },
+    {
+      "title": "向英雄致敬迎英雄回家",
+      "summary": "微博热搜 - 向英雄致敬迎英雄回家",
+      "url": "https://s.weibo.com/weibo?q=向英雄致敬迎英雄回家",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788180+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788186+00:00",
+      "id": "a3afc848-c5f7-48bf-b100-e01655caeb34"
+    },
+    {
+      "title": "S16抽签",
+      "summary": "微博热搜 - S16抽签",
+      "url": "https://s.weibo.com/weibo?q=S16抽签",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788197+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788202+00:00",
+      "id": "0d2cdd08-9b80-4798-adbf-f1f784edc73d"
+    },
+    {
+      "title": "日剧把日军罪行嫁接给中国人",
+      "summary": "微博热搜 - 日剧把日军罪行嫁接给中国人",
+      "url": "https://s.weibo.com/weibo?q=日剧把日军罪行嫁接给中国人",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788214+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788218+00:00",
+      "id": "034c3c97-5972-4ed5-9e4b-0808de3d798d"
+    },
+    {
+      "title": "鸡蛋别放冰箱门格子里",
+      "summary": "微博热搜 - 鸡蛋别放冰箱门格子里",
+      "url": "https://s.weibo.com/weibo?q=鸡蛋别放冰箱门格子里",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788230+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788234+00:00",
+      "id": "962c9a83-aa16-4670-8fad-055030486ae5"
+    },
+    {
+      "title": "55岁男子性功能下降确诊更年期",
+      "summary": "微博热搜 - 55岁男子性功能下降确诊更年期",
+      "url": "https://s.weibo.com/weibo?q=55岁男子性功能下降确诊更年期",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788245+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788249+00:00",
+      "id": "f11818dc-bf5b-4d42-99d9-7d8977ec9ac0"
+    },
+    {
+      "title": "小城良方全员打卡肖战痛楼",
+      "summary": "微博热搜 - 小城良方全员打卡肖战痛楼",
+      "url": "https://s.weibo.com/weibo?q=小城良方全员打卡肖战痛楼",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788262+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788267+00:00",
+      "id": "d574cfc2-a28a-4a07-b3f6-198666010872"
+    },
+    {
+      "title": "国务院发文减缓AI抢饭碗冲击",
+      "summary": "微博热搜 - 国务院发文减缓AI抢饭碗冲击",
+      "url": "https://s.weibo.com/weibo?q=国务院发文减缓AI抢饭碗冲击",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788277+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788282+00:00",
+      "id": "9190b3c1-0819-44cb-a1dd-dc273da63581"
+    },
+    {
+      "title": "31省份2025年人口出生率公布",
+      "summary": "微博热搜 - 31省份2025年人口出生率公布",
+      "url": "https://s.weibo.com/weibo?q=31省份2025年人口出生率公布",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788293+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788298+00:00",
+      "id": "667c4ee5-8888-4ada-9679-261d66ccfcac"
+    },
+    {
+      "title": "祖海态度",
+      "summary": "微博热搜 - 祖海态度",
+      "url": "https://s.weibo.com/weibo?q=祖海态度",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788343+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788348+00:00",
+      "id": "cb81bd20-3879-4ef7-9609-6305ec5de868"
+    },
+    {
+      "title": "毛不易婚礼发言引网友争议",
+      "summary": "微博热搜 - 毛不易婚礼发言引网友争议",
+      "url": "https://s.weibo.com/weibo?q=毛不易婚礼发言引网友争议",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788360+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788364+00:00",
+      "id": "8a5f5950-fbc2-4bbd-a48e-7cb0f143e42a"
+    },
+    {
+      "title": "儿媳愿出钱但不与婆婆同住",
+      "summary": "微博热搜 - 儿媳愿出钱但不与婆婆同住",
+      "url": "https://s.weibo.com/weibo?q=儿媳愿出钱但不与婆婆同住",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788374+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788378+00:00",
+      "id": "615cb769-27b3-44cf-8880-525b79eddec2"
+    },
+    {
+      "title": "玉簟秋",
+      "summary": "微博热搜 - 玉簟秋",
+      "url": "https://s.weibo.com/weibo?q=玉簟秋",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788388+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788392+00:00",
+      "id": "6b81ebcf-0ca3-4b6f-a282-b56b63ac1b4d"
+    },
+    {
+      "title": "宋慧乔从出现开始就美得在发光",
+      "summary": "微博热搜 - 宋慧乔从出现开始就美得在发光",
+      "url": "https://s.weibo.com/weibo?q=宋慧乔从出现开始就美得在发光",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788402+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788408+00:00",
+      "id": "7b6dc3c1-5c9d-4993-a845-2a8b17f9ae36"
+    },
+    {
+      "title": "女生拒绝表白后照片被发在色情软件",
+      "summary": "微博热搜 - 女生拒绝表白后照片被发在色情软件",
+      "url": "https://s.weibo.com/weibo?q=女生拒绝表白后照片被发在色情软件",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788420+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788427+00:00",
+      "id": "49fa7286-7a5f-47c2-a4dd-64e4085fce2e"
+    },
+    {
+      "title": "李雪健已无法说话",
+      "summary": "微博热搜 - 李雪健已无法说话",
+      "url": "https://s.weibo.com/weibo?q=李雪健已无法说话",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788436+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788439+00:00",
+      "id": "c663032c-8c3c-4e50-8b42-66bcfde16dae"
+    },
+    {
+      "title": "易梦玲回应瘦得夸张",
+      "summary": "微博热搜 - 易梦玲回应瘦得夸张",
+      "url": "https://s.weibo.com/weibo?q=易梦玲回应瘦得夸张",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788446+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788448+00:00",
+      "id": "4f1f65e2-4f3e-4b51-91fc-dc6057a33ac7"
+    },
+    {
+      "title": "爱马仕称中国市场目前很困难",
+      "summary": "微博热搜 - 爱马仕称中国市场目前很困难",
+      "url": "https://s.weibo.com/weibo?q=爱马仕称中国市场目前很困难",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788454+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788456+00:00",
+      "id": "13805a2b-c696-4d2b-a7ea-715a6a0dfa7b"
+    },
+    {
+      "title": "被状告后高铁宁波站撤掉禁烟标志",
+      "summary": "微博热搜 - 被状告后高铁宁波站撤掉禁烟标志",
+      "url": "https://s.weibo.com/weibo?q=被状告后高铁宁波站撤掉禁烟标志",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788463+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788465+00:00",
+      "id": "617f4b0a-7dbf-4845-8b33-ca6d9501daef"
+    },
+    {
+      "title": "美国将孔子学院列为国家安全威胁",
+      "summary": "微博热搜 - 美国将孔子学院列为国家安全威胁",
+      "url": "https://s.weibo.com/weibo?q=美国将孔子学院列为国家安全威胁",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788471+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788473+00:00",
+      "id": "fd68a056-8470-4c6b-ac17-517f60ac0233"
+    },
+    {
+      "title": "刘学义 张予曦",
+      "summary": "微博热搜 - 刘学义 张予曦",
+      "url": "https://s.weibo.com/weibo?q=刘学义 张予曦",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788479+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788482+00:00",
+      "id": "0e5ca628-98ea-4bc3-8e67-fb9d6b2a01a4"
+    },
+    {
+      "title": "这是中国台湾省",
+      "summary": "微博热搜 - 这是中国台湾省",
+      "url": "https://s.weibo.com/weibo?q=这是中国台湾省",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788488+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788490+00:00",
+      "id": "c06ba134-bb9b-4b77-9f36-1049cd42b7e0"
+    },
+    {
+      "title": "小酒窝捐的旧衣服都是新的",
+      "summary": "微博热搜 - 小酒窝捐的旧衣服都是新的",
+      "url": "https://s.weibo.com/weibo?q=小酒窝捐的旧衣服都是新的",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788497+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788499+00:00",
+      "id": "0d434354-61b6-420d-ad7e-ee72527dcea5"
+    },
+    {
+      "title": "新郎新娘回应毛不易婚礼发言",
+      "summary": "微博热搜 - 新郎新娘回应毛不易婚礼发言",
+      "url": "https://s.weibo.com/weibo?q=新郎新娘回应毛不易婚礼发言",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788505+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788507+00:00",
+      "id": "6cc9b354-be1b-4b6b-ae77-400c1ce1ada8"
+    },
+    {
+      "title": "iG抽到HLE",
+      "summary": "微博热搜 - iG抽到HLE",
+      "url": "https://s.weibo.com/weibo?q=iG抽到HLE",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788514+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788516+00:00",
+      "id": "9d4fab30-9d9c-4dac-8d86-51f6a423cb01"
+    },
+    {
+      "title": "品牌方回应肖战广告位只抢到12集",
+      "summary": "微博热搜 - 品牌方回应肖战广告位只抢到12集",
+      "url": "https://s.weibo.com/weibo?q=品牌方回应肖战广告位只抢到12集",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788522+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788524+00:00",
+      "id": "2d0489f4-44bb-4aa8-a2ff-89081f652b13"
+    },
+    {
+      "title": "迪丽热巴红毯同款粉底断货",
+      "summary": "微博热搜 - 迪丽热巴红毯同款粉底断货",
+      "url": "https://s.weibo.com/weibo?q=迪丽热巴红毯同款粉底断货",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788530+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788533+00:00",
+      "id": "e95c1578-12b6-4e72-85cb-71b933596d9c"
+    },
+    {
+      "title": "马斯克公布乌克兰星链被限速原因",
+      "summary": "微博热搜 - 马斯克公布乌克兰星链被限速原因",
+      "url": "https://s.weibo.com/weibo?q=马斯克公布乌克兰星链被限速原因",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788539+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788541+00:00",
+      "id": "f774ed54-31c3-43b3-bbf6-a54f78642cd8"
+    },
+    {
+      "title": "sakee 郭德纲",
+      "summary": "微博热搜 - sakee 郭德纲",
+      "url": "https://s.weibo.com/weibo?q=sakee 郭德纲",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788547+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788550+00:00",
+      "id": "51538e9b-2e62-4c7f-b366-19a112597dde"
+    },
+    {
+      "title": "曝刘学义张予曦曾在一起三年多",
+      "summary": "微博热搜 - 曝刘学义张予曦曾在一起三年多",
+      "url": "https://s.weibo.com/weibo?q=曝刘学义张予曦曾在一起三年多",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788556+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788558+00:00",
+      "id": "25b1f4d4-c22d-451a-8a58-c98678fcf2a9"
+    },
+    {
+      "title": "90年后我站在何家冲",
+      "summary": "微博热搜 - 90年后我站在何家冲",
+      "url": "https://s.weibo.com/weibo?q=90年后我站在何家冲",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788564+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788566+00:00",
+      "id": "7c90c2be-6ee8-49ce-adb3-6bf39ba6af4b"
+    },
+    {
+      "title": "老师你玩不起就别玩",
+      "summary": "微博热搜 - 老师你玩不起就别玩",
+      "url": "https://s.weibo.com/weibo?q=老师你玩不起就别玩",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788572+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788574+00:00",
+      "id": "fda6e7e5-089a-4130-88e9-961dec358eeb"
+    },
+    {
+      "title": "2026共创之夜节目单",
+      "summary": "微博热搜 - 2026共创之夜节目单",
+      "url": "https://s.weibo.com/weibo?q=2026共创之夜节目单",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788581+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788583+00:00",
+      "id": "c5233cf7-d887-4758-883b-ea78fcf8ff47"
+    },
+    {
+      "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+      "summary": "微博热搜 - 江苏姑娘网购鹤岗房搬进去后傻眼",
+      "url": "https://s.weibo.com/weibo?q=江苏姑娘网购鹤岗房搬进去后傻眼",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788588+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788591+00:00",
+      "id": "f1fe8c93-ad3e-4c1f-83dd-c6cbb8d6bfc2"
+    },
+    {
+      "title": "没想到何超莲是真的在打电话",
+      "summary": "微博热搜 - 没想到何超莲是真的在打电话",
+      "url": "https://s.weibo.com/weibo?q=没想到何超莲是真的在打电话",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788597+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788599+00:00",
+      "id": "ea535433-aaf4-4de4-95ad-f713e7d214b9"
+    },
+    {
+      "title": "嫁金钗 魏家家风",
+      "summary": "微博热搜 - 嫁金钗 魏家家风",
+      "url": "https://s.weibo.com/weibo?q=嫁金钗 魏家家风",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788605+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788607+00:00",
+      "id": "97e94794-f2df-414f-8f82-a43707900043"
+    },
+    {
+      "title": "王者荣耀",
+      "summary": "微博热搜 - 王者荣耀",
+      "url": "https://s.weibo.com/weibo?q=王者荣耀",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788613+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788615+00:00",
+      "id": "2b585d03-b6c4-46d7-a1cc-2f4d3fe792a6"
+    },
+    {
+      "title": "和好no 吃瓜where",
+      "summary": "微博热搜 - 和好no 吃瓜where",
+      "url": "https://s.weibo.com/weibo?q=和好no 吃瓜where",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788622+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788624+00:00",
+      "id": "0b082c06-c83c-4b52-8eee-a89fe982351f"
+    },
+    {
+      "title": "小城良方有效播放量破亿",
+      "summary": "微博热搜 - 小城良方有效播放量破亿",
+      "url": "https://s.weibo.com/weibo?q=小城良方有效播放量破亿",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788630+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788633+00:00",
+      "id": "7b21e570-384f-4f58-85f4-58c55042b45a"
+    },
+    {
+      "title": "国考83个职位无人报",
+      "summary": "微博热搜 - 国考83个职位无人报",
+      "url": "https://s.weibo.com/weibo?q=国考83个职位无人报",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788639+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788641+00:00",
+      "id": "f0a9445e-5a18-4b83-96bc-f7caf6ec93f1"
+    },
+    {
+      "title": "iPhoneDuo破发",
+      "summary": "微博热搜 - iPhoneDuo破发",
+      "url": "https://s.weibo.com/weibo?q=iPhoneDuo破发",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788648+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788650+00:00",
+      "id": "82b51ba2-3b33-4881-8364-55c551b0d040"
+    },
+    {
+      "title": "369希望ZUIAN签证赶紧办下来",
+      "summary": "微博热搜 - 369希望ZUIAN签证赶紧办下来",
+      "url": "https://s.weibo.com/weibo?q=369希望ZUIAN签证赶紧办下来",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788656+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788659+00:00",
+      "id": "6358f1cd-fb6d-4ca5-895b-d4b56c197fda"
+    },
+    {
+      "title": "微信被指在苹果折叠屏上公摊面积过大",
+      "summary": "微博热搜 - 微信被指在苹果折叠屏上公摊面积过大",
+      "url": "https://s.weibo.com/weibo?q=微信被指在苹果折叠屏上公摊面积过大",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788665+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788667+00:00",
+      "id": "f9c2f042-51e6-4c84-bba7-22ba14d833dc"
+    },
+    {
+      "title": "东部战区发布台湾光复纪念日海报",
+      "summary": "微博热搜 - 东部战区发布台湾光复纪念日海报",
+      "url": "https://s.weibo.com/weibo?q=东部战区发布台湾光复纪念日海报",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788673+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788675+00:00",
+      "id": "9851c507-a398-43ee-b7b3-d834ac1e3bfb"
+    },
+    {
+      "title": "璀璨之上 范丞丞",
+      "summary": "微博热搜 - 璀璨之上 范丞丞",
+      "url": "https://s.weibo.com/weibo?q=璀璨之上 范丞丞",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788681+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788684+00:00",
+      "id": "569052a7-49f0-4b55-ae17-58ba42ad177d"
+    },
+    {
+      "title": "黄景瑜张翰聚餐同框",
+      "summary": "微博热搜 - 黄景瑜张翰聚餐同框",
+      "url": "https://s.weibo.com/weibo?q=黄景瑜张翰聚餐同框",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788690+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788693+00:00",
+      "id": "7d7d511d-7274-4de6-835b-f802cf51d184"
+    },
+    {
+      "title": "管泽元米勒谈iG抽到HLE",
+      "summary": "微博热搜 - 管泽元米勒谈iG抽到HLE",
+      "url": "https://s.weibo.com/weibo?q=管泽元米勒谈iG抽到HLE",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788699+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788701+00:00",
+      "id": "8cecefce-e544-46f9-a522-696dfd9449c9"
+    },
+    {
+      "title": "女生不要谈太久的恋爱",
+      "summary": "微博热搜 - 女生不要谈太久的恋爱",
+      "url": "https://s.weibo.com/weibo?q=女生不要谈太久的恋爱",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788707+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788710+00:00",
+      "id": "e0541b75-8d3e-4e13-8655-eccc767d62a5"
+    },
+    {
+      "title": "盛艾敬跳过丁程鑫Monster",
+      "summary": "微博热搜 - 盛艾敬跳过丁程鑫Monster",
+      "url": "https://s.weibo.com/weibo?q=盛艾敬跳过丁程鑫Monster",
+      "source": "weibo_hot",
+      "hot_score": 0.0006790433637092065,
+      "category": "social",
+      "published_at": "2026-10-25T03:13:59.788716+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "微博",
+        "热搜"
+      ],
+      "fetched_at": "2026-10-25T03:13:59.788718+00:00",
+      "id": "03421bd6-d719-485e-a9e1-2c9cfcf6949a"
+    },
+    {
+      "title": "Rent the Cores, Keep the Phone: Building LineageOS 24 on EC2 and Iterating at Home",
+      "summary": "A full LineageOS 24.0 build outgrows a 32 GB home machine. A 192-core EC2 instance runs the long build, the 266 GB tree comes home at the same path, and the home machine packages the zip next to the phone. Claude Code drives both ends.",
+      "url": "https://dev.to/aws-builders/rent-the-cores-keep-the-phone-building-lineageos-24-on-ec2-and-iterating-at-home-4pmc",
+      "source": "devto",
+      "hot_score": 0.0006790433637092065,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558020+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fxbill9%2Fandroid_kernel_google_msm-4.9%2Fmain%2Fbackport-tools%2Flineage-24.0%2Faws%2Farticle%2Fdevto-cover.415eb5a0.jpg",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "aws",
+        "android"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558025+00:00",
+      "id": "e6b5b018-8fce-4550-a66d-87aaf0bc4c38"
+    },
+    {
+      "title": "Still: a diary that writes itself, as fast as my Raspberry Pi can think",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady  This...",
+      "url": "https://dev.to/zorexsalvo/still-a-diary-that-writes-itself-as-fast-as-my-raspberry-pi-can-think-58om",
+      "source": "devto",
+      "hot_score": 0.0006790433637092065,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558098+00:00",
+      "image_url": null,
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558101+00:00",
+      "id": "f16abc1f-932e-4dfb-9d72-3ab98e927701"
+    },
+    {
+      "title": "I Built an AI That Remembers the Promises We Forget",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...",
+      "url": "https://dev.to/hassan_shah_733ea1eb37c88/i-built-an-ai-that-remembers-the-promises-we-forget-9db",
+      "source": "devto",
+      "hot_score": 0.0006790433637092065,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558147+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fom58dp4bzf17tiqu68tc.jpg",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "devchallenge",
+        "hf26challenge"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558150+00:00",
+      "id": "409bf831-331d-48e7-ade2-bc588d55825d"
+    },
+    {
+      "title": "Google privacy policy and Gmail ads: the 18-word exception",
+      "summary": "Google's privacy policy now lets connected Gmail, Drive and Photos data reach personalized ads. The exact sentence diff, what Google says, and how to opt out.",
+      "url": "https://dev.to/axrisi/google-privacy-policy-and-gmail-ads-the-18-word-exception-5c35",
+      "source": "devto",
+      "hot_score": 0.0006790433637092065,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558192+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbw9ys058lzrcwkifyq9c.jpg",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "google",
+        "privacy"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558194+00:00",
+      "id": "c85dc4e9-7416-4fff-b02b-e90369b4fd0e"
+    },
+    {
+      "title": "Can You Trust Code You Didn't Write?",
+      "summary": "I'm Tony. I build and run web products, and Claude Code is my main development tool. A coding agent...",
+      "url": "https://dev.to/thetonynotes/can-you-trust-code-you-didnt-write-2e97",
+      "source": "devto",
+      "hot_score": 0.0006790433637092065,
+      "category": "tech",
+      "published_at": "2026-10-25T03:14:46.558229+00:00",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiec7zyuv7dw3ku6znxzk.png",
+      "source_icon": null,
+      "tags": [
+        "Dev.to",
+        "programming",
+        "ai"
+      ],
+      "fetched_at": "2026-10-25T03:14:46.558232+00:00",
+      "id": "79182c04-2ff0-4085-9ded-e18df29e110c"
+    }
+  ],
+  "sources": [
+    "juejin",
+    "douban",
+    "hackernews",
+    "thepaper",
+    "v2ex",
+    "devto",
+    "sina",
+    "tmtpost",
+    "miyoushe",
+    "rss",
+    "weibo_hot"
+  ]
+}
